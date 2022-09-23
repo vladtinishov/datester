@@ -34,6 +34,8 @@ const { tests } = storeToRefs(store)
 
 <style lang="scss" module>
 .testCards {
+  padding: 0 20px;
+
   display: grid;
   gap: 20px;
 
@@ -71,7 +73,6 @@ const { tests } = storeToRefs(store)
 
 @media (max-width: 880px)  {
   .testCards {
-    padding: 20px;
     display: grid;
     gap: 20px;
 

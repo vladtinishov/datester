@@ -1,11 +1,12 @@
 <script lang="ts" setup>
 import { TestCard } from 'entities/test';
-import { ChangeTheme } from 'features/change-theme';
+import { Input } from 'shared/ui';
+import { Toolbar } from 'widgets/toolbar'
 </script>
 
 <template>
   <div :class="$style.main">
-    <ChangeTheme />
+    <Toolbar />
     <TestCard />
   </div>
 </template>
@@ -18,5 +19,9 @@ import { ChangeTheme } from 'features/change-theme';
   margin: 0 auto;
 
   box-sizing: border-box;
+}
+
+.toolbar {
+  padding: 10px 20px;
 }
 </style>

@@ -49,6 +49,8 @@ const props = withDefaults(defineProps<IButton>(), {
 
 
 .button {
+  display: flex;
+  align-items: center;
   background-color: initial;
   border-radius: 4px;
   color: #FFFFFF;
