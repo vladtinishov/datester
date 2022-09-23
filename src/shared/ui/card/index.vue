@@ -14,17 +14,16 @@
 
 <style lang="scss" module>
 .main {
-  border: 1px solid black;
-  border-radius: 20px;
+  border: 1px solid rgb(65, 65, 65);
+  border-radius: 10px;
 
-  padding: 20px;
+  background: #313135;
+}
 
-  .body {
-    padding: 20px 0;
-    margin: 20px 0;
-
-    border-bottom: 1px solid gray;
-    border-top: 1px solid gray;
-  }
+.header {
+  border-bottom: 1px solid rgb(83, 83, 83);
+}
+.footer {
+  border-top: 1px solid rgb(83, 83, 83);
 }
 </style>

@@ -9,12 +9,17 @@
     "type-check": "vue-tsc --noEmit"
   },
   "dependencies": {
-    "pinia": "^2.0.21",
-    "vue": "^3.2.38",
-    "vue-router": "4",
+    "@fortawesome/fontawesome-svg-core": "^6.2.0",
+    "@fortawesome/free-brands-svg-icons": "^6.2.0",
+    "@fortawesome/free-regular-svg-icons": "^6.2.0",
+    "@fortawesome/free-solid-svg-icons": "^6.2.0",
+    "@fortawesome/vue-fontawesome": "^3.0.1",
     "axios": "^0.24.0",
     "normalizr": "^3.6.1",
-    "sass": "^1.43.4"
+    "pinia": "^2.0.22",
+    "sass": "^1.43.4",
+    "vue": "^3.2.38",
+    "vue-router": "4"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^1.9.3",
