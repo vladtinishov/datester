@@ -1,6 +1,17 @@
+<script lang="ts" setup>
+import { computed, useAttrs, useSlots } from 'vue';
+
+const slots = useSlots()
+
+// computed
+const renderIcon = computed(() => {
+  return !!slots.icon;
+})
+</script>
+
 <template>
   <div :class="$style.main">
-    <slot name="icon" :class="$style.icon"></slot>
+    <slot name="icon" :class="$style.icon" v-if="renderIcon"></slot>
     <input type="text">
   </div>
 </template>

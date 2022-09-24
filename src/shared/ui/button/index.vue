@@ -20,35 +20,6 @@ const props = withDefaults(defineProps<IButton>(), {
 
 <style lang="scss" module>
 .button {
-  background-color: initial;
-  background-image: linear-gradient(-180deg, #2fb87a, #156b45);
-  border-radius: 4px;
-  /* box-shadow: rgba(0, 0, 0, 0.1) 0 2px 4px; */
-  color: #FFFFFF;
-  cursor: pointer;
-  display: inline-block;
-  font-family: Inter,-apple-system,system-ui,Roboto,"Helvetica Neue",Arial,sans-serif;
-  height: 30px;
-  line-height: 30px;
-  outline: 0;
-  overflow: hidden;
-  padding: 0 20px;
-  pointer-events: auto;
-  position: relative;
-  text-align: center;
-  touch-action: manipulation;
-  user-select: none;
-  -webkit-user-select: none;
-  vertical-align: top;
-  white-space: nowrap;
-  width: 100%;
-  z-index: 9;
-  border: 0;
-}
-
-
-
-.button {
   display: flex;
   align-items: center;
   background-color: initial;
@@ -69,7 +40,6 @@ const props = withDefaults(defineProps<IButton>(), {
   vertical-align: top;
   white-space: nowrap;
   width: 100%;
-  z-index: 9;
   border: 0;
 }
 

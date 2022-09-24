@@ -1,12 +1,26 @@
+<script lang="ts" setup>
+import { computed, useAttrs, useSlots } from 'vue';
+
+const slots = useSlots()
+
+// computed
+const renderHeader = computed(() => {
+  return !!slots.header;
+})
+const renderFooter = computed(() => {
+  return !!slots.footer;
+})
+</script>
+
 <template>
   <div :class="$style.main">
-    <div :class="$style.header">
+    <div :class="$style.header" v-if="renderHeader">
       <slot name="header"></slot>
     </div>
     <div :class="$style.body">
       <slot name="body"></slot>
     </div>
-    <div :class="$style.footer">
+    <div :class="$style.footer" v-if="renderFooter">
       <slot name="footer"></slot>
     </div>
   </div>
