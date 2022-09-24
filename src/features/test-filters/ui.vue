@@ -1,10 +1,17 @@
 <script lang="ts" setup>
+import { useTests } from "entities/test/model/tests";
+import { storeToRefs } from "pinia";
 import { Card, Button, Drawer, Input } from "shared/ui";
 
+const store = useTests();
+const { isFiltersDrawerOpen } = storeToRefs(store)
+
+// methods
+const closeDrawer = () => store.closeFiltersDrawer();
 </script>
 
 <template>
-  <Drawer :width="400">
+  <Drawer :width="400" :isOpen="isFiltersDrawerOpen" @onClose="closeDrawer">
     <template #title>Фильтры</template>
     <template #body>
       <Card>

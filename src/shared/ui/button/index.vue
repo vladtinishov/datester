@@ -32,7 +32,6 @@ const props = withDefaults(defineProps<IButton>(), {
   overflow: hidden;
   padding: 0 20px;
   pointer-events: auto;
-  position: relative;
   text-align: center;
   touch-action: manipulation;
   user-select: none;

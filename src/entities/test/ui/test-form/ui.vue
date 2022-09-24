@@ -1,6 +1,12 @@
 <script lang="ts" setup>
+import { useTests } from "entities/test/model/tests";
 import { TestFilters } from "features/test-filters";
 import { Card, Button, Drawer, Input } from "shared/ui";
+
+const store = useTests();
+
+// methods
+const openDrawer = () => store.openFiltersDrawer();
 </script>
 
 <template>
@@ -9,7 +15,7 @@ import { Card, Button, Drawer, Input } from "shared/ui";
     <template #header>
       <div :class="$style.header">
         <span>Биология</span>
-        <Button :class="$style.filtersButton" type="success">Фильтры</Button>
+        <Button :class="$style.filtersButton" type="success" @click="openDrawer">Фильтры</Button>
         <div :class="$style.arrows">
           <font-awesome-icon icon="fa-solid fa-circle-arrow-left" :class="$style.arrow" />
           <span :class="$style.questionsCount">1/44</span>

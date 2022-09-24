@@ -2,6 +2,7 @@ import { defineStore } from "pinia";
 
 export const useTests = defineStore("tests", {
   state: () => ({
+    isFiltersDrawerOpen: false,
     tests: [
       {
         id: 0,
@@ -25,4 +26,12 @@ export const useTests = defineStore("tests", {
       },
     ]
   }),
+  actions: {
+    openFiltersDrawer() {
+      this.isFiltersDrawerOpen = true;
+    },
+    closeFiltersDrawer() {
+      this.isFiltersDrawerOpen = false;
+    }
+  }
 });

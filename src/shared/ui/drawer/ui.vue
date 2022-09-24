@@ -3,24 +3,32 @@ import { computed } from "vue-demi"
 
 export interface IDrawer {
   width: number;
+  isOpen: boolean;
 }
 
 const props = withDefaults(defineProps<IDrawer>(), {
   width: 500,
+  isOpen: false,
 })
+
+const emits = defineEmits(['onClose'])
 
 // computed
 const style = computed(() => ({
-  width: props.width
+  width: props.width,
+  right: props.isOpen ? 0 : '-1000px'
 }))
+
+// methods
+const close = () => emits('onClose');
 </script>
 
 <template>
-  <div :class="$style.main">
+  <div :class="$style.main" v-if="isOpen">
     <div :class="$style.drawerContainer" :style="style">
       <h3>
         <slot name="title"></slot>
-        <font-awesome-icon icon="fa-solid fa-circle-xmark" />
+        <font-awesome-icon icon="fa-solid fa-circle-xmark" @click="close" />
       </h3>
       <slot name="body"></slot>
     </div>
@@ -41,6 +49,7 @@ const style = computed(() => ({
 
 
   .drawerContainer {
+    transition: 1s;
     max-width: 100%;
     height: 100%;
 
