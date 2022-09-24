@@ -2,9 +2,17 @@
 import { useTests } from 'entities/test/model/tests';
 import { storeToRefs } from 'pinia';
 import { Card, Button } from 'shared/ui';
+import { useRoute, useRouter } from 'vue-router';
 
 const store = useTests();
+const router = useRouter();
+
 const { tests } = storeToRefs(store)
+
+// methods
+const goToTest = () => {
+  router.push({ name: 'test' })
+}
 </script>
 
 <template>
@@ -14,7 +22,7 @@ const { tests } = storeToRefs(store)
         <div :class="$style.header">
           <span>{{ test.name }}</span>
           <div class="actions">
-            <Button>Перейти</Button>
+            <Button @click="goToTest">Перейти</Button>
           </div>
         </div>
       </template>
