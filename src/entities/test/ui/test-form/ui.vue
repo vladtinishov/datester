@@ -98,6 +98,7 @@ const checkAnswer = (answer: { answer: string, isTrue: boolean}) => {
       </div>
     </template>
   </Card>
+  <br>
 </template>
 
 <style lang="scss" module>
