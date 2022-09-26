@@ -1,4 +1,5 @@
 import { defineStore } from "pinia";
+import { shuffle } from "shared/lib";
 
 export const useTests = defineStore("tests", {
   state: () => ({
@@ -433,11 +434,12 @@ export const useTests = defineStore("tests", {
       }
     },
     initQuestions() {
-      this.testQuestions = this.test.questions
+      this.testQuestions = this.test.questions;
+      this.testQuestions.forEach(q => q.answers = shuffle(q.answers))
+      this.testQuestions = shuffle(this.testQuestions);
     },
     setQuestionsByFilters(filters: { range: { start: number, end: number } }) {
       const { start, end } = filters.range;
-      console.log(start, end)
       this.testQuestions = this.test.questions.slice(start, end);
     }
   }
