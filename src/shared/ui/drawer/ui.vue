@@ -1,5 +1,5 @@
 <script lang="ts" setup>
-import { computed } from "vue-demi"
+import { computed, onMounted, toRefs, watch } from "vue-demi"
 
 export interface IDrawer {
   width: number;
@@ -15,14 +15,14 @@ const emits = defineEmits(['onClose'])
 
 // computed
 const mainStyle = computed(() => ({
-  // width: props.width,
-  // right: props.isOpen ? 0 : '-1000px'
   'display': 'grid',
   'grid-template-columns': `auto ${props.width}px`,
 }))
 
+let right = '0';
 const drawerStyle = computed(() => ({
   width: `${props.width}px`,
+  right: right,
 }))
 
 // methods
@@ -35,7 +35,7 @@ const close = () => emits('onClose');
     <div :class="$style.drawerContainer" :style="drawerStyle">
       <h3>
         <slot name="title"></slot>
-        <font-awesome-icon icon="fa-solid fa-circle-xmark" @click="close" />
+        <font-awesome-icon icon="fa-solid fa-xmark" @click="close" :class="$style.closeButton" />
       </h3>
       <slot name="body"></slot>
     </div>
@@ -48,6 +48,8 @@ const close = () => emits('onClose');
   height: 100%;
 
   position: absolute;
+
+  transition: 1s;
 
   top: 0;
   right: 0;
@@ -63,7 +65,7 @@ const close = () => emits('onClose');
     position: absolute;
 
     top: 0;
-    right: 0;
+    right: -1000px;
 
     background: #3b3b40;
 
@@ -74,6 +76,11 @@ const close = () => emits('onClose');
     h3 {
       display: flex;
       justify-content: space-between;
+    }
+
+    .closeButton {
+      font-size: 25px;
+      cursor: pointer;
     }
   }
 }

@@ -1,12 +1,29 @@
 <script lang="ts" setup>
 import { useTests } from "entities/test/model/tests";
 import { TestFilters } from "features/test-filters";
+import { storeToRefs } from "pinia";
 import { Card, Button, Drawer, Input } from "shared/ui";
+import { computed, ref } from "vue";
 
 const store = useTests();
 
+const { test } = storeToRefs(store);
+
+let questionIndex = ref(0);
+
+// computed
+const testName = computed(() => test.value.name)
+const testQuestions = computed(() => test.value.questions)
+const question = computed(() => testQuestions.value[questionIndex.value])
+
 // methods
 const openDrawer = () => store.openFiltersDrawer();
+const toNextQuestion = () => {
+  if (questionIndex.value < testQuestions.value.length - 1) questionIndex.value += 1;
+}
+const toPrevQuestion = () => {
+  if (questionIndex.value > 0) questionIndex.value -= 1;
+}
 </script>
 
 <template>
@@ -14,24 +31,34 @@ const openDrawer = () => store.openFiltersDrawer();
   <Card>
     <template #header>
       <div :class="$style.header">
-        <span>Биология</span>
+        <span style="user-select: none">{{ testName }}</span>
         <Button :class="$style.filtersButton" type="success" @click="openDrawer">Фильтры</Button>
         <div :class="$style.arrows">
-          <font-awesome-icon icon="fa-solid fa-circle-arrow-left" :class="$style.arrow" />
-          <span :class="$style.questionsCount">1/44</span>
-          <font-awesome-icon icon="fa-solid fa-circle-arrow-right" :class="$style.arrow" />
+          <font-awesome-icon 
+            icon="fa-solid fa-circle-arrow-left" 
+            :class="$style.arrow" 
+            @click="toPrevQuestion"
+          />
+          <span :class="$style.questionsCount">{{questionIndex + 1}}/{{testQuestions.length}}</span>
+          <font-awesome-icon 
+            icon="fa-solid fa-circle-arrow-right" 
+            :class="$style.arrow" 
+            @click="toNextQuestion"
+          />
         </div>
       </div>
     </template>
     <template #body>
       <div :class="$style.questionBody">
-        <div :class="$style.question">Когда было что-то там?</div>
+        <div :class="$style.question">{{ question.question }}</div>
         <div :class="$style.answersContainer">
-          <div :class="$style.answer">а) Что-то там</div>
-          <div :class="$style.answer">б) Что-то там</div>
-          <div :class="$style.answer">в) Что-то там</div>
-          <div :class="$style.answer">г) Что-то там</div>
-          <div :class="$style.answer">д) Что-то там</div>
+          <div
+            :class="$style.answer"
+            v-for="answer in question.answers"
+            :key="answer"
+          >
+            {{ answer.answer }}
+          </div>
         </div>
       </div>
     </template>
@@ -70,7 +97,10 @@ const openDrawer = () => store.openFiltersDrawer();
 
     .questionsCount {
       margin: 0 10px;
+
       font-size: 15px;
+
+      user-select: none;
     }
 
     .arrow {

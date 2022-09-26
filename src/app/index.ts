@@ -19,6 +19,7 @@ import {
   faCircleArrowRight,
   faCheckCircle,
   faXmarkCircle,
+  faXmark,
 } from "@fortawesome/free-solid-svg-icons";
 
 /* add icons to the library */
@@ -31,6 +32,7 @@ library.add(
   faCircleArrowRight,
   faCheckCircle,
   faXmarkCircle,
+  faXmark
 );
 
 const app = createApp(App);
