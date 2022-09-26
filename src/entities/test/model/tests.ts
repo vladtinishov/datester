@@ -39,6 +39,7 @@ export const useTests = defineStore("tests", {
       this.testQuestions = shuffle(this.testQuestions);
     },
     setQuestionsByFilters(filters: { range: { start: number, end: number } }) {
+      this.testResult = [];
       this.questionIndex = 0;
       const { start, end } = filters.range;
       this.testQuestions = this.test.questions.slice(start ? start - 1 : 0, end);
