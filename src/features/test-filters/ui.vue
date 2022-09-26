@@ -11,10 +11,13 @@ const closeDrawer = () => store.closeFiltersDrawer();
 </script>
 
 <template>
-  <Drawer :width="400" :isOpen="isFiltersDrawerOpen" @onClose="closeDrawer">
+  <Drawer :width="350" :isOpen="isFiltersDrawerOpen" @onClose="closeDrawer">
     <template #title>Фильтры</template>
     <template #body>
       <Card>
+        <template #header>
+          <div :class="$style.filtersHeader">Диапозон</div>
+        </template>
         <template #body>
           <div :class="$style.filtersBody">
             <div :class="$style.questionCountInput">
@@ -28,6 +31,7 @@ const closeDrawer = () => store.closeFiltersDrawer();
           </div>
         </template>
       </Card>
+      <Button size="large" type="success" :class="$style.button">Применить</Button>
     </template>
   </Drawer>
 </template>
@@ -53,5 +57,13 @@ const closeDrawer = () => store.closeFiltersDrawer();
   .questionCountLabel {
     margin-bottom: 4px;
   }
+}
+
+.button {
+  margin-top: 20px;
+}
+
+.filtersHeader {
+  padding: 10px;
 }
 </style>

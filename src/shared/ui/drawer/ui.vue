@@ -14,9 +14,15 @@ const props = withDefaults(defineProps<IDrawer>(), {
 const emits = defineEmits(['onClose'])
 
 // computed
-const style = computed(() => ({
-  width: props.width,
-  right: props.isOpen ? 0 : '-1000px'
+const mainStyle = computed(() => ({
+  // width: props.width,
+  // right: props.isOpen ? 0 : '-1000px'
+  'display': 'grid',
+  'grid-template-columns': `auto ${props.width}px`,
+}))
+
+const drawerStyle = computed(() => ({
+  width: `${props.width}px`,
 }))
 
 // methods
@@ -24,8 +30,9 @@ const close = () => emits('onClose');
 </script>
 
 <template>
-  <div :class="$style.main" v-if="isOpen">
-    <div :class="$style.drawerContainer" :style="style">
+  <div :class="$style.main" :style="mainStyle" v-if="isOpen">
+    <div :class="$style.overlay" @click="close"></div>
+    <div :class="$style.drawerContainer" :style="drawerStyle">
       <h3>
         <slot name="title"></slot>
         <font-awesome-icon icon="fa-solid fa-circle-xmark" @click="close" />
