@@ -1,24 +1,45 @@
 <script lang="ts" setup>
-import { computed, InputHTMLAttributes, useAttrs, useSlots } from 'vue';
+import { computed, InputHTMLAttributes, useAttrs, useSlots } from "vue";
 
-const slots = useSlots()
-const emit = defineEmits(['update:modelValue'])
+interface IInput {
+  type:
+    | "button"
+    | "checkbox"
+    | "color"
+    | "date"
+    | "datetime-local"
+    | "email"
+    | "file"
+    | "hidden"
+    | "image"
+    | "month"
+    | "number"
+    | "password"
+    | "text"
+    ;
+}
+
+const slots = useSlots();
+const emit = defineEmits(["update:modelValue"]);
+const props = withDefaults(defineProps<IInput>(), {
+  type: 'text'
+})
 // computed
 const renderIcon = computed(() => {
   return !!slots.icon;
-})
+});
 
 // methods
 const handleInput = (val: InputEvent) => {
   console.log((val.target as InputHTMLAttributes).value);
-  emit('update:modelValue', (val.target as InputHTMLAttributes).value)
-}
+  emit("update:modelValue", (val.target as InputHTMLAttributes).value);
+};
 </script>
 
 <template>
   <div :class="$style.main">
     <slot name="icon" :class="$style.icon" v-if="renderIcon"></slot>
-    <input type="text" @input="handleInput">
+    <input @input="handleInput" :type="props.type" />
   </div>
 </template>
 
@@ -52,7 +73,6 @@ const handleInput = (val: InputEvent) => {
     background: none;
     border: none;
     outline: none;
-
   }
 
   .icon {

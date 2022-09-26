@@ -13,7 +13,10 @@ const filters = ref({
 
 // methods
 const closeDrawer = () => store.closeFiltersDrawer();
-const setQuestionsByFilters = () => store.setQuestionsByFilters(filters.value);
+const setQuestionsByFilters = () => {
+  store.setQuestionsByFilters(filters.value)
+  closeDrawer()
+};
 </script>
 
 <template>
@@ -28,11 +31,11 @@ const setQuestionsByFilters = () => store.setQuestionsByFilters(filters.value);
           <div :class="$style.filtersBody">
             <div :class="$style.questionCountInput">
               <p :class="$style.questionCountLabel">С какого</p>
-              <Input v-model="filters.range.start" />
+              <Input v-model="filters.range.start" type="number" />
             </div>
             <div :class="$style.questionCountInput">
               <p :class="$style.questionCountLabel">По какой</p>
-              <Input v-model="filters.range.end" />
+              <Input v-model="filters.range.end" type="number" />
             </div>
           </div>
         </template>
