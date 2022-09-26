@@ -4,6 +4,7 @@ import { history } from "./history";
 
 export const useTests = defineStore("tests", {
   state: () => ({
+    questionIndex: 0,
     isFiltersDrawerOpen: false,
     testResult: [] as Array<{ index: number, result: boolean }>,
     tests: [
@@ -32,13 +33,21 @@ export const useTests = defineStore("tests", {
       }
     },
     initQuestions() {
+      this.questionIndex = 0;
       this.testQuestions = this.test.questions;
       this.testQuestions.forEach(q => q.answers = shuffle(q.answers))
       this.testQuestions = shuffle(this.testQuestions);
     },
     setQuestionsByFilters(filters: { range: { start: number, end: number } }) {
+      this.questionIndex = 0;
       const { start, end } = filters.range;
       this.testQuestions = this.test.questions.slice(start ? start - 1 : 0, end);
+    },
+    toNextQuestion() {
+      if (this.questionIndex < this.testQuestions.length - 1) this.questionIndex += 1;
+    },
+    toPrevQuestion() {
+      if (this.questionIndex > 0) this.questionIndex -= 1;
     }
   }
 });

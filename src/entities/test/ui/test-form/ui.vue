@@ -10,9 +10,8 @@ const store = useTests();
 
 store.initQuestions()
 
-const { test, testResult, testQuestions } = storeToRefs(store);
+const { test, testResult, testQuestions, questionIndex } = storeToRefs(store);
 
-let questionIndex = ref(0);
 let showResult = ref(false);
 let isRight = ref(false);
 
@@ -26,11 +25,11 @@ const falseAnswers = computed(() => testResult.value.filter(r => !r.result).leng
 const openDrawer = () => store.openFiltersDrawer();
 const toNextQuestion = () => {
   showResult.value = false;
-  if (questionIndex.value < testQuestions.value.length - 1) questionIndex.value += 1;
+  store.toNextQuestion();
 }
 const toPrevQuestion = () => {
   showResult.value = false;
-  if (questionIndex.value > 0) questionIndex.value -= 1;
+  store.toPrevQuestion();
 }
 
 const checkAnswer = (answer: { answer: string, isTrue: boolean}) => {
