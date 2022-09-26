@@ -3,11 +3,13 @@ import { useTests } from "entities/test/model/tests";
 import { TestFilters } from "features/test-filters";
 import { storeToRefs } from "pinia";
 import { Card, Button, Drawer, Input } from "shared/ui";
-import { computed, ref } from "vue";
+import { computed, onMounted, ref } from "vue";
 
 const store = useTests();
 
-const { test, testResult } = storeToRefs(store);
+store.initQuestions()
+
+const { test, testResult, testQuestions } = storeToRefs(store);
 
 let questionIndex = ref(0);
 let showResult = ref(false);
@@ -15,7 +17,6 @@ let isRight = ref(false);
 
 // computed
 const testName = computed(() => test.value.name)
-const testQuestions = computed(() => test.value.questions)
 const question = computed(() => testQuestions.value[questionIndex.value])
 const rightAnswers = computed(() => testResult.value.filter(r => r.result).length)
 const falseAnswers = computed(() => testResult.value.filter(r => !r.result).length)
@@ -39,6 +40,7 @@ const checkAnswer = (answer: { answer: string, isTrue: boolean}) => {
 
   store.setAnswerResult(questionIndex.value, isRight.value)
 }
+
 </script>
 
 <template>

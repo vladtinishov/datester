@@ -39,6 +39,366 @@ export const useTests = defineStore("tests", {
           ]
         },
         {
+          question: 'Кто был им?',
+          answers: [
+            { answer: 'Он', isTrue: true },
+            { answer: 'Она', isTrue: false },
+            { answer: 'Они', isTrue: false },
+            { answer: 'Оно', isTrue: false },
+          ]
+        },
+        {
+          question: 'Кто был им?',
+          answers: [
+            { answer: 'Он', isTrue: true },
+            { answer: 'Она', isTrue: false },
+            { answer: 'Они', isTrue: false },
+            { answer: 'Оно', isTrue: false },
+          ]
+        },
+        {
+          question: 'Кто был им?',
+          answers: [
+            { answer: 'Он', isTrue: true },
+            { answer: 'Она', isTrue: false },
+            { answer: 'Они', isTrue: false },
+            { answer: 'Оно', isTrue: false },
+          ]
+        },
+        {
+          question: 'Кто был им?',
+          answers: [
+            { answer: 'Он', isTrue: true },
+            { answer: 'Она', isTrue: false },
+            { answer: 'Они', isTrue: false },
+            { answer: 'Оно', isTrue: false },
+          ]
+        },
+        {
+          question: 'Кто был им?',
+          answers: [
+            { answer: 'Он', isTrue: true },
+            { answer: 'Она', isTrue: false },
+            { answer: 'Они', isTrue: false },
+            { answer: 'Оно', isTrue: false },
+          ]
+        },
+        {
+          question: 'Кто был им?',
+          answers: [
+            { answer: 'Он', isTrue: true },
+            { answer: 'Она', isTrue: false },
+            { answer: 'Они', isTrue: false },
+            { answer: 'Оно', isTrue: false },
+          ]
+        },
+        {
+          question: 'Кто был им?',
+          answers: [
+            { answer: 'Он', isTrue: true },
+            { answer: 'Она', isTrue: false },
+            { answer: 'Они', isTrue: false },
+            { answer: 'Оно', isTrue: false },
+          ]
+        },
+        {
+          question: 'Кто был им?',
+          answers: [
+            { answer: 'Он', isTrue: true },
+            { answer: 'Она', isTrue: false },
+            { answer: 'Они', isTrue: false },
+            { answer: 'Оно', isTrue: false },
+          ]
+        },
+        {
+          question: 'Кто был им?',
+          answers: [
+            { answer: 'Он', isTrue: true },
+            { answer: 'Она', isTrue: false },
+            { answer: 'Они', isTrue: false },
+            { answer: 'Оно', isTrue: false },
+          ]
+        },
+        {
+          question: 'Кто был им?',
+          answers: [
+            { answer: 'Он', isTrue: true },
+            { answer: 'Она', isTrue: false },
+            { answer: 'Они', isTrue: false },
+            { answer: 'Оно', isTrue: false },
+          ]
+        },
+        {
+          question: 'Кто был им?',
+          answers: [
+            { answer: 'Он', isTrue: true },
+            { answer: 'Она', isTrue: false },
+            { answer: 'Они', isTrue: false },
+            { answer: 'Оно', isTrue: false },
+          ]
+        },
+        {
+          question: 'Кто был им?',
+          answers: [
+            { answer: 'Он', isTrue: true },
+            { answer: 'Она', isTrue: false },
+            { answer: 'Они', isTrue: false },
+            { answer: 'Оно', isTrue: false },
+          ]
+        },
+        {
+          question: 'Кто был им?',
+          answers: [
+            { answer: 'Он', isTrue: true },
+            { answer: 'Она', isTrue: false },
+            { answer: 'Они', isTrue: false },
+            { answer: 'Оно', isTrue: false },
+          ]
+        },
+        {
+          question: 'Кто был им?',
+          answers: [
+            { answer: 'Он', isTrue: true },
+            { answer: 'Она', isTrue: false },
+            { answer: 'Они', isTrue: false },
+            { answer: 'Оно', isTrue: false },
+          ]
+        },
+        {
+          question: 'Кто был им?',
+          answers: [
+            { answer: 'Он', isTrue: true },
+            { answer: 'Она', isTrue: false },
+            { answer: 'Они', isTrue: false },
+            { answer: 'Оно', isTrue: false },
+          ]
+        },
+        {
+          question: 'Кто был им?',
+          answers: [
+            { answer: 'Он', isTrue: true },
+            { answer: 'Она', isTrue: false },
+            { answer: 'Они', isTrue: false },
+            { answer: 'Оно', isTrue: false },
+          ]
+        },
+        {
+          question: 'Кто был им?',
+          answers: [
+            { answer: 'Он', isTrue: true },
+            { answer: 'Она', isTrue: false },
+            { answer: 'Они', isTrue: false },
+            { answer: 'Оно', isTrue: false },
+          ]
+        },
+        {
+          question: 'Кто был им?',
+          answers: [
+            { answer: 'Он', isTrue: true },
+            { answer: 'Она', isTrue: false },
+            { answer: 'Они', isTrue: false },
+            { answer: 'Оно', isTrue: false },
+          ]
+        },
+        {
+          question: 'Кто был им?',
+          answers: [
+            { answer: 'Он', isTrue: true },
+            { answer: 'Она', isTrue: false },
+            { answer: 'Они', isTrue: false },
+            { answer: 'Оно', isTrue: false },
+          ]
+        },
+        {
+          question: 'Кто был им?',
+          answers: [
+            { answer: 'Он', isTrue: true },
+            { answer: 'Она', isTrue: false },
+            { answer: 'Они', isTrue: false },
+            { answer: 'Оно', isTrue: false },
+          ]
+        },
+        {
+          question: 'Кто был им?',
+          answers: [
+            { answer: 'Он', isTrue: true },
+            { answer: 'Она', isTrue: false },
+            { answer: 'Они', isTrue: false },
+            { answer: 'Оно', isTrue: false },
+          ]
+        },
+        {
+          question: 'Кто был им?',
+          answers: [
+            { answer: 'Он', isTrue: true },
+            { answer: 'Она', isTrue: false },
+            { answer: 'Они', isTrue: false },
+            { answer: 'Оно', isTrue: false },
+          ]
+        },
+        {
+          question: 'Кто был им?',
+          answers: [
+            { answer: 'Он', isTrue: true },
+            { answer: 'Она', isTrue: false },
+            { answer: 'Они', isTrue: false },
+            { answer: 'Оно', isTrue: false },
+          ]
+        },
+        {
+          question: 'Кто был им?',
+          answers: [
+            { answer: 'Он', isTrue: true },
+            { answer: 'Она', isTrue: false },
+            { answer: 'Они', isTrue: false },
+            { answer: 'Оно', isTrue: false },
+          ]
+        },
+        {
+          question: 'Кто был им?',
+          answers: [
+            { answer: 'Он', isTrue: true },
+            { answer: 'Она', isTrue: false },
+            { answer: 'Они', isTrue: false },
+            { answer: 'Оно', isTrue: false },
+          ]
+        },
+        {
+          question: 'Кто был им?',
+          answers: [
+            { answer: 'Он', isTrue: true },
+            { answer: 'Она', isTrue: false },
+            { answer: 'Они', isTrue: false },
+            { answer: 'Оно', isTrue: false },
+          ]
+        },
+        {
+          question: 'Кто был им?',
+          answers: [
+            { answer: 'Он', isTrue: true },
+            { answer: 'Она', isTrue: false },
+            { answer: 'Они', isTrue: false },
+            { answer: 'Оно', isTrue: false },
+          ]
+        },
+        {
+          question: 'Кто был им?',
+          answers: [
+            { answer: 'Он', isTrue: true },
+            { answer: 'Она', isTrue: false },
+            { answer: 'Они', isTrue: false },
+            { answer: 'Оно', isTrue: false },
+          ]
+        },
+        {
+          question: 'Кто был им?',
+          answers: [
+            { answer: 'Он', isTrue: true },
+            { answer: 'Она', isTrue: false },
+            { answer: 'Они', isTrue: false },
+            { answer: 'Оно', isTrue: false },
+          ]
+        },
+        {
+          question: 'Кто был им?',
+          answers: [
+            { answer: 'Он', isTrue: true },
+            { answer: 'Она', isTrue: false },
+            { answer: 'Они', isTrue: false },
+            { answer: 'Оно', isTrue: false },
+          ]
+        },
+        {
+          question: 'Кто был им?',
+          answers: [
+            { answer: 'Он', isTrue: true },
+            { answer: 'Она', isTrue: false },
+            { answer: 'Они', isTrue: false },
+            { answer: 'Оно', isTrue: false },
+          ]
+        },
+        {
+          question: 'Кто был им?',
+          answers: [
+            { answer: 'Он', isTrue: true },
+            { answer: 'Она', isTrue: false },
+            { answer: 'Они', isTrue: false },
+            { answer: 'Оно', isTrue: false },
+          ]
+        },
+        {
+          question: 'Кто был им?',
+          answers: [
+            { answer: 'Он', isTrue: true },
+            { answer: 'Она', isTrue: false },
+            { answer: 'Они', isTrue: false },
+            { answer: 'Оно', isTrue: false },
+          ]
+        },
+        {
+          question: 'Кто был им?',
+          answers: [
+            { answer: 'Он', isTrue: true },
+            { answer: 'Она', isTrue: false },
+            { answer: 'Они', isTrue: false },
+            { answer: 'Оно', isTrue: false },
+          ]
+        },
+        {
+          question: 'Кто был им?',
+          answers: [
+            { answer: 'Он', isTrue: true },
+            { answer: 'Она', isTrue: false },
+            { answer: 'Они', isTrue: false },
+            { answer: 'Оно', isTrue: false },
+          ]
+        },
+        {
+          question: 'Кто был им?',
+          answers: [
+            { answer: 'Он', isTrue: true },
+            { answer: 'Она', isTrue: false },
+            { answer: 'Они', isTrue: false },
+            { answer: 'Оно', isTrue: false },
+          ]
+        },
+        {
+          question: 'Кто был им?',
+          answers: [
+            { answer: 'Он', isTrue: true },
+            { answer: 'Она', isTrue: false },
+            { answer: 'Они', isTrue: false },
+            { answer: 'Оно', isTrue: false },
+          ]
+        },
+        {
+          question: 'Кто был им?',
+          answers: [
+            { answer: 'Он', isTrue: true },
+            { answer: 'Она', isTrue: false },
+            { answer: 'Они', isTrue: false },
+            { answer: 'Оно', isTrue: false },
+          ]
+        },
+        {
+          question: 'Кто был им?',
+          answers: [
+            { answer: 'Он', isTrue: true },
+            { answer: 'Она', isTrue: false },
+            { answer: 'Они', isTrue: false },
+            { answer: 'Оно', isTrue: false },
+          ]
+        },
+        {
+          question: 'Кто был им?',
+          answers: [
+            { answer: 'Он', isTrue: true },
+            { answer: 'Она', isTrue: false },
+            { answer: 'Они', isTrue: false },
+            { answer: 'Оно', isTrue: false },
+          ]
+        },
+        {
           question: 'Кто был ею?',
           answers: [
             { answer: 'Он', isTrue: false },
@@ -57,7 +417,8 @@ export const useTests = defineStore("tests", {
           ]
         },
       ]
-    }
+    },
+    testQuestions: [] as { question: string, answers: Array<{ answer: string, isTrue: boolean }>}[],
   }),
   actions: {
     openFiltersDrawer() {
@@ -70,6 +431,14 @@ export const useTests = defineStore("tests", {
       if (!this.testResult.find(r => r.index == index)) {
         this.testResult.push({ index, result })
       }
+    },
+    initQuestions() {
+      this.testQuestions = this.test.questions
+    },
+    setQuestionsByFilters(filters: { range: { start: number, end: number } }) {
+      const { start, end } = filters.range;
+      console.log(start, end)
+      this.testQuestions = this.test.questions.slice(start, end);
     }
   }
 });

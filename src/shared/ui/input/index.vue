@@ -1,18 +1,24 @@
 <script lang="ts" setup>
-import { computed, useAttrs, useSlots } from 'vue';
+import { computed, InputHTMLAttributes, useAttrs, useSlots } from 'vue';
 
 const slots = useSlots()
-
+const emit = defineEmits(['update:modelValue'])
 // computed
 const renderIcon = computed(() => {
   return !!slots.icon;
 })
+
+// methods
+const handleInput = (val: InputEvent) => {
+  console.log((val.target as InputHTMLAttributes).value);
+  emit('update:modelValue', (val.target as InputHTMLAttributes).value)
+}
 </script>
 
 <template>
   <div :class="$style.main">
     <slot name="icon" :class="$style.icon" v-if="renderIcon"></slot>
-    <input type="text">
+    <input type="text" @input="handleInput">
   </div>
 </template>
 

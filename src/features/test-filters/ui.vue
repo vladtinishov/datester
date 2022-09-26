@@ -2,12 +2,18 @@
 import { useTests } from "entities/test/model/tests";
 import { storeToRefs } from "pinia";
 import { Card, Button, Drawer, Input } from "shared/ui";
+import { ref } from "vue-demi";
 
 const store = useTests();
 const { isFiltersDrawerOpen } = storeToRefs(store)
 
+const filters = ref({
+  range: { start: 0, end: 40 }
+})
+
 // methods
 const closeDrawer = () => store.closeFiltersDrawer();
+const setQuestionsByFilters = () => store.setQuestionsByFilters(filters.value);
 </script>
 
 <template>
@@ -22,16 +28,16 @@ const closeDrawer = () => store.closeFiltersDrawer();
           <div :class="$style.filtersBody">
             <div :class="$style.questionCountInput">
               <p :class="$style.questionCountLabel">С какого</p>
-              <Input />
+              <Input v-model="filters.range.start" />
             </div>
             <div :class="$style.questionCountInput">
               <p :class="$style.questionCountLabel">По какой</p>
-              <Input />
+              <Input v-model="filters.range.end" />
             </div>
           </div>
         </template>
       </Card>
-      <Button size="large" type="success" :class="$style.button">Применить</Button>
+      <Button size="large" type="success" :class="$style.button" @click="setQuestionsByFilters">Применить</Button>
     </template>
   </Drawer>
 </template>
