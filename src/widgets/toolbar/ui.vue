@@ -25,9 +25,11 @@ import { Input, Button } from "shared/ui";
 
 .search {
   width: 250px;
+  margin-right: 10px;
 }
 .button {
   width: 150px;
+  margin-left: 10px;
 }
 
 .icon {
