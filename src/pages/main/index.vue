@@ -1,7 +1,11 @@
 <script lang="ts" setup>
+import { useHeader } from 'entities/layout';
 import { TestCard } from 'entities/test';
 import { Input } from 'shared/ui';
 import { Toolbar } from 'widgets/toolbar'
+
+const store = useHeader()
+store.setHeader('Главная')
 </script>
 
 <template>

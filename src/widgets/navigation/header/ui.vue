@@ -1,12 +1,16 @@
 <script lang="ts" setup>
 import { ChangeTheme } from 'features/change-theme';
 import { ChangeLanguage } from 'features/change-language';
+import { useHeader } from 'entities/layout';
+import { storeToRefs } from 'pinia';
 
+const store = useHeader()
+const { header } = storeToRefs(store);
 </script>
 
 <template>
   <div :class="$style.main">
-    <h2 :class="$style.title">Главная</h2>
+    <h2 :class="$style.title">{{ header }}</h2>
     <div :class="$style.actions">
       <ChangeLanguage />
       <ChangeTheme />
