@@ -14,7 +14,7 @@ export const useTests = defineStore("tests", {
       },
     ],
     test: {
-      name: 'Биология',
+      name: 'История КЗ',
       questions: history
     },
     testQuestions: [] as { question: string, answers: Array<{ answer: string, isTrue: boolean }>}[],
