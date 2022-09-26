@@ -56,22 +56,22 @@ const props = withDefaults(defineProps<IButton>(), {
 }
 
 .primary {
-  background-image: linear-gradient(-180deg, #23508a, #193b7a);
+  background: #3063a7;
 
   &:hover {
-    background-image: linear-gradient(-180deg, #335d94, #20458b);
+    background: #3c7bcc;
   }
 }
 .success {
-  background-image: linear-gradient(-180deg, #2fb87a, #156b45);
+  background: #2fb87a;
   &:hover {
-    background-image: linear-gradient(-180deg, #3cd691, #3fd390);
+    background: #35cf8a;
   }
 }
 .danger {
-  background-image: linear-gradient(-180deg, #b82626, #7a1a1a);
+  background: #b82626;
   &:hover {
-    background-image: linear-gradient(-180deg, #c93131, #9c2323);
+    background: #c23232;
 
   }
 }
