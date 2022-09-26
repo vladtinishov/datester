@@ -28,7 +28,7 @@ const goToTest = () => {
       </template>
       <template #body>
         <div :class="$style.testData">
-          <span>количество вопросов: 44</span>
+          <span>количество вопросов: 504</span>
         </div>
       </template>
       <template #footer>
