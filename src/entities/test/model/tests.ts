@@ -3,6 +3,7 @@ import { defineStore } from "pinia";
 export const useTests = defineStore("tests", {
   state: () => ({
     isFiltersDrawerOpen: false,
+    testResult: [] as Array<{ index: number, result: boolean }>,
     tests: [
       {
         id: 0,
@@ -64,6 +65,11 @@ export const useTests = defineStore("tests", {
     },
     closeFiltersDrawer() {
       this.isFiltersDrawerOpen = false;
+    },
+    setAnswerResult(index: number, result: boolean) {
+      if (!this.testResult.find(r => r.index == index)) {
+        this.testResult.push({ index, result })
+      }
     }
   }
 });

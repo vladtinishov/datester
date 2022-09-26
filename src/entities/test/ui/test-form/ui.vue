@@ -7,22 +7,37 @@ import { computed, ref } from "vue";
 
 const store = useTests();
 
-const { test } = storeToRefs(store);
+const { test, testResult } = storeToRefs(store);
 
 let questionIndex = ref(0);
+let showResult = ref(false);
+let isRight = ref(false);
 
 // computed
 const testName = computed(() => test.value.name)
 const testQuestions = computed(() => test.value.questions)
 const question = computed(() => testQuestions.value[questionIndex.value])
+const rightAnswers = computed(() => testResult.value.filter(r => r.result).length)
+const falseAnswers = computed(() => testResult.value.filter(r => !r.result).length)
 
 // methods
 const openDrawer = () => store.openFiltersDrawer();
 const toNextQuestion = () => {
+  showResult.value = false;
   if (questionIndex.value < testQuestions.value.length - 1) questionIndex.value += 1;
 }
 const toPrevQuestion = () => {
+  showResult.value = false;
   if (questionIndex.value > 0) questionIndex.value -= 1;
+}
+
+const checkAnswer = (answer: { answer: string, isTrue: boolean}) => {
+  showResult.value = true;
+
+  if (answer.isTrue) isRight.value = true;
+  else isRight.value = false;
+
+  store.setAnswerResult(questionIndex.value, isRight.value)
 }
 </script>
 
@@ -56,6 +71,7 @@ const toPrevQuestion = () => {
             :class="$style.answer"
             v-for="answer in question.answers"
             :key="answer"
+            @click="checkAnswer(answer)"
           >
             {{ answer.answer }}
           </div>
@@ -66,11 +82,15 @@ const toPrevQuestion = () => {
       <div :class="$style.footer">
         <div :class="$style.answerData">
           <font-awesome-icon icon="fa-solid fa-circle-check" :class="$style.right" />
-          <span>33</span>
+          <span>{{ rightAnswers }}</span>
         </div>
         <div :class="$style.answerData">
           <font-awesome-icon icon="fa-solid fa-circle-xmark" :class="$style.false" />
-          <span>22</span>
+          <span>{{ falseAnswers }}</span>
+        </div>
+        <div :class="$style.result" v-if="showResult">
+          <div v-if="isRight" :class="$style.rightAnswer">Верно</div>
+          <div v-else :class="$style.falseAnswer">Не верно</div>
         </div>
       </div>
     </template>
@@ -153,6 +173,13 @@ const toPrevQuestion = () => {
   }
 
   .false {
+    color: rgb(175, 46, 46);
+  }
+
+  .rightAnswer {
+    color: rgb(41, 153, 41);
+  }
+  .falseAnswer {
     color: rgb(175, 46, 46);
   }
 }
