@@ -51,12 +51,12 @@ const checkValues = () => {
   display: flex;
   align-items: center;
 
-  padding: 0 5px;
+  padding: 0 0px;
 
   input {
     box-sizing: border-box;
 
-    padding: 8px 3px;
+    padding: 8px 0px;
     margin: 0 15px;
 
     color: rgb(190, 190, 190);
