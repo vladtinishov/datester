@@ -48,7 +48,7 @@ const checkAnswer = (answer: { answer: string, isTrue: boolean}) => {
   <Card>
     <template #header>
       <div :class="$style.header">
-        <span style="user-select: none">{{ testName }}</span>
+        <span style="user-select: none" v-html="testName"></span>
         <Button :class="$style.filtersButton" type="success" @click="openDrawer">Фильтры</Button>
         <div :class="$style.arrows">
           <font-awesome-icon 
@@ -67,15 +67,15 @@ const checkAnswer = (answer: { answer: string, isTrue: boolean}) => {
     </template>
     <template #body>
       <div :class="$style.questionBody">
-        <div :class="$style.question">{{ question.question }}</div>
+        <div :class="$style.question" v-html="question.question"></div>
         <div :class="$style.answersContainer">
           <div
             :class="$style.answer"
             v-for="answer in question.answers"
             :key="answer"
             @click="checkAnswer(answer)"
+            v-html="answer.answer"
           >
-            {{ answer.answer }}
           </div>
         </div>
       </div>
