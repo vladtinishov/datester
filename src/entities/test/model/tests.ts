@@ -42,7 +42,7 @@ export const useTests = defineStore("tests", {
       this.testResult = [];
       this.questionIndex = 0;
       const { start, end } = filters.range;
-      this.testQuestions = this.test.questions.slice(start ? start - 1 : 0, end);
+      this.testQuestions = shuffle(this.test.questions.slice(start ? start - 1 : 0, end));
     },
     toNextQuestion() {
       if (this.questionIndex < this.testQuestions.length - 1) this.questionIndex += 1;
