@@ -8,7 +8,7 @@ const store = useTests();
 const { isFiltersDrawerOpen } = storeToRefs(store)
 
 // computed
-const questionsCount = computed(() => store.testQuestions.length)
+const questionsCount = computed(() => store.test.questions.length)
 
 
 const filters = ref({
