@@ -34,7 +34,7 @@ export const useTests = defineStore("tests", {
     },
     initQuestions() {
       this.questionIndex = 0;
-      this.testQuestions = this.test.questions;
+      this.testQuestions = JSON.parse(JSON.stringify(this.test.questions));
       this.testQuestions.forEach(q => q.answers = shuffle(q.answers))
       this.testQuestions = shuffle(this.testQuestions);
     },

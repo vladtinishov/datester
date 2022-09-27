@@ -1,11 +1,6 @@
-import { Card } from "./card"
-import { Button } from "./button"
-import { Input } from "./input"
-import { Drawer } from "./drawer"
-
-export {
-  Card,
-  Button,
-  Input,
-  Drawer,
-}
+export * from "./card"
+export * from "./button"
+export * from "./input"
+export * from "./drawer"
+export * from "./drawer"
+export * from "./number-input"

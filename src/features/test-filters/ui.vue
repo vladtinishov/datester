@@ -1,14 +1,18 @@
 <script lang="ts" setup>
 import { useTests } from "entities/test/model/tests";
 import { storeToRefs } from "pinia";
-import { Card, Button, Drawer, Input } from "shared/ui";
-import { ref } from "vue-demi";
+import { Card, Button, Drawer, NumberInput } from "shared/ui";
+import { computed, ref } from "vue-demi";
 
 const store = useTests();
 const { isFiltersDrawerOpen } = storeToRefs(store)
 
+// computed
+const questionsCount = computed(() => store.testQuestions.length)
+
+
 const filters = ref({
-  range: { start: 0, end: 40 }
+  range: { start: 0, end: questionsCount.value }
 })
 
 // methods
@@ -31,11 +35,11 @@ const setQuestionsByFilters = () => {
           <div :class="$style.filtersBody">
             <div :class="$style.questionCountInput">
               <p :class="$style.questionCountLabel">С какого</p>
-              <Input v-model="filters.range.start" type="number" />
+              <NumberInput v-model="filters.range.start" type="number" :min="0" :max="questionsCount" />
             </div>
             <div :class="$style.questionCountInput">
               <p :class="$style.questionCountLabel">По какой</p>
-              <Input v-model="filters.range.end" type="number" />
+              <NumberInput v-model="filters.range.end" type="number" :min="0" :max="questionsCount" />
             </div>
           </div>
         </template>
