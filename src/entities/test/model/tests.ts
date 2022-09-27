@@ -13,6 +13,11 @@ export const useTests = defineStore("tests", {
         name: 'История КЗ',
         questionCount: 504,
       },
+      {
+        id: 2,
+        name: 'Философия',
+        questionCount: 544,
+      },
     ],
     test: {
       name: 'История КЗ',
@@ -42,7 +47,8 @@ export const useTests = defineStore("tests", {
       this.testResult = [];
       this.questionIndex = 0;
       const { start, end } = filters.range;
-      this.testQuestions = shuffle(this.test.questions.slice(start ? start - 1 : 0, end));
+      this.testQuestions.forEach(q => q.answers = shuffle(q.answers))
+      this.testQuestions = shuffle(this.testQuestions)
     },
     toNextQuestion() {
       if (this.questionIndex < this.testQuestions.length - 1) this.questionIndex += 1;
