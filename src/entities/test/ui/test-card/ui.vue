@@ -6,12 +6,14 @@ import { useRoute, useRouter } from 'vue-router';
 
 const store = useTests();
 const router = useRouter();
+const route = useRoute();
 
 const { tests } = storeToRefs(store)
 
+
 // methods
-const goToTest = () => {
-  router.push({ name: 'test' })
+const goToTest = (id: number) => {
+  router.push({ name: 'test', params: { id } })
 }
 </script>
 
@@ -22,7 +24,7 @@ const goToTest = () => {
         <div :class="$style.header">
           <span>{{ test.name }}</span>
           <div class="actions">
-            <Button @click="goToTest">Перейти</Button>
+            <Button @click="goToTest(test.id)">Перейти</Button>
           </div>
         </div>
       </template>

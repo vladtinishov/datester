@@ -4,20 +4,20 @@ export const philosophy = [
     "num": 1,
     "answers": [
       {
-        "answerText": "одновременно в Древних Индии, Китае и Греции",
-        "isRight": true
+        "answer": "одновременно в Древних Индии, Китае и Греции",
+        "isTrue": true
       },
       {
-        "answerText": "в Европе",
-        "isRight": false
+        "answer": "в Европе",
+        "isTrue": false
       },
       {
-        "answerText": "в Древнем Китае",
-        "isRight": false
+        "answer": "в Древнем Китае",
+        "isTrue": false
       },
       {
-        "answerText": "в Древней Индии",
-        "isRight": false
+        "answer": "в Древней Индии",
+        "isTrue": false
       }
     ]
   },
@@ -26,20 +26,20 @@ export const philosophy = [
     "num": 2,
     "answers": [
       {
-        "answerText": "искусство спора",
-        "isRight": true
+        "answer": "искусство спора",
+        "isTrue": true
       },
       {
-        "answerText": "человек как часть мироздания",
-        "isRight": false
+        "answer": "человек как часть мироздания",
+        "isTrue": false
       },
       {
-        "answerText": "мировая душа",
-        "isRight": false
+        "answer": "мировая душа",
+        "isTrue": false
       },
       {
-        "answerText": "степень познания",
-        "isRight": false
+        "answer": "степень познания",
+        "isTrue": false
       }
     ]
   },
@@ -48,20 +48,20 @@ export const philosophy = [
     "num": 3,
     "answers": [
       {
-        "answerText": "учение, отрицающее личного Бога и приближающее его к природе, отождествляя их",
-        "isRight": true
+        "answer": "учение, отрицающее личного Бога и приближающее его к природе, отождествляя их",
+        "isTrue": true
       },
       {
-        "answerText": "учение, утверждающее познаваемость мира",
-        "isRight": false
+        "answer": "учение, утверждающее познаваемость мира",
+        "isTrue": false
       },
       {
-        "answerText": "учение, о духовной культуре общества",
-        "isRight": false
+        "answer": "учение, о духовной культуре общества",
+        "isTrue": false
       },
       {
-        "answerText": "о сущности познания, о путях постижения истины",
-        "isRight": false
+        "answer": "о сущности познания, о путях постижения истины",
+        "isTrue": false
       }
     ]
   },
@@ -70,20 +70,20 @@ export const philosophy = [
     "num": 4,
     "answers": [
       {
-        "answerText": "Открытое общество и его враги",
-        "isRight": true
+        "answer": "Открытое общество и его враги",
+        "isTrue": true
       },
       {
-        "answerText": "Утопия",
-        "isRight": false
+        "answer": "Утопия",
+        "isTrue": false
       },
       {
-        "answerText": "Город солнца",
-        "isRight": false
+        "answer": "Город солнца",
+        "isTrue": false
       },
       {
-        "answerText": "Государь",
-        "isRight": false
+        "answer": "Государь",
+        "isTrue": false
       }
     ]
   },
@@ -92,20 +92,20 @@ export const philosophy = [
     "num": 5,
     "answers": [
       {
-        "answerText": "принципиальной познаваемости мира",
-        "isRight": true
+        "answer": "принципиальной познаваемости мира",
+        "isTrue": true
       },
       {
-        "answerText": "непознаваемости мира",
-        "isRight": false
+        "answer": "непознаваемости мира",
+        "isTrue": false
       },
       {
-        "answerText": "сотворенности мира богом",
-        "isRight": false
+        "answer": "сотворенности мира богом",
+        "isTrue": false
       },
       {
-        "answerText": "человека как субъекта и объекта познания",
-        "isRight": false
+        "answer": "человека как субъекта и объекта познания",
+        "isTrue": false
       }
     ]
   },
@@ -114,20 +114,20 @@ export const philosophy = [
     "num": 6,
     "answers": [
       {
-        "answerText": "Нового времени",
-        "isRight": true
+        "answer": "Нового времени",
+        "isTrue": true
       },
       {
-        "answerText": "Античности",
-        "isRight": false
+        "answer": "Античности",
+        "isTrue": false
       },
       {
-        "answerText": "средних веков",
-        "isRight": false
+        "answer": "средних веков",
+        "isTrue": false
       },
       {
-        "answerText": "в XX веке",
-        "isRight": false
+        "answer": "в XX веке",
+        "isTrue": false
       }
     ]
   },
@@ -136,20 +136,20 @@ export const philosophy = [
     "num": 7,
     "answers": [
       {
-        "answerText": "Общественное бытие (общественное производство) определяет общественное сознание",
-        "isRight": true
+        "answer": "Общественное бытие (общественное производство) определяет общественное сознание",
+        "isTrue": true
       },
       {
-        "answerText": "Общественное бытие определяется общественным сознанием",
-        "isRight": false
+        "answer": "Общественное бытие определяется общественным сознанием",
+        "isTrue": false
       },
       {
-        "answerText": "Общественное бытие и общественное сознание не зависят друг от друга",
-        "isRight": false
+        "answer": "Общественное бытие и общественное сознание не зависят друг от друга",
+        "isTrue": false
       },
       {
-        "answerText": "Общественное бытие и общественное сознание исключают друг друга",
-        "isRight": false
+        "answer": "Общественное бытие и общественное сознание исключают друг друга",
+        "isTrue": false
       }
     ]
   },
@@ -158,20 +158,20 @@ export const philosophy = [
     "num": 8,
     "answers": [
       {
-        "answerText": "Гуманизм",
-        "isRight": true
+        "answer": "Гуманизм",
+        "isTrue": true
       },
       {
-        "answerText": "томизм",
-        "isRight": false
+        "answer": "томизм",
+        "isTrue": false
       },
       {
-        "answerText": "неотомизм",
-        "isRight": false
+        "answer": "неотомизм",
+        "isTrue": false
       },
       {
-        "answerText": "антропоморфизм",
-        "isRight": false
+        "answer": "антропоморфизм",
+        "isTrue": false
       }
     ]
   },
@@ -180,20 +180,20 @@ export const philosophy = [
     "num": 9,
     "answers": [
       {
-        "answerText": "&quot;Римский клуб&quot;",
-        "isRight": true
+        "answer": "&quot;Римский клуб&quot;",
+        "isTrue": true
       },
       {
-        "answerText": "&quot;Движение зелёных&quot;",
-        "isRight": false
+        "answer": "&quot;Движение зелёных&quot;",
+        "isTrue": false
       },
       {
-        "answerText": "ООН",
-        "isRight": false
+        "answer": "ООН",
+        "isTrue": false
       },
       {
-        "answerText": "ЮНЕСКО",
-        "isRight": false
+        "answer": "ЮНЕСКО",
+        "isTrue": false
       }
     ]
   },
@@ -202,20 +202,20 @@ export const philosophy = [
     "num": 10,
     "answers": [
       {
-        "answerText": "деизм",
-        "isRight": true
+        "answer": "деизм",
+        "isTrue": true
       },
       {
-        "answerText": "креационизм",
-        "isRight": false
+        "answer": "креационизм",
+        "isTrue": false
       },
       {
-        "answerText": "провиденциализм",
-        "isRight": false
+        "answer": "провиденциализм",
+        "isTrue": false
       },
       {
-        "answerText": "гуманизм",
-        "isRight": false
+        "answer": "гуманизм",
+        "isTrue": false
       }
     ]
   },
@@ -224,20 +224,20 @@ export const philosophy = [
     "num": 11,
     "answers": [
       {
-        "answerText": "совместное, взаимосогласованное развитие человека и природы",
-        "isRight": true
+        "answer": "совместное, взаимосогласованное развитие человека и природы",
+        "isTrue": true
       },
       {
-        "answerText": "взаимодействие индивида и общества",
-        "isRight": false
+        "answer": "взаимодействие индивида и общества",
+        "isTrue": false
       },
       {
-        "answerText": "современная теория креационизма",
-        "isRight": false
+        "answer": "современная теория креационизма",
+        "isTrue": false
       },
       {
-        "answerText": "синоним эволюционного подхода",
-        "isRight": false
+        "answer": "синоним эволюционного подхода",
+        "isTrue": false
       }
     ]
   },
@@ -246,20 +246,20 @@ export const philosophy = [
     "num": 12,
     "answers": [
       {
-        "answerText": "Аль-Фараби, Ибн-Сина, Ибн-Рушд",
-        "isRight": true
+        "answer": "Аль-Фараби, Ибн-Сина, Ибн-Рушд",
+        "isTrue": true
       },
       {
-        "answerText": "Вольтер, Руссо, Дидро",
-        "isRight": false
+        "answer": "Вольтер, Руссо, Дидро",
+        "isTrue": false
       },
       {
-        "answerText": "Тойнби, Шпенглер, Вебер",
-        "isRight": false
+        "answer": "Тойнби, Шпенглер, Вебер",
+        "isTrue": false
       },
       {
-        "answerText": "Кант, Фихте, Гегель",
-        "isRight": false
+        "answer": "Кант, Фихте, Гегель",
+        "isTrue": false
       }
     ]
   },
@@ -268,20 +268,20 @@ export const philosophy = [
     "num": 13,
     "answers": [
       {
-        "answerText": "Ж. Баласагуни",
-        "isRight": true
+        "answer": "Ж. Баласагуни",
+        "isTrue": true
       },
       {
-        "answerText": "М. Кашгари",
-        "isRight": false
+        "answer": "М. Кашгари",
+        "isTrue": false
       },
       {
-        "answerText": "С. Бакыргани",
-        "isRight": false
+        "answer": "С. Бакыргани",
+        "isTrue": false
       },
       {
-        "answerText": "Х.А. Яссауи",
-        "isRight": false
+        "answer": "Х.А. Яссауи",
+        "isTrue": false
       }
     ]
   },
@@ -290,20 +290,20 @@ export const philosophy = [
     "num": 14,
     "answers": [
       {
-        "answerText": "Западничество",
-        "isRight": true
+        "answer": "Западничество",
+        "isTrue": true
       },
       {
-        "answerText": "Экзистенциализм",
-        "isRight": false
+        "answer": "Экзистенциализм",
+        "isTrue": false
       },
       {
-        "answerText": "Модернизм",
-        "isRight": false
+        "answer": "Модернизм",
+        "isTrue": false
       },
       {
-        "answerText": "Славянофильство",
-        "isRight": false
+        "answer": "Славянофильство",
+        "isTrue": false
       }
     ]
   },
@@ -312,20 +312,20 @@ export const philosophy = [
     "num": 15,
     "answers": [
       {
-        "answerText": "Анархизм",
-        "isRight": true
+        "answer": "Анархизм",
+        "isTrue": true
       },
       {
-        "answerText": "Позитивизм",
-        "isRight": false
+        "answer": "Позитивизм",
+        "isTrue": false
       },
       {
-        "answerText": "Славянофильство",
-        "isRight": false
+        "answer": "Славянофильство",
+        "isTrue": false
       },
       {
-        "answerText": "Космизм",
-        "isRight": false
+        "answer": "Космизм",
+        "isTrue": false
       }
     ]
   },
@@ -334,20 +334,20 @@ export const philosophy = [
     "num": 16,
     "answers": [
       {
-        "answerText": "Сущность человека иррациональна и скрыта, проявляется через внутренний мир и в ситуации выбора",
-        "isRight": true
+        "answer": "Сущность человека иррациональна и скрыта, проявляется через внутренний мир и в ситуации выбора",
+        "isTrue": true
       },
       {
-        "answerText": "Человек- разумное существо",
-        "isRight": false
+        "answer": "Человек- разумное существо",
+        "isTrue": false
       },
       {
-        "answerText": "Человек есть совокупность общественных отношений",
-        "isRight": false
+        "answer": "Человек есть совокупность общественных отношений",
+        "isTrue": false
       },
       {
-        "answerText": "Человек- высший продукт природы",
-        "isRight": false
+        "answer": "Человек- высший продукт природы",
+        "isTrue": false
       }
     ]
   },
@@ -356,20 +356,20 @@ export const philosophy = [
     "num": 17,
     "answers": [
       {
-        "answerText": "вещь-в-себе",
-        "isRight": true
+        "answer": "вещь-в-себе",
+        "isTrue": true
       },
       {
-        "answerText": "ассимиляция",
-        "isRight": false
+        "answer": "ассимиляция",
+        "isTrue": false
       },
       {
-        "answerText": "материя",
-        "isRight": false
+        "answer": "материя",
+        "isTrue": false
       },
       {
-        "answerText": "фальсификация",
-        "isRight": false
+        "answer": "фальсификация",
+        "isTrue": false
       }
     ]
   },
@@ -378,20 +378,20 @@ export const philosophy = [
     "num": 18,
     "answers": [
       {
-        "answerText": "Т. Гоббсу",
-        "isRight": true
+        "answer": "Т. Гоббсу",
+        "isTrue": true
       },
       {
-        "answerText": "Аристотелю",
-        "isRight": false
+        "answer": "Аристотелю",
+        "isTrue": false
       },
       {
-        "answerText": "Канту",
-        "isRight": false
+        "answer": "Канту",
+        "isTrue": false
       },
       {
-        "answerText": "О. Конту",
-        "isRight": false
+        "answer": "О. Конту",
+        "isTrue": false
       }
     ]
   },
@@ -400,20 +400,20 @@ export const philosophy = [
     "num": 19,
     "answers": [
       {
-        "answerText": "архетип коллективного бессознательного",
-        "isRight": true
+        "answer": "архетип коллективного бессознательного",
+        "isTrue": true
       },
       {
-        "answerText": "супер-эго",
-        "isRight": false
+        "answer": "супер-эго",
+        "isTrue": false
       },
       {
-        "answerText": "архетип индивидуального бессознательного",
-        "isRight": false
+        "answer": "архетип индивидуального бессознательного",
+        "isTrue": false
       },
       {
-        "answerText": "архетип ценностей",
-        "isRight": false
+        "answer": "архетип ценностей",
+        "isTrue": false
       }
     ]
   },
@@ -422,20 +422,20 @@ export const philosophy = [
     "num": 20,
     "answers": [
       {
-        "answerText": "Жизнь человека на родной земле, счастье и смысл его жизни",
-        "isRight": true
+        "answer": "Жизнь человека на родной земле, счастье и смысл его жизни",
+        "isTrue": true
       },
       {
-        "answerText": "Формы и методы познания, источники знания",
-        "isRight": false
+        "answer": "Формы и методы познания, источники знания",
+        "isTrue": false
       },
       {
-        "answerText": "Бытие, его формы, структура мира",
-        "isRight": false
+        "answer": "Бытие, его формы, структура мира",
+        "isTrue": false
       },
       {
-        "answerText": "Бог и пути его постижения",
-        "isRight": false
+        "answer": "Бог и пути его постижения",
+        "isTrue": false
       }
     ]
   },
@@ -444,20 +444,20 @@ export const philosophy = [
     "num": 21,
     "answers": [
       {
-        "answerText": "Истины",
-        "isRight": true
+        "answer": "Истины",
+        "isTrue": true
       },
       {
-        "answerText": "Товарища",
-        "isRight": false
+        "answer": "Товарища",
+        "isTrue": false
       },
       {
-        "answerText": "Заблуждения",
-        "isRight": false
+        "answer": "Заблуждения",
+        "isTrue": false
       },
       {
-        "answerText": "Наставления",
-        "isRight": false
+        "answer": "Наставления",
+        "isTrue": false
       }
     ]
   },
@@ -466,20 +466,20 @@ export const philosophy = [
     "num": 22,
     "answers": [
       {
-        "answerText": "Просвещения",
-        "isRight": true
+        "answer": "Просвещения",
+        "isTrue": true
       },
       {
-        "answerText": "Эмпиризма",
-        "isRight": false
+        "answer": "Эмпиризма",
+        "isTrue": false
       },
       {
-        "answerText": "Реформации",
-        "isRight": false
+        "answer": "Реформации",
+        "isTrue": false
       },
       {
-        "answerText": "Возрождения",
-        "isRight": false
+        "answer": "Возрождения",
+        "isTrue": false
       }
     ]
   },
@@ -488,20 +488,20 @@ export const philosophy = [
     "num": 23,
     "answers": [
       {
-        "answerText": "Рационализм",
-        "isRight": true
+        "answer": "Рационализм",
+        "isTrue": true
       },
       {
-        "answerText": "Агностицизм",
-        "isRight": false
+        "answer": "Агностицизм",
+        "isTrue": false
       },
       {
-        "answerText": "Сенсуализм",
-        "isRight": false
+        "answer": "Сенсуализм",
+        "isTrue": false
       },
       {
-        "answerText": "Гилозоизм",
-        "isRight": false
+        "answer": "Гилозоизм",
+        "isTrue": false
       }
     ]
   },
@@ -510,20 +510,20 @@ export const philosophy = [
     "num": 24,
     "answers": [
       {
-        "answerText": "полное или частичное отрицание принципиальной возможности познания",
-        "isRight": true
+        "answer": "полное или частичное отрицание принципиальной возможности познания",
+        "isTrue": true
       },
       {
-        "answerText": "рассмотрение объектов познания",
-        "isRight": false
+        "answer": "рассмотрение объектов познания",
+        "isTrue": false
       },
       {
-        "answerText": "указание на религиозный опыт как единственный источник познания",
-        "isRight": false
+        "answer": "указание на религиозный опыт как единственный источник познания",
+        "isTrue": false
       },
       {
-        "answerText": "метод познания",
-        "isRight": false
+        "answer": "метод познания",
+        "isTrue": false
       }
     ]
   },
@@ -532,20 +532,20 @@ export const philosophy = [
     "num": 25,
     "answers": [
       {
-        "answerText": "всегда ставит непреходящие, вечные вопросы человеческого бытия",
-        "isRight": true
+        "answer": "всегда ставит непреходящие, вечные вопросы человеческого бытия",
+        "isTrue": true
       },
       {
-        "answerText": "всегда носит атеистический характер",
-        "isRight": false
+        "answer": "всегда носит атеистический характер",
+        "isTrue": false
       },
       {
-        "answerText": "основана на религии, теологии",
-        "isRight": false
+        "answer": "основана на религии, теологии",
+        "isTrue": false
       },
       {
-        "answerText": "призывает стремиться к материальным благам",
-        "isRight": false
+        "answer": "призывает стремиться к материальным благам",
+        "isTrue": false
       }
     ]
   },
@@ -554,20 +554,20 @@ export const philosophy = [
     "num": 26,
     "answers": [
       {
-        "answerText": "философы разных взглядов и убеждений, но сформировавшиеся в едином пространстве и времени культуры",
-        "isRight": true
+        "answer": "философы разных взглядов и убеждений, но сформировавшиеся в едином пространстве и времени культуры",
+        "isTrue": true
       },
       {
-        "answerText": "философы и ученые относящееся к одной философской школе",
-        "isRight": false
+        "answer": "философы и ученые относящееся к одной философской школе",
+        "isTrue": false
       },
       {
-        "answerText": "философы различных исторических периодов, которых объединяет одна идея, проблема",
-        "isRight": false
+        "answer": "философы различных исторических периодов, которых объединяет одна идея, проблема",
+        "isTrue": false
       },
       {
-        "answerText": "философские системы сложившиеся в древности",
-        "isRight": false
+        "answer": "философские системы сложившиеся в древности",
+        "isTrue": false
       }
     ]
   },
@@ -576,20 +576,20 @@ export const philosophy = [
     "num": 27,
     "answers": [
       {
-        "answerText": "Наука о совести",
-        "isRight": true
+        "answer": "Наука о совести",
+        "isTrue": true
       },
       {
-        "answerText": "Наука о жизни",
-        "isRight": false
+        "answer": "Наука о жизни",
+        "isTrue": false
       },
       {
-        "answerText": "Наука о справедливости",
-        "isRight": false
+        "answer": "Наука о справедливости",
+        "isTrue": false
       },
       {
-        "answerText": "Наука о добре",
-        "isRight": false
+        "answer": "Наука о добре",
+        "isTrue": false
       }
     ]
   },
@@ -598,20 +598,20 @@ export const philosophy = [
     "num": 28,
     "answers": [
       {
-        "answerText": "Перемещение бессознательной энергии в деятельность",
-        "isRight": true
+        "answer": "Перемещение бессознательной энергии в деятельность",
+        "isTrue": true
       },
       {
-        "answerText": "Способность сознания анализировать бессознательное",
-        "isRight": false
+        "answer": "Способность сознания анализировать бессознательное",
+        "isTrue": false
       },
       {
-        "answerText": "Мысли, эмоции, человека, являющиеся объектом познания",
-        "isRight": false
+        "answer": "Мысли, эмоции, человека, являющиеся объектом познания",
+        "isTrue": false
       },
       {
-        "answerText": "Это импульсы, влечения, страсти, которые не осознаются человеком",
-        "isRight": false
+        "answer": "Это импульсы, влечения, страсти, которые не осознаются человеком",
+        "isTrue": false
       }
     ]
   },
@@ -620,20 +620,20 @@ export const philosophy = [
     "num": 29,
     "answers": [
       {
-        "answerText": "дуализм",
-        "isRight": true
+        "answer": "дуализм",
+        "isTrue": true
       },
       {
-        "answerText": "монизм",
-        "isRight": false
+        "answer": "монизм",
+        "isTrue": false
       },
       {
-        "answerText": "плюрализм",
-        "isRight": false
+        "answer": "плюрализм",
+        "isTrue": false
       },
       {
-        "answerText": "монотеизм",
-        "isRight": false
+        "answer": "монотеизм",
+        "isTrue": false
       }
     ]
   },
@@ -642,20 +642,20 @@ export const philosophy = [
     "num": 30,
     "answers": [
       {
-        "answerText": "движение",
-        "isRight": true
+        "answer": "движение",
+        "isTrue": true
       },
       {
-        "answerText": "неподвижность",
-        "isRight": false
+        "answer": "неподвижность",
+        "isTrue": false
       },
       {
-        "answerText": "ограниченность в пространстве",
-        "isRight": false
+        "answer": "ограниченность в пространстве",
+        "isTrue": false
       },
       {
-        "answerText": "сознание",
-        "isRight": false
+        "answer": "сознание",
+        "isTrue": false
       }
     ]
   },
@@ -664,20 +664,20 @@ export const philosophy = [
     "num": 31,
     "answers": [
       {
-        "answerText": "бессознательного",
-        "isRight": true
+        "answer": "бессознательного",
+        "isTrue": true
       },
       {
-        "answerText": "сознания",
-        "isRight": false
+        "answer": "сознания",
+        "isTrue": false
       },
       {
-        "answerText": "воли",
-        "isRight": false
+        "answer": "воли",
+        "isTrue": false
       },
       {
-        "answerText": "нравственности",
-        "isRight": false
+        "answer": "нравственности",
+        "isTrue": false
       }
     ]
   },
@@ -686,20 +686,20 @@ export const philosophy = [
     "num": 32,
     "answers": [
       {
-        "answerText": "Информацию и знание",
-        "isRight": true
+        "answer": "Информацию и знание",
+        "isTrue": true
       },
       {
-        "answerText": "Капитал и собственность",
-        "isRight": false
+        "answer": "Капитал и собственность",
+        "isTrue": false
       },
       {
-        "answerText": "Знания и труд",
-        "isRight": false
+        "answer": "Знания и труд",
+        "isTrue": false
       },
       {
-        "answerText": "Землю и простые орудия труда",
-        "isRight": false
+        "answer": "Землю и простые орудия труда",
+        "isTrue": false
       }
     ]
   },
@@ -708,20 +708,20 @@ export const philosophy = [
     "num": 33,
     "answers": [
       {
-        "answerText": "М. Маклюэн",
-        "isRight": true
+        "answer": "М. Маклюэн",
+        "isTrue": true
       },
       {
-        "answerText": "П. Фейерабенд",
-        "isRight": false
+        "answer": "П. Фейерабенд",
+        "isTrue": false
       },
       {
-        "answerText": "Д. Бэлл",
-        "isRight": false
+        "answer": "Д. Бэлл",
+        "isTrue": false
       },
       {
-        "answerText": "О. Конт",
-        "isRight": false
+        "answer": "О. Конт",
+        "isTrue": false
       }
     ]
   },
@@ -730,20 +730,20 @@ export const philosophy = [
     "num": 34,
     "answers": [
       {
-        "answerText": "объективна",
-        "isRight": true
+        "answer": "объективна",
+        "isTrue": true
       },
       {
-        "answerText": "абстрактна",
-        "isRight": false
+        "answer": "абстрактна",
+        "isTrue": false
       },
       {
-        "answerText": "субъективна",
-        "isRight": false
+        "answer": "субъективна",
+        "isTrue": false
       },
       {
-        "answerText": "абсолютна",
-        "isRight": false
+        "answer": "абсолютна",
+        "isTrue": false
       }
     ]
   },
@@ -752,20 +752,20 @@ export const philosophy = [
     "num": 35,
     "answers": [
       {
-        "answerText": "обыденным",
-        "isRight": true
+        "answer": "обыденным",
+        "isTrue": true
       },
       {
-        "answerText": "абстрактным",
-        "isRight": false
+        "answer": "абстрактным",
+        "isTrue": false
       },
       {
-        "answerText": "теоретическим",
-        "isRight": false
+        "answer": "теоретическим",
+        "isTrue": false
       },
       {
-        "answerText": "критическим",
-        "isRight": false
+        "answer": "критическим",
+        "isTrue": false
       }
     ]
   },
@@ -774,20 +774,20 @@ export const philosophy = [
     "num": 36,
     "answers": [
       {
-        "answerText": "заблуждение",
-        "isRight": true
+        "answer": "заблуждение",
+        "isTrue": true
       },
       {
-        "answerText": "иллюзия",
-        "isRight": false
+        "answer": "иллюзия",
+        "isTrue": false
       },
       {
-        "answerText": "предрассудок",
-        "isRight": false
+        "answer": "предрассудок",
+        "isTrue": false
       },
       {
-        "answerText": "пропаганда",
-        "isRight": false
+        "answer": "пропаганда",
+        "isTrue": false
       }
     ]
   },
@@ -796,20 +796,20 @@ export const philosophy = [
     "num": 37,
     "answers": [
       {
-        "answerText": "категория",
-        "isRight": true
+        "answer": "категория",
+        "isTrue": true
       },
       {
-        "answerText": "слово",
-        "isRight": false
+        "answer": "слово",
+        "isTrue": false
       },
       {
-        "answerText": "дефиниция",
-        "isRight": false
+        "answer": "дефиниция",
+        "isTrue": false
       },
       {
-        "answerText": "восприятие",
-        "isRight": false
+        "answer": "восприятие",
+        "isTrue": false
       }
     ]
   },
@@ -818,20 +818,20 @@ export const philosophy = [
     "num": 38,
     "answers": [
       {
-        "answerText": "Ситуацию между жизнью и смертью",
-        "isRight": true
+        "answer": "Ситуацию между жизнью и смертью",
+        "isTrue": true
       },
       {
-        "answerText": "Ситуацию между взрослыми и подростками",
-        "isRight": false
+        "answer": "Ситуацию между взрослыми и подростками",
+        "isTrue": false
       },
       {
-        "answerText": "Ситуацию межгосударственную",
-        "isRight": false
+        "answer": "Ситуацию межгосударственную",
+        "isTrue": false
       },
       {
-        "answerText": "Ситуацию геополитическую",
-        "isRight": false
+        "answer": "Ситуацию геополитическую",
+        "isTrue": false
       }
     ]
   },
@@ -840,20 +840,20 @@ export const philosophy = [
     "num": 39,
     "answers": [
       {
-        "answerText": "сверхчеловек",
-        "isRight": true
+        "answer": "сверхчеловек",
+        "isTrue": true
       },
       {
-        "answerText": "новый бог",
-        "isRight": false
+        "answer": "новый бог",
+        "isTrue": false
       },
       {
-        "answerText": "правитель",
-        "isRight": false
+        "answer": "правитель",
+        "isTrue": false
       },
       {
-        "answerText": "пророк",
-        "isRight": false
+        "answer": "пророк",
+        "isTrue": false
       }
     ]
   },
@@ -862,20 +862,20 @@ export const philosophy = [
     "num": 40,
     "answers": [
       {
-        "answerText": "Свобода- это способ бытия человека, это выбор, на что обречен человек и за что он несет ответственность",
-        "isRight": true
+        "answer": "Свобода- это способ бытия человека, это выбор, на что обречен человек и за что он несет ответственность",
+        "isTrue": true
       },
       {
-        "answerText": "Свобода- это осознанная необходимость",
-        "isRight": false
+        "answer": "Свобода- это осознанная необходимость",
+        "isTrue": false
       },
       {
-        "answerText": "Свобода- это добровольное следование долгу",
-        "isRight": false
+        "answer": "Свобода- это добровольное следование долгу",
+        "isTrue": false
       },
       {
-        "answerText": "Свобода- это добровольное следование установленным нормам",
-        "isRight": false
+        "answer": "Свобода- это добровольное следование установленным нормам",
+        "isTrue": false
       }
     ]
   },
@@ -884,20 +884,20 @@ export const philosophy = [
     "num": 41,
     "answers": [
       {
-        "answerText": "Механическая, физическая, химическая",
-        "isRight": true
+        "answer": "Механическая, физическая, химическая",
+        "isTrue": true
       },
       {
-        "answerText": "Механическая, питание, размножение",
-        "isRight": false
+        "answer": "Механическая, питание, размножение",
+        "isTrue": false
       },
       {
-        "answerText": "Химическая, биологическая, социальная",
-        "isRight": false
+        "answer": "Химическая, биологическая, социальная",
+        "isTrue": false
       },
       {
-        "answerText": "Физическая, питание, обмен веществ",
-        "isRight": false
+        "answer": "Физическая, питание, обмен веществ",
+        "isTrue": false
       }
     ]
   },
@@ -906,20 +906,20 @@ export const philosophy = [
     "num": 42,
     "answers": [
       {
-        "answerText": "философское понятие, обозначающее все, что существует",
-        "isRight": true
+        "answer": "философское понятие, обозначающее все, что существует",
+        "isTrue": true
       },
       {
-        "answerText": "философское понятие, обозначающее все, что существует объективно",
-        "isRight": false
+        "answer": "философское понятие, обозначающее все, что существует объективно",
+        "isTrue": false
       },
       {
-        "answerText": "философское понятие, обозначающее изменения происходящие в мире вещей",
-        "isRight": false
+        "answer": "философское понятие, обозначающее изменения происходящие в мире вещей",
+        "isTrue": false
       },
       {
-        "answerText": "философское понятие, обозначающее все, что существует само по себе и через себя",
-        "isRight": false
+        "answer": "философское понятие, обозначающее все, что существует само по себе и через себя",
+        "isTrue": false
       }
     ]
   },
@@ -928,20 +928,20 @@ export const philosophy = [
     "num": 43,
     "answers": [
       {
-        "answerText": "добродетель",
-        "isRight": true
+        "answer": "добродетель",
+        "isTrue": true
       },
       {
-        "answerText": "материальное богатство",
-        "isRight": false
+        "answer": "материальное богатство",
+        "isTrue": false
       },
       {
-        "answerText": "Бог",
-        "isRight": false
+        "answer": "Бог",
+        "isTrue": false
       },
       {
-        "answerText": "религия",
-        "isRight": false
+        "answer": "религия",
+        "isTrue": false
       }
     ]
   },
@@ -950,20 +950,20 @@ export const philosophy = [
     "num": 44,
     "answers": [
       {
-        "answerText": "Искусство и теория истолкования текстов",
-        "isRight": true
+        "answer": "Искусство и теория истолкования текстов",
+        "isTrue": true
       },
       {
-        "answerText": "Учение о феноменах человеческого сознания",
-        "isRight": false
+        "answer": "Учение о феноменах человеческого сознания",
+        "isTrue": false
       },
       {
-        "answerText": "Объяснение мира исходя из него самого",
-        "isRight": false
+        "answer": "Объяснение мира исходя из него самого",
+        "isTrue": false
       },
       {
-        "answerText": "Учение о практической полезности знания",
-        "isRight": false
+        "answer": "Учение о практической полезности знания",
+        "isTrue": false
       }
     ]
   },
@@ -972,20 +972,20 @@ export const philosophy = [
     "num": 45,
     "answers": [
       {
-        "answerText": "Этика",
-        "isRight": true
+        "answer": "Этика",
+        "isTrue": true
       },
       {
-        "answerText": "Эстетика",
-        "isRight": false
+        "answer": "Эстетика",
+        "isTrue": false
       },
       {
-        "answerText": "Онтология",
-        "isRight": false
+        "answer": "Онтология",
+        "isTrue": false
       },
       {
-        "answerText": "Гносеология",
-        "isRight": false
+        "answer": "Гносеология",
+        "isTrue": false
       }
     ]
   },
@@ -994,20 +994,20 @@ export const philosophy = [
     "num": 46,
     "answers": [
       {
-        "answerText": "Мальтус",
-        "isRight": true
+        "answer": "Мальтус",
+        "isTrue": true
       },
       {
-        "answerText": "Маркс",
-        "isRight": false
+        "answer": "Маркс",
+        "isTrue": false
       },
       {
-        "answerText": "Августин",
-        "isRight": false
+        "answer": "Августин",
+        "isTrue": false
       },
       {
-        "answerText": "Мао Цзэдун",
-        "isRight": false
+        "answer": "Мао Цзэдун",
+        "isTrue": false
       }
     ]
   },
@@ -1016,20 +1016,20 @@ export const philosophy = [
     "num": 47,
     "answers": [
       {
-        "answerText": "Раздел философии",
-        "isRight": true
+        "answer": "Раздел философии",
+        "isTrue": true
       },
       {
-        "answerText": "Гармония",
-        "isRight": false
+        "answer": "Гармония",
+        "isTrue": false
       },
       {
-        "answerText": "Качество предметов",
-        "isRight": false
+        "answer": "Качество предметов",
+        "isTrue": false
       },
       {
-        "answerText": "Учение &laquo;у-син&raquo;",
-        "isRight": false
+        "answer": "Учение &laquo;у-син&raquo;",
+        "isTrue": false
       }
     ]
   },
@@ -1038,20 +1038,20 @@ export const philosophy = [
     "num": 48,
     "answers": [
       {
-        "answerText": "Диалектика",
-        "isRight": true
+        "answer": "Диалектика",
+        "isTrue": true
       },
       {
-        "answerText": "Эклектика",
-        "isRight": false
+        "answer": "Эклектика",
+        "isTrue": false
       },
       {
-        "answerText": "Майевтика",
-        "isRight": false
+        "answer": "Майевтика",
+        "isTrue": false
       },
       {
-        "answerText": "Софистика",
-        "isRight": false
+        "answer": "Софистика",
+        "isTrue": false
       }
     ]
   },
@@ -1060,20 +1060,20 @@ export const philosophy = [
     "num": 49,
     "answers": [
       {
-        "answerText": "Информационным технологиям",
-        "isRight": true
+        "answer": "Информационным технологиям",
+        "isTrue": true
       },
       {
-        "answerText": "Добывающей промышленности",
-        "isRight": false
+        "answer": "Добывающей промышленности",
+        "isTrue": false
       },
       {
-        "answerText": "Сельскому хозяйству",
-        "isRight": false
+        "answer": "Сельскому хозяйству",
+        "isTrue": false
       },
       {
-        "answerText": "Добыче природных ресурсов",
-        "isRight": false
+        "answer": "Добыче природных ресурсов",
+        "isTrue": false
       }
     ]
   },
@@ -1082,20 +1082,20 @@ export const philosophy = [
     "num": 50,
     "answers": [
       {
-        "answerText": "Философия",
-        "isRight": true
+        "answer": "Философия",
+        "isTrue": true
       },
       {
-        "answerText": "Вера",
-        "isRight": false
+        "answer": "Вера",
+        "isTrue": false
       },
       {
-        "answerText": "Самовосприятие",
-        "isRight": false
+        "answer": "Самовосприятие",
+        "isTrue": false
       },
       {
-        "answerText": "Религия",
-        "isRight": false
+        "answer": "Религия",
+        "isTrue": false
       }
     ]
   },
@@ -1104,20 +1104,20 @@ export const philosophy = [
     "num": 51,
     "answers": [
       {
-        "answerText": "гносеология",
-        "isRight": true
+        "answer": "гносеология",
+        "isTrue": true
       },
       {
-        "answerText": "этика",
-        "isRight": false
+        "answer": "этика",
+        "isTrue": false
       },
       {
-        "answerText": "аксиология",
-        "isRight": false
+        "answer": "аксиология",
+        "isTrue": false
       },
       {
-        "answerText": "эстетика",
-        "isRight": false
+        "answer": "эстетика",
+        "isTrue": false
       }
     ]
   },
@@ -1126,20 +1126,20 @@ export const philosophy = [
     "num": 52,
     "answers": [
       {
-        "answerText": "Теоретический",
-        "isRight": true
+        "answer": "Теоретический",
+        "isTrue": true
       },
       {
-        "answerText": "Абстрактный",
-        "isRight": false
+        "answer": "Абстрактный",
+        "isTrue": false
       },
       {
-        "answerText": "Дедуктивный",
-        "isRight": false
+        "answer": "Дедуктивный",
+        "isTrue": false
       },
       {
-        "answerText": "Интуитивный",
-        "isRight": false
+        "answer": "Интуитивный",
+        "isTrue": false
       }
     ]
   },
@@ -1148,20 +1148,20 @@ export const philosophy = [
     "num": 53,
     "answers": [
       {
-        "answerText": "Эмпирический",
-        "isRight": true
+        "answer": "Эмпирический",
+        "isTrue": true
       },
       {
-        "answerText": "Абстрактный",
-        "isRight": false
+        "answer": "Абстрактный",
+        "isTrue": false
       },
       {
-        "answerText": "Дедуктивный",
-        "isRight": false
+        "answer": "Дедуктивный",
+        "isTrue": false
       },
       {
-        "answerText": "Теоретический",
-        "isRight": false
+        "answer": "Теоретический",
+        "isTrue": false
       }
     ]
   },
@@ -1170,20 +1170,20 @@ export const philosophy = [
     "num": 54,
     "answers": [
       {
-        "answerText": "Метод",
-        "isRight": true
+        "answer": "Метод",
+        "isTrue": true
       },
       {
-        "answerText": "Разум",
-        "isRight": false
+        "answer": "Разум",
+        "isTrue": false
       },
       {
-        "answerText": "Чувства",
-        "isRight": false
+        "answer": "Чувства",
+        "isTrue": false
       },
       {
-        "answerText": "Интуиция",
-        "isRight": false
+        "answer": "Интуиция",
+        "isTrue": false
       }
     ]
   },
@@ -1192,20 +1192,20 @@ export const philosophy = [
     "num": 55,
     "answers": [
       {
-        "answerText": "проблема критериев добра и зла",
-        "isRight": true
+        "answer": "проблема критериев добра и зла",
+        "isTrue": true
       },
       {
-        "answerText": "проблема свободы воли",
-        "isRight": false
+        "answer": "проблема свободы воли",
+        "isTrue": false
       },
       {
-        "answerText": "проблема субстанции",
-        "isRight": false
+        "answer": "проблема субстанции",
+        "isTrue": false
       },
       {
-        "answerText": "проблема пространства и движения",
-        "isRight": false
+        "answer": "проблема пространства и движения",
+        "isTrue": false
       }
     ]
   },
@@ -1214,20 +1214,20 @@ export const philosophy = [
     "num": 56,
     "answers": [
       {
-        "answerText": "понятие",
-        "isRight": true
+        "answer": "понятие",
+        "isTrue": true
       },
       {
-        "answerText": "суждение",
-        "isRight": false
+        "answer": "суждение",
+        "isTrue": false
       },
       {
-        "answerText": "умозаключение",
-        "isRight": false
+        "answer": "умозаключение",
+        "isTrue": false
       },
       {
-        "answerText": "гипотеза",
-        "isRight": false
+        "answer": "гипотеза",
+        "isTrue": false
       }
     ]
   },
@@ -1236,20 +1236,20 @@ export const philosophy = [
     "num": 57,
     "answers": [
       {
-        "answerText": "Объективная истина",
-        "isRight": true
+        "answer": "Объективная истина",
+        "isTrue": true
       },
       {
-        "answerText": "Субъективная истина",
-        "isRight": false
+        "answer": "Субъективная истина",
+        "isTrue": false
       },
       {
-        "answerText": "Относительная истина",
-        "isRight": false
+        "answer": "Относительная истина",
+        "isTrue": false
       },
       {
-        "answerText": "Абсолютная истина",
-        "isRight": false
+        "answer": "Абсолютная истина",
+        "isTrue": false
       }
     ]
   },
@@ -1258,20 +1258,20 @@ export const philosophy = [
     "num": 58,
     "answers": [
       {
-        "answerText": "Аскетизм и мистицизм",
-        "isRight": true
+        "answer": "Аскетизм и мистицизм",
+        "isTrue": true
       },
       {
-        "answerText": "Гедонизм и скептицизм",
-        "isRight": false
+        "answer": "Гедонизм и скептицизм",
+        "isTrue": false
       },
       {
-        "answerText": "Эвдемонизм и дуализм",
-        "isRight": false
+        "answer": "Эвдемонизм и дуализм",
+        "isTrue": false
       },
       {
-        "answerText": "Политеизм и анимизм",
-        "isRight": false
+        "answer": "Политеизм и анимизм",
+        "isTrue": false
       }
     ]
   },
@@ -1280,20 +1280,20 @@ export const philosophy = [
     "num": 59,
     "answers": [
       {
-        "answerText": "Отражение мира в художественных образах и преобразование мира по законам красоты",
-        "isRight": true
+        "answer": "Отражение мира в художественных образах и преобразование мира по законам красоты",
+        "isTrue": true
       },
       {
-        "answerText": "Понятия о власти, о государстве, его сущности, формах, устройстве",
-        "isRight": false
+        "answer": "Понятия о власти, о государстве, его сущности, формах, устройстве",
+        "isTrue": false
       },
       {
-        "answerText": "Представления о добре, благе, должном, справедливости, ответственности",
-        "isRight": false
+        "answer": "Представления о добре, благе, должном, справедливости, ответственности",
+        "isTrue": false
       },
       {
-        "answerText": "Фантастическое отражение внешних сил, которые господствуют над людьми в повседневной жизни",
-        "isRight": false
+        "answer": "Фантастическое отражение внешних сил, которые господствуют над людьми в повседневной жизни",
+        "isTrue": false
       }
     ]
   },
@@ -1302,20 +1302,20 @@ export const philosophy = [
     "num": 60,
     "answers": [
       {
-        "answerText": "доказательностью и обоснованностью",
-        "isRight": true
+        "answer": "доказательностью и обоснованностью",
+        "isTrue": true
       },
       {
-        "answerText": "Эмоциональностью и образностью",
-        "isRight": false
+        "answer": "Эмоциональностью и образностью",
+        "isTrue": false
       },
       {
-        "answerText": "Наивностью и догматичностью",
-        "isRight": false
+        "answer": "Наивностью и догматичностью",
+        "isTrue": false
       },
       {
-        "answerText": "большой степенью фантазии (не обязательно обоснованной)",
-        "isRight": false
+        "answer": "большой степенью фантазии (не обязательно обоснованной)",
+        "isTrue": false
       }
     ]
   },
@@ -1324,20 +1324,20 @@ export const philosophy = [
     "num": 61,
     "answers": [
       {
-        "answerText": "Общество",
-        "isRight": true
+        "answer": "Общество",
+        "isTrue": true
       },
       {
-        "answerText": "Бытие",
-        "isRight": false
+        "answer": "Бытие",
+        "isTrue": false
       },
       {
-        "answerText": "Познание",
-        "isRight": false
+        "answer": "Познание",
+        "isTrue": false
       },
       {
-        "answerText": "Сознание",
-        "isRight": false
+        "answer": "Сознание",
+        "isTrue": false
       }
     ]
   },
@@ -1346,20 +1346,20 @@ export const philosophy = [
     "num": 62,
     "answers": [
       {
-        "answerText": "критерии исторического прогресса",
-        "isRight": true
+        "answer": "критерии исторического прогресса",
+        "isTrue": true
       },
       {
-        "answerText": "критика археологических знаний",
-        "isRight": false
+        "answer": "критика археологических знаний",
+        "isTrue": false
       },
       {
-        "answerText": "вопросы гносеологии и эпистемологии",
-        "isRight": false
+        "answer": "вопросы гносеологии и эпистемологии",
+        "isTrue": false
       },
       {
-        "answerText": "фальсификация исторических фактов",
-        "isRight": false
+        "answer": "фальсификация исторических фактов",
+        "isTrue": false
       }
     ]
   },
@@ -1368,20 +1368,20 @@ export const philosophy = [
     "num": 63,
     "answers": [
       {
-        "answerText": "Сердце",
-        "isRight": true
+        "answer": "Сердце",
+        "isTrue": true
       },
       {
-        "answerText": "Разум",
-        "isRight": false
+        "answer": "Разум",
+        "isTrue": false
       },
       {
-        "answerText": "Воля",
-        "isRight": false
+        "answer": "Воля",
+        "isTrue": false
       },
       {
-        "answerText": "Настойчивость",
-        "isRight": false
+        "answer": "Настойчивость",
+        "isTrue": false
       }
     ]
   },
@@ -1390,20 +1390,20 @@ export const philosophy = [
     "num": 64,
     "answers": [
       {
-        "answerText": "Приоритет отдается сфере услуг",
-        "isRight": true
+        "answer": "Приоритет отдается сфере услуг",
+        "isTrue": true
       },
       {
-        "answerText": "Преобладание промышленности",
-        "isRight": false
+        "answer": "Преобладание промышленности",
+        "isTrue": false
       },
       {
-        "answerText": "Приоритетно сельское хозяйство",
-        "isRight": false
+        "answer": "Приоритетно сельское хозяйство",
+        "isTrue": false
       },
       {
-        "answerText": "Нет преимуществ в труде",
-        "isRight": false
+        "answer": "Нет преимуществ в труде",
+        "isTrue": false
       }
     ]
   },
@@ -1412,20 +1412,20 @@ export const philosophy = [
     "num": 65,
     "answers": [
       {
-        "answerText": "Этап развития, форма общества в основе которого лежит определенный способ производства",
-        "isRight": true
+        "answer": "Этап развития, форма общества в основе которого лежит определенный способ производства",
+        "isTrue": true
       },
       {
-        "answerText": "Культурно- исторический тип",
-        "isRight": false
+        "answer": "Культурно- исторический тип",
+        "isTrue": false
       },
       {
-        "answerText": "Стадия в развитии материальной сферы",
-        "isRight": false
+        "answer": "Стадия в развитии материальной сферы",
+        "isTrue": false
       },
       {
-        "answerText": "Деление общества на социальные группы в зависимости от доходов, занятий",
-        "isRight": false
+        "answer": "Деление общества на социальные группы в зависимости от доходов, занятий",
+        "isTrue": false
       }
     ]
   },
@@ -1434,20 +1434,20 @@ export const philosophy = [
     "num": 66,
     "answers": [
       {
-        "answerText": "Миржакып Дулатов, Ахмет Байтурсынов",
-        "isRight": true
+        "answer": "Миржакып Дулатов, Ахмет Байтурсынов",
+        "isTrue": true
       },
       {
-        "answerText": "Мухтар Ауэзов, Сабит Муканов",
-        "isRight": false
+        "answer": "Мухтар Ауэзов, Сабит Муканов",
+        "isTrue": false
       },
       {
-        "answerText": "Роллан Сейсенбаев, Дулат Исабеков",
-        "isRight": false
+        "answer": "Роллан Сейсенбаев, Дулат Исабеков",
+        "isTrue": false
       },
       {
-        "answerText": "Юсуф Баласагуни, Махмуд Кашгари",
-        "isRight": false
+        "answer": "Юсуф Баласагуни, Махмуд Кашгари",
+        "isTrue": false
       }
     ]
   },
@@ -1456,20 +1456,20 @@ export const philosophy = [
     "num": 67,
     "answers": [
       {
-        "answerText": "Идеи правят миром",
-        "isRight": true
+        "answer": "Идеи правят миром",
+        "isTrue": true
       },
       {
-        "answerText": "Все зависит от экономики",
-        "isRight": false
+        "answer": "Все зависит от экономики",
+        "isTrue": false
       },
       {
-        "answerText": "Все зависит от настроения великого человека",
-        "isRight": false
+        "answer": "Все зависит от настроения великого человека",
+        "isTrue": false
       },
       {
-        "answerText": "Политика определяет историю общества",
-        "isRight": false
+        "answer": "Политика определяет историю общества",
+        "isTrue": false
       }
     ]
   },
@@ -1478,20 +1478,20 @@ export const philosophy = [
     "num": 68,
     "answers": [
       {
-        "answerText": "Это социальная реальность, сущность которой состоит в отношениях и связях между людьми, складывающиеся в процессе их деятельности",
-        "isRight": true
+        "answer": "Это социальная реальность, сущность которой состоит в отношениях и связях между людьми, складывающиеся в процессе их деятельности",
+        "isTrue": true
       },
       {
-        "answerText": "Это атомарная сумма отдельных индивидов",
-        "isRight": false
+        "answer": "Это атомарная сумма отдельных индивидов",
+        "isTrue": false
       },
       {
-        "answerText": "Это процесс духовного производства знаний, идей",
-        "isRight": false
+        "answer": "Это процесс духовного производства знаний, идей",
+        "isTrue": false
       },
       {
-        "answerText": "Это процесс материального производства благ для удовлетворения потребностей людей",
-        "isRight": false
+        "answer": "Это процесс материального производства благ для удовлетворения потребностей людей",
+        "isTrue": false
       }
     ]
   },
@@ -1500,20 +1500,20 @@ export const philosophy = [
     "num": 69,
     "answers": [
       {
-        "answerText": "Религиозное, мифологическое",
-        "isRight": true
+        "answer": "Религиозное, мифологическое",
+        "isTrue": true
       },
       {
-        "answerText": "Экзистенциализм, гуманизм",
-        "isRight": false
+        "answer": "Экзистенциализм, гуманизм",
+        "isTrue": false
       },
       {
-        "answerText": "Научное, теоретическое",
-        "isRight": false
+        "answer": "Научное, теоретическое",
+        "isTrue": false
       },
       {
-        "answerText": "Атеизм, постмодернизм",
-        "isRight": false
+        "answer": "Атеизм, постмодернизм",
+        "isTrue": false
       }
     ]
   },
@@ -1522,20 +1522,20 @@ export const philosophy = [
     "num": 70,
     "answers": [
       {
-        "answerText": "бытие",
-        "isRight": true
+        "answer": "бытие",
+        "isTrue": true
       },
       {
-        "answerText": "атом",
-        "isRight": false
+        "answer": "атом",
+        "isTrue": false
       },
       {
-        "answerText": "валентность",
-        "isRight": false
+        "answer": "валентность",
+        "isTrue": false
       },
       {
-        "answerText": "гравитация",
-        "isRight": false
+        "answer": "гравитация",
+        "isTrue": false
       }
     ]
   },
@@ -1544,20 +1544,20 @@ export const philosophy = [
     "num": 71,
     "answers": [
       {
-        "answerText": "В развитии человеческого разума, науки, образовании, воспитании человека",
-        "isRight": true
+        "answer": "В развитии человеческого разума, науки, образовании, воспитании человека",
+        "isTrue": true
       },
       {
-        "answerText": "В классовой борьбе",
-        "isRight": false
+        "answer": "В классовой борьбе",
+        "isTrue": false
       },
       {
-        "answerText": "В социальной революции",
-        "isRight": false
+        "answer": "В социальной революции",
+        "isTrue": false
       },
       {
-        "answerText": "В развитии экономики",
-        "isRight": false
+        "answer": "В развитии экономики",
+        "isTrue": false
       }
     ]
   },
@@ -1566,20 +1566,20 @@ export const philosophy = [
     "num": 72,
     "answers": [
       {
-        "answerText": "Г. Гегель",
-        "isRight": true
+        "answer": "Г. Гегель",
+        "isTrue": true
       },
       {
-        "answerText": "Т. Гоббс",
-        "isRight": false
+        "answer": "Т. Гоббс",
+        "isTrue": false
       },
       {
-        "answerText": "К. Маркс",
-        "isRight": false
+        "answer": "К. Маркс",
+        "isTrue": false
       },
       {
-        "answerText": "Ф. Энгельс",
-        "isRight": false
+        "answer": "Ф. Энгельс",
+        "isTrue": false
       }
     ]
   },
@@ -1588,20 +1588,20 @@ export const philosophy = [
     "num": 73,
     "answers": [
       {
-        "answerText": "Упанишады",
-        "isRight": true
+        "answer": "Упанишады",
+        "isTrue": true
       },
       {
-        "answerText": "Книгу перемен",
-        "isRight": false
+        "answer": "Книгу перемен",
+        "isTrue": false
       },
       {
-        "answerText": "Книга букв",
-        "isRight": false
+        "answer": "Книга букв",
+        "isTrue": false
       },
       {
-        "answerText": "Книгу песен",
-        "isRight": false
+        "answer": "Книгу песен",
+        "isTrue": false
       }
     ]
   },
@@ -1610,20 +1610,20 @@ export const philosophy = [
     "num": 74,
     "answers": [
       {
-        "answerText": "К. Маркс",
-        "isRight": true
+        "answer": "К. Маркс",
+        "isTrue": true
       },
       {
-        "answerText": "Д. Юм",
-        "isRight": false
+        "answer": "Д. Юм",
+        "isTrue": false
       },
       {
-        "answerText": "Дж. Беркли",
-        "isRight": false
+        "answer": "Дж. Беркли",
+        "isTrue": false
       },
       {
-        "answerText": "М. Хайдеггер",
-        "isRight": false
+        "answer": "М. Хайдеггер",
+        "isTrue": false
       }
     ]
   },
@@ -1632,20 +1632,20 @@ export const philosophy = [
     "num": 75,
     "answers": [
       {
-        "answerText": "большое значение уделялось практическим этико-психологическим проблемам",
-        "isRight": true
+        "answer": "большое значение уделялось практическим этико-психологическим проблемам",
+        "isTrue": true
       },
       {
-        "answerText": "существенная связь с наукой",
-        "isRight": false
+        "answer": "существенная связь с наукой",
+        "isTrue": false
       },
       {
-        "answerText": "исследование логики",
-        "isRight": false
+        "answer": "исследование логики",
+        "isTrue": false
       },
       {
-        "answerText": "исследование познавательных способностей личности",
-        "isRight": false
+        "answer": "исследование познавательных способностей личности",
+        "isTrue": false
       }
     ]
   },
@@ -1654,20 +1654,20 @@ export const philosophy = [
     "num": 76,
     "answers": [
       {
-        "answerText": "искусство управления государством, воспитание человека",
-        "isRight": true
+        "answer": "искусство управления государством, воспитание человека",
+        "isTrue": true
       },
       {
-        "answerText": "доказательство существования абсолюта",
-        "isRight": false
+        "answer": "доказательство существования абсолюта",
+        "isTrue": false
       },
       {
-        "answerText": "изучение природы вещей",
-        "isRight": false
+        "answer": "изучение природы вещей",
+        "isTrue": false
       },
       {
-        "answerText": "изучение и разработка методов познания",
-        "isRight": false
+        "answer": "изучение и разработка методов познания",
+        "isTrue": false
       }
     ]
   },
@@ -1676,20 +1676,20 @@ export const philosophy = [
     "num": 77,
     "answers": [
       {
-        "answerText": "ограниченность познавательных возможностей",
-        "isRight": true
+        "answer": "ограниченность познавательных возможностей",
+        "isTrue": true
       },
       {
-        "answerText": "неограниченность познавательных возможностей",
-        "isRight": false
+        "answer": "неограниченность познавательных возможностей",
+        "isTrue": false
       },
       {
-        "answerText": "непротиворечивость теоретического познания",
-        "isRight": false
+        "answer": "непротиворечивость теоретического познания",
+        "isTrue": false
       },
       {
-        "answerText": "абсолютное тождеств объективного и субъективного",
-        "isRight": false
+        "answer": "абсолютное тождеств объективного и субъективного",
+        "isTrue": false
       }
     ]
   },
@@ -1698,20 +1698,20 @@ export const philosophy = [
     "num": 78,
     "answers": [
       {
-        "answerText": "Теоцентризм, креационизм",
-        "isRight": true
+        "answer": "Теоцентризм, креационизм",
+        "isTrue": true
       },
       {
-        "answerText": "Фетишизм, тотемизм",
-        "isRight": false
+        "answer": "Фетишизм, тотемизм",
+        "isTrue": false
       },
       {
-        "answerText": "Космоцентризм, плюрализм",
-        "isRight": false
+        "answer": "Космоцентризм, плюрализм",
+        "isTrue": false
       },
       {
-        "answerText": "Сциентизм, анимизм",
-        "isRight": false
+        "answer": "Сциентизм, анимизм",
+        "isTrue": false
       }
     ]
   },
@@ -1720,20 +1720,20 @@ export const philosophy = [
     "num": 79,
     "answers": [
       {
-        "answerText": "антропоцентризм",
-        "isRight": true
+        "answer": "антропоцентризм",
+        "isTrue": true
       },
       {
-        "answerText": "провиденциализм",
-        "isRight": false
+        "answer": "провиденциализм",
+        "isTrue": false
       },
       {
-        "answerText": "теоцентризм",
-        "isRight": false
+        "answer": "теоцентризм",
+        "isTrue": false
       },
       {
-        "answerText": "креационизм",
-        "isRight": false
+        "answer": "креационизм",
+        "isTrue": false
       }
     ]
   },
@@ -1742,20 +1742,20 @@ export const philosophy = [
     "num": 80,
     "answers": [
       {
-        "answerText": "Трактат о взглядах жителей добродетельного города",
-        "isRight": true
+        "answer": "Трактат о взглядах жителей добродетельного города",
+        "isTrue": true
       },
       {
-        "answerText": "Мир как воля и представление",
-        "isRight": false
+        "answer": "Мир как воля и представление",
+        "isTrue": false
       },
       {
-        "answerText": "Государь",
-        "isRight": false
+        "answer": "Государь",
+        "isTrue": false
       },
       {
-        "answerText": "По ту сторону добра и зла",
-        "isRight": false
+        "answer": "По ту сторону добра и зла",
+        "isTrue": false
       }
     ]
   },
@@ -1764,20 +1764,20 @@ export const philosophy = [
     "num": 81,
     "answers": [
       {
-        "answerText": "В.И. Вернадский",
-        "isRight": true
+        "answer": "В.И. Вернадский",
+        "isTrue": true
       },
       {
-        "answerText": "Н. Бердяев",
-        "isRight": false
+        "answer": "Н. Бердяев",
+        "isTrue": false
       },
       {
-        "answerText": "М. Ломоносов",
-        "isRight": false
+        "answer": "М. Ломоносов",
+        "isTrue": false
       },
       {
-        "answerText": "Н.Г. Чернышевский",
-        "isRight": false
+        "answer": "Н.Г. Чернышевский",
+        "isTrue": false
       }
     ]
   },
@@ -1786,20 +1786,20 @@ export const philosophy = [
     "num": 82,
     "answers": [
       {
-        "answerText": "А.С. Хомяков, И. П. Киреевский",
-        "isRight": true
+        "answer": "А.С. Хомяков, И. П. Киреевский",
+        "isTrue": true
       },
       {
-        "answerText": "В.С. Соловьев, А. Герцен",
-        "isRight": false
+        "answer": "В.С. Соловьев, А. Герцен",
+        "isTrue": false
       },
       {
-        "answerText": "В. Белинский, П. Чаадаев",
-        "isRight": false
+        "answer": "В. Белинский, П. Чаадаев",
+        "isTrue": false
       },
       {
-        "answerText": "Н.Г. Чернышевский",
-        "isRight": false
+        "answer": "Н.Г. Чернышевский",
+        "isTrue": false
       }
     ]
   },
@@ -1808,20 +1808,20 @@ export const philosophy = [
     "num": 83,
     "answers": [
       {
-        "answerText": "История предстает как развитие и смена самостоятельных, ничем не связанных друг с другом цивилизаций",
-        "isRight": true
+        "answer": "История предстает как развитие и смена самостоятельных, ничем не связанных друг с другом цивилизаций",
+        "isTrue": true
       },
       {
-        "answerText": "История общества предстает как закономерная смена общественно- экономических формаций",
-        "isRight": false
+        "answer": "История общества предстает как закономерная смена общественно- экономических формаций",
+        "isTrue": false
       },
       {
-        "answerText": "История общества предстает как классовая борьба",
-        "isRight": false
+        "answer": "История общества предстает как классовая борьба",
+        "isTrue": false
       },
       {
-        "answerText": "Сущность общества, уровень его развития выводит из природно- географических условий жизни общества",
-        "isRight": false
+        "answer": "Сущность общества, уровень его развития выводит из природно- географических условий жизни общества",
+        "isTrue": false
       }
     ]
   },
@@ -1830,20 +1830,20 @@ export const philosophy = [
     "num": 84,
     "answers": [
       {
-        "answerText": "История общества предстает как закономерная смена общественно- экономических формаций",
-        "isRight": true
+        "answer": "История общества предстает как закономерная смена общественно- экономических формаций",
+        "isTrue": true
       },
       {
-        "answerText": "История человечества есть проявление развития абсолютного духа",
-        "isRight": false
+        "answer": "История человечества есть проявление развития абсолютного духа",
+        "isTrue": false
       },
       {
-        "answerText": "История общества предстает как христианизация",
-        "isRight": false
+        "answer": "История общества предстает как христианизация",
+        "isTrue": false
       },
       {
-        "answerText": "История предстает как развитие и смена цивилизаций",
-        "isRight": false
+        "answer": "История предстает как развитие и смена цивилизаций",
+        "isTrue": false
       }
     ]
   },
@@ -1852,20 +1852,20 @@ export const philosophy = [
     "num": 85,
     "answers": [
       {
-        "answerText": "В противоречии между производительными силами и производственными отношениями",
-        "isRight": true
+        "answer": "В противоречии между производительными силами и производственными отношениями",
+        "isTrue": true
       },
       {
-        "answerText": "В природно- географических условиях",
-        "isRight": false
+        "answer": "В природно- географических условиях",
+        "isTrue": false
       },
       {
-        "answerText": "В божественном разуме",
-        "isRight": false
+        "answer": "В божественном разуме",
+        "isTrue": false
       },
       {
-        "answerText": "В человеческом разуме",
-        "isRight": false
+        "answer": "В человеческом разуме",
+        "isTrue": false
       }
     ]
   },
@@ -1874,20 +1874,20 @@ export const philosophy = [
     "num": 86,
     "answers": [
       {
-        "answerText": "Город Солнца",
-        "isRight": true
+        "answer": "Город Солнца",
+        "isTrue": true
       },
       {
-        "answerText": "Атлантида",
-        "isRight": false
+        "answer": "Атлантида",
+        "isTrue": false
       },
       {
-        "answerText": "Гармония",
-        "isRight": false
+        "answer": "Гармония",
+        "isTrue": false
       },
       {
-        "answerText": "Об общественном договоре",
-        "isRight": false
+        "answer": "Об общественном договоре",
+        "isTrue": false
       }
     ]
   },
@@ -1896,20 +1896,20 @@ export const philosophy = [
     "num": 87,
     "answers": [
       {
-        "answerText": "Древней Греции и Древнего Рима",
-        "isRight": true
+        "answer": "Древней Греции и Древнего Рима",
+        "isTrue": true
       },
       {
-        "answerText": "Арабского Востока и Египта",
-        "isRight": false
+        "answer": "Арабского Востока и Египта",
+        "isTrue": false
       },
       {
-        "answerText": "Византии и Шумера",
-        "isRight": false
+        "answer": "Византии и Шумера",
+        "isTrue": false
       },
       {
-        "answerText": "Древнего Китая и Древней Индии",
-        "isRight": false
+        "answer": "Древнего Китая и Древней Индии",
+        "isTrue": false
       }
     ]
   },
@@ -1918,20 +1918,20 @@ export const philosophy = [
     "num": 88,
     "answers": [
       {
-        "answerText": "Социально- трудовое",
-        "isRight": true
+        "answer": "Социально- трудовое",
+        "isTrue": true
       },
       {
-        "answerText": "Теологическое",
-        "isRight": false
+        "answer": "Теологическое",
+        "isTrue": false
       },
       {
-        "answerText": "Идеально-духовное",
-        "isRight": false
+        "answer": "Идеально-духовное",
+        "isTrue": false
       },
       {
-        "answerText": "Биологизаторское",
-        "isRight": false
+        "answer": "Биологизаторское",
+        "isTrue": false
       }
     ]
   },
@@ -1940,20 +1940,20 @@ export const philosophy = [
     "num": 89,
     "answers": [
       {
-        "answerText": "Индивидуальность",
-        "isRight": true
+        "answer": "Индивидуальность",
+        "isTrue": true
       },
       {
-        "answerText": "Индивид",
-        "isRight": false
+        "answer": "Индивид",
+        "isTrue": false
       },
       {
-        "answerText": "Личность",
-        "isRight": false
+        "answer": "Личность",
+        "isTrue": false
       },
       {
-        "answerText": "Особа",
-        "isRight": false
+        "answer": "Особа",
+        "isTrue": false
       }
     ]
   },
@@ -1962,20 +1962,20 @@ export const philosophy = [
     "num": 90,
     "answers": [
       {
-        "answerText": "с течением времени отделились от философии и стали самостоятельными",
-        "isRight": true
+        "answer": "с течением времени отделились от философии и стали самостоятельными",
+        "isTrue": true
       },
       {
-        "answerText": "противоречат философии",
-        "isRight": false
+        "answer": "противоречат философии",
+        "isTrue": false
       },
       {
-        "answerText": "появились в древности и никак не связаны с философией",
-        "isRight": false
+        "answer": "появились в древности и никак не связаны с философией",
+        "isTrue": false
       },
       {
-        "answerText": "достигли полного, абсолютного знания",
-        "isRight": false
+        "answer": "достигли полного, абсолютного знания",
+        "isTrue": false
       }
     ]
   },
@@ -1984,20 +1984,20 @@ export const philosophy = [
     "num": 91,
     "answers": [
       {
-        "answerText": "отражают наиболее общие связи и отношения реальности",
-        "isRight": true
+        "answer": "отражают наиболее общие связи и отношения реальности",
+        "isTrue": true
       },
       {
-        "answerText": "используются только в философии",
-        "isRight": false
+        "answer": "используются только в философии",
+        "isTrue": false
       },
       {
-        "answerText": "содержат минимум абстракции",
-        "isRight": false
+        "answer": "содержат минимум абстракции",
+        "isTrue": false
       },
       {
-        "answerText": "конкретны и предметны",
-        "isRight": false
+        "answer": "конкретны и предметны",
+        "isTrue": false
       }
     ]
   },
@@ -2006,20 +2006,20 @@ export const philosophy = [
     "num": 92,
     "answers": [
       {
-        "answerText": "призыв подвергать сомнению абсолютно все",
-        "isRight": true
+        "answer": "призыв подвергать сомнению абсолютно все",
+        "isTrue": true
       },
       {
-        "answerText": "разработка теории эмпиризма",
-        "isRight": false
+        "answer": "разработка теории эмпиризма",
+        "isTrue": false
       },
       {
-        "answerText": "формулировка онтологического доказательства бытия Бога",
-        "isRight": false
+        "answer": "формулировка онтологического доказательства бытия Бога",
+        "isTrue": false
       },
       {
-        "answerText": "критика рационализма",
-        "isRight": false
+        "answer": "критика рационализма",
+        "isTrue": false
       }
     ]
   },
@@ -2028,20 +2028,20 @@ export const philosophy = [
     "num": 93,
     "answers": [
       {
-        "answerText": "период который называют эпохой научной революции",
-        "isRight": true
+        "answer": "период который называют эпохой научной революции",
+        "isTrue": true
       },
       {
-        "answerText": "период развития философии на Арабском Востоке",
-        "isRight": false
+        "answer": "период развития философии на Арабском Востоке",
+        "isTrue": false
       },
       {
-        "answerText": "период развития философии VII-XII веков",
-        "isRight": false
+        "answer": "период развития философии VII-XII веков",
+        "isTrue": false
       },
       {
-        "answerText": "период, который характеризуется приматом веры на разумом",
-        "isRight": false
+        "answer": "период, который характеризуется приматом веры на разумом",
+        "isTrue": false
       }
     ]
   },
@@ -2050,20 +2050,20 @@ export const philosophy = [
     "num": 94,
     "answers": [
       {
-        "answerText": "Социальное",
-        "isRight": true
+        "answer": "Социальное",
+        "isTrue": true
       },
       {
-        "answerText": "Физическое",
-        "isRight": false
+        "answer": "Физическое",
+        "isTrue": false
       },
       {
-        "answerText": "Родовое",
-        "isRight": false
+        "answer": "Родовое",
+        "isTrue": false
       },
       {
-        "answerText": "Биологическое",
-        "isRight": false
+        "answer": "Биологическое",
+        "isTrue": false
       }
     ]
   },
@@ -2072,20 +2072,20 @@ export const philosophy = [
     "num": 95,
     "answers": [
       {
-        "answerText": "О грамматологии",
-        "isRight": true
+        "answer": "О грамматологии",
+        "isTrue": true
       },
       {
-        "answerText": "Капитал",
-        "isRight": false
+        "answer": "Капитал",
+        "isTrue": false
       },
       {
-        "answerText": "Критика чистого разума",
-        "isRight": false
+        "answer": "Критика чистого разума",
+        "isTrue": false
       },
       {
-        "answerText": "Размышление о методе",
-        "isRight": false
+        "answer": "Размышление о методе",
+        "isTrue": false
       }
     ]
   },
@@ -2094,20 +2094,20 @@ export const philosophy = [
     "num": 96,
     "answers": [
       {
-        "answerText": "философская теория, основанная на предположении о том, что в мире не существует ничего, помимо материи",
-        "isRight": true
+        "answer": "философская теория, основанная на предположении о том, что в мире не существует ничего, помимо материи",
+        "isTrue": true
       },
       {
-        "answerText": "философская теория, утверждающая непознаваемость мира",
-        "isRight": false
+        "answer": "философская теория, утверждающая непознаваемость мира",
+        "isTrue": false
       },
       {
-        "answerText": "теория, утверждающая что в мире существуют только духи",
-        "isRight": false
+        "answer": "теория, утверждающая что в мире существуют только духи",
+        "isTrue": false
       },
       {
-        "answerText": "теория о сотворении мира богом из неживой материи",
-        "isRight": false
+        "answer": "теория о сотворении мира богом из неживой материи",
+        "isTrue": false
       }
     ]
   },
@@ -2116,20 +2116,20 @@ export const philosophy = [
     "num": 97,
     "answers": [
       {
-        "answerText": "Пассивное отражение в неживой материи, активное отражение в живой материи, психическое отражение, сознание",
-        "isRight": true
+        "answer": "Пассивное отражение в неживой материи, активное отражение в живой материи, психическое отражение, сознание",
+        "isTrue": true
       },
       {
-        "answerText": "Механическое, физическое, химическое, биологическое формы движения",
-        "isRight": false
+        "answer": "Механическое, физическое, химическое, биологическое формы движения",
+        "isTrue": false
       },
       {
-        "answerText": "Материальное производство, социальное действие",
-        "isRight": false
+        "answer": "Материальное производство, социальное действие",
+        "isTrue": false
       },
       {
-        "answerText": "Перемещение тел в пространстве",
-        "isRight": false
+        "answer": "Перемещение тел в пространстве",
+        "isTrue": false
       }
     ]
   },
@@ -2138,20 +2138,20 @@ export const philosophy = [
     "num": 98,
     "answers": [
       {
-        "answerText": "Теория самоорганизации сложных систем",
-        "isRight": true
+        "answer": "Теория самоорганизации сложных систем",
+        "isTrue": true
       },
       {
-        "answerText": "Синоним современной гносеологии",
-        "isRight": false
+        "answer": "Синоним современной гносеологии",
+        "isTrue": false
       },
       {
-        "answerText": "Раздел психологии",
-        "isRight": false
+        "answer": "Раздел психологии",
+        "isTrue": false
       },
       {
-        "answerText": "Теория объясняющая механизм сотворения человека",
-        "isRight": false
+        "answer": "Теория объясняющая механизм сотворения человека",
+        "isTrue": false
       }
     ]
   },
@@ -2160,20 +2160,20 @@ export const philosophy = [
     "num": 99,
     "answers": [
       {
-        "answerText": "Идея бесконечности вселенной",
-        "isRight": true
+        "answer": "Идея бесконечности вселенной",
+        "isTrue": true
       },
       {
-        "answerText": "Идея развития человечества от Земного Града к Граду Небесному",
-        "isRight": false
+        "answer": "Идея развития человечества от Земного Града к Граду Небесному",
+        "isTrue": false
       },
       {
-        "answerText": "Представление о свободной воле",
-        "isRight": false
+        "answer": "Представление о свободной воле",
+        "isTrue": false
       },
       {
-        "answerText": "Антропоморфизм",
-        "isRight": false
+        "answer": "Антропоморфизм",
+        "isTrue": false
       }
     ]
   },
@@ -2182,20 +2182,20 @@ export const philosophy = [
     "num": 100,
     "answers": [
       {
-        "answerText": "Социализация",
-        "isRight": true
+        "answer": "Социализация",
+        "isTrue": true
       },
       {
-        "answerText": "Обобществление",
-        "isRight": false
+        "answer": "Обобществление",
+        "isTrue": false
       },
       {
-        "answerText": "Аккультурация",
-        "isRight": false
+        "answer": "Аккультурация",
+        "isTrue": false
       },
       {
-        "answerText": "Антропосоциогенез",
-        "isRight": false
+        "answer": "Антропосоциогенез",
+        "isTrue": false
       }
     ]
   },
@@ -2204,20 +2204,20 @@ export const philosophy = [
     "num": 101,
     "answers": [
       {
-        "answerText": "Н.А Бердяев",
-        "isRight": true
+        "answer": "Н.А Бердяев",
+        "isTrue": true
       },
       {
-        "answerText": "Г. Спенсер",
-        "isRight": false
+        "answer": "Г. Спенсер",
+        "isTrue": false
       },
       {
-        "answerText": "Э. Дюркгейм",
-        "isRight": false
+        "answer": "Э. Дюркгейм",
+        "isTrue": false
       },
       {
-        "answerText": "И. Лакатос",
-        "isRight": false
+        "answer": "И. Лакатос",
+        "isTrue": false
       }
     ]
   },
@@ -2226,20 +2226,20 @@ export const philosophy = [
     "num": 102,
     "answers": [
       {
-        "answerText": "Ж.П. Сартр, К. Ясперс",
-        "isRight": true
+        "answer": "Ж.П. Сартр, К. Ясперс",
+        "isTrue": true
       },
       {
-        "answerText": "Т. Кун, К. Поппер",
-        "isRight": false
+        "answer": "Т. Кун, К. Поппер",
+        "isTrue": false
       },
       {
-        "answerText": "М. Шлик, Р. Рорти",
-        "isRight": false
+        "answer": "М. Шлик, Р. Рорти",
+        "isTrue": false
       },
       {
-        "answerText": "Р. Карнап, Ж. Лакан",
-        "isRight": false
+        "answer": "Р. Карнап, Ж. Лакан",
+        "isTrue": false
       }
     ]
   },
@@ -2248,20 +2248,20 @@ export const philosophy = [
     "num": 103,
     "answers": [
       {
-        "answerText": "Гендер",
-        "isRight": true
+        "answer": "Гендер",
+        "isTrue": true
       },
       {
-        "answerText": "Архетип",
-        "isRight": false
+        "answer": "Архетип",
+        "isTrue": false
       },
       {
-        "answerText": "Сексизм",
-        "isRight": false
+        "answer": "Сексизм",
+        "isTrue": false
       },
       {
-        "answerText": "маскулинность",
-        "isRight": false
+        "answer": "маскулинность",
+        "isTrue": false
       }
     ]
   },
@@ -2270,20 +2270,20 @@ export const philosophy = [
     "num": 104,
     "answers": [
       {
-        "answerText": "отказ от мирских благ и наслаждений",
-        "isRight": true
+        "answer": "отказ от мирских благ и наслаждений",
+        "isTrue": true
       },
       {
-        "answerText": "стремление к удовольствиям",
-        "isRight": false
+        "answer": "стремление к удовольствиям",
+        "isTrue": false
       },
       {
-        "answerText": "учение, основанное на стремлении к практической пользе",
-        "isRight": false
+        "answer": "учение, основанное на стремлении к практической пользе",
+        "isTrue": false
       },
       {
-        "answerText": "утверждение, что цель человеческой жизни в достижении счастья",
-        "isRight": false
+        "answer": "утверждение, что цель человеческой жизни в достижении счастья",
+        "isTrue": false
       }
     ]
   },
@@ -2292,20 +2292,20 @@ export const philosophy = [
     "num": 105,
     "answers": [
       {
-        "answerText": "смысл жизни усматривает в достижении успеха",
-        "isRight": true
+        "answer": "смысл жизни усматривает в достижении успеха",
+        "isTrue": true
       },
       {
-        "answerText": "мир не познаваем",
-        "isRight": false
+        "answer": "мир не познаваем",
+        "isTrue": false
       },
       {
-        "answerText": "смысл жизни в аскезе и поисках самого себя",
-        "isRight": false
+        "answer": "смысл жизни в аскезе и поисках самого себя",
+        "isTrue": false
       },
       {
-        "answerText": "все предопределено свыше",
-        "isRight": false
+        "answer": "все предопределено свыше",
+        "isTrue": false
       }
     ]
   },
@@ -2314,20 +2314,20 @@ export const philosophy = [
     "num": 106,
     "answers": [
       {
-        "answerText": "Биоэтика",
-        "isRight": true
+        "answer": "Биоэтика",
+        "isTrue": true
       },
       {
-        "answerText": "Аскетизм",
-        "isRight": false
+        "answer": "Аскетизм",
+        "isTrue": false
       },
       {
-        "answerText": "Теории блага",
-        "isRight": false
+        "answer": "Теории блага",
+        "isTrue": false
       },
       {
-        "answerText": "Теории долга",
-        "isRight": false
+        "answer": "Теории долга",
+        "isTrue": false
       }
     ]
   },
@@ -2336,20 +2336,20 @@ export const philosophy = [
     "num": 107,
     "answers": [
       {
-        "answerText": "Способность сознания отражать свое собственное содержание",
-        "isRight": true
+        "answer": "Способность сознания отражать свое собственное содержание",
+        "isTrue": true
       },
       {
-        "answerText": "Анатомия и физиология человека",
-        "isRight": false
+        "answer": "Анатомия и физиология человека",
+        "isTrue": false
       },
       {
-        "answerText": "Обмен веществ, протекающий в организме человека",
-        "isRight": false
+        "answer": "Обмен веществ, протекающий в организме человека",
+        "isTrue": false
       },
       {
-        "answerText": "Атомно- молекулярная структура, лежащая в основе организма",
-        "isRight": false
+        "answer": "Атомно- молекулярная структура, лежащая в основе организма",
+        "isTrue": false
       }
     ]
   },
@@ -2358,20 +2358,20 @@ export const philosophy = [
     "num": 108,
     "answers": [
       {
-        "answerText": "А.Тойнби",
-        "isRight": true
+        "answer": "А.Тойнби",
+        "isTrue": true
       },
       {
-        "answerText": "О.Шпенглер",
-        "isRight": false
+        "answer": "О.Шпенглер",
+        "isTrue": false
       },
       {
-        "answerText": "П.Сорокин",
-        "isRight": false
+        "answer": "П.Сорокин",
+        "isTrue": false
       },
       {
-        "answerText": "Н.Данилевский",
-        "isRight": false
+        "answer": "Н.Данилевский",
+        "isTrue": false
       }
     ]
   },
@@ -2380,20 +2380,20 @@ export const philosophy = [
     "num": 109,
     "answers": [
       {
-        "answerText": "Самостоятельные, ничем не связанные друг с другом цивилизации, адаптированные к природной среде",
-        "isRight": true
+        "answer": "Самостоятельные, ничем не связанные друг с другом цивилизации, адаптированные к природной среде",
+        "isTrue": true
       },
       {
-        "answerText": "Цивилизации, наследующие достижения предшествующих цивилизаций",
-        "isRight": false
+        "answer": "Цивилизации, наследующие достижения предшествующих цивилизаций",
+        "isTrue": false
       },
       {
-        "answerText": "Цивилизации, взаимодействующие друг с другом",
-        "isRight": false
+        "answer": "Цивилизации, взаимодействующие друг с другом",
+        "isTrue": false
       },
       {
-        "answerText": "Цивилизации, противостоящие, друг другу как чуждые",
-        "isRight": false
+        "answer": "Цивилизации, противостоящие, друг другу как чуждые",
+        "isTrue": false
       }
     ]
   },
@@ -2402,20 +2402,20 @@ export const philosophy = [
     "num": 110,
     "answers": [
       {
-        "answerText": "Аксиология",
-        "isRight": true
+        "answer": "Аксиология",
+        "isTrue": true
       },
       {
-        "answerText": "Праксиология",
-        "isRight": false
+        "answer": "Праксиология",
+        "isTrue": false
       },
       {
-        "answerText": "Онтология",
-        "isRight": false
+        "answer": "Онтология",
+        "isTrue": false
       },
       {
-        "answerText": "Гносеология",
-        "isRight": false
+        "answer": "Гносеология",
+        "isTrue": false
       }
     ]
   },
@@ -2424,20 +2424,20 @@ export const philosophy = [
     "num": 111,
     "answers": [
       {
-        "answerText": "А. Тойнби, О. Шпенглера",
-        "isRight": true
+        "answer": "А. Тойнби, О. Шпенглера",
+        "isTrue": true
       },
       {
-        "answerText": "Аристотеля, Платона",
-        "isRight": false
+        "answer": "Аристотеля, Платона",
+        "isTrue": false
       },
       {
-        "answerText": "Маркса, Энгельса",
-        "isRight": false
+        "answer": "Маркса, Энгельса",
+        "isTrue": false
       },
       {
-        "answerText": "Вольтера, Дидро",
-        "isRight": false
+        "answer": "Вольтера, Дидро",
+        "isTrue": false
       }
     ]
   },
@@ -2446,20 +2446,20 @@ export const philosophy = [
     "num": 112,
     "answers": [
       {
-        "answerText": "К.Маркс",
-        "isRight": true
+        "answer": "К.Маркс",
+        "isTrue": true
       },
       {
-        "answerText": "З.Фрейд",
-        "isRight": false
+        "answer": "З.Фрейд",
+        "isTrue": false
       },
       {
-        "answerText": "Ф.Ницше",
-        "isRight": false
+        "answer": "Ф.Ницше",
+        "isTrue": false
       },
       {
-        "answerText": "А.Шопенгауэр",
-        "isRight": false
+        "answer": "А.Шопенгауэр",
+        "isTrue": false
       }
     ]
   },
@@ -2468,20 +2468,20 @@ export const philosophy = [
     "num": 113,
     "answers": [
       {
-        "answerText": "цивилизационный подход",
-        "isRight": true
+        "answer": "цивилизационный подход",
+        "isTrue": true
       },
       {
-        "answerText": "эмоциональный подход",
-        "isRight": false
+        "answer": "эмоциональный подход",
+        "isTrue": false
       },
       {
-        "answerText": "экзистенциальный подход",
-        "isRight": false
+        "answer": "экзистенциальный подход",
+        "isTrue": false
       },
       {
-        "answerText": "фальсификационный подход",
-        "isRight": false
+        "answer": "фальсификационный подход",
+        "isTrue": false
       }
     ]
   },
@@ -2490,20 +2490,20 @@ export const philosophy = [
     "num": 114,
     "answers": [
       {
-        "answerText": "А. М. Хайдеггер",
-        "isRight": true
+        "answer": "А. М. Хайдеггер",
+        "isTrue": true
       },
       {
-        "answerText": "В. О.Тоффлер",
-        "isRight": false
+        "answer": "В. О.Тоффлер",
+        "isTrue": false
       },
       {
-        "answerText": "С. И. Стенгерс",
-        "isRight": false
+        "answer": "С. И. Стенгерс",
+        "isTrue": false
       },
       {
-        "answerText": "Д. И. Пригожин",
-        "isRight": false
+        "answer": "Д. И. Пригожин",
+        "isTrue": false
       }
     ]
   },
@@ -2512,20 +2512,20 @@ export const philosophy = [
     "num": 115,
     "answers": [
       {
-        "answerText": "Интернет, Всемирную паутину",
-        "isRight": true
+        "answer": "Интернет, Всемирную паутину",
+        "isTrue": true
       },
       {
-        "answerText": "историческую альтернативу",
-        "isRight": false
+        "answer": "историческую альтернативу",
+        "isTrue": false
       },
       {
-        "answerText": "Традиционное общество",
-        "isRight": false
+        "answer": "Традиционное общество",
+        "isTrue": false
       },
       {
-        "answerText": "Патриархальную организацию общества",
-        "isRight": false
+        "answer": "Патриархальную организацию общества",
+        "isTrue": false
       }
     ]
   },
@@ -2534,20 +2534,20 @@ export const philosophy = [
     "num": 116,
     "answers": [
       {
-        "answerText": "концепция, согласно которой географические условия предопределяют развитие общества",
-        "isRight": true
+        "answer": "концепция, согласно которой географические условия предопределяют развитие общества",
+        "isTrue": true
       },
       {
-        "answerText": "теория коэволюции человека и техники",
-        "isRight": false
+        "answer": "теория коэволюции человека и техники",
+        "isTrue": false
       },
       {
-        "answerText": "связывает успехи развития культуры с Великими географическими открытиями",
-        "isRight": false
+        "answer": "связывает успехи развития культуры с Великими географическими открытиями",
+        "isTrue": false
       },
       {
-        "answerText": "отрицает влияние природных факторов на общественное развитие",
-        "isRight": false
+        "answer": "отрицает влияние природных факторов на общественное развитие",
+        "isTrue": false
       }
     ]
   },
@@ -2556,20 +2556,20 @@ export const philosophy = [
     "num": 117,
     "answers": [
       {
-        "answerText": "Прогресс и регресс",
-        "isRight": true
+        "answer": "Прогресс и регресс",
+        "isTrue": true
       },
       {
-        "answerText": "Кризис и расцвет",
-        "isRight": false
+        "answer": "Кризис и расцвет",
+        "isTrue": false
       },
       {
-        "answerText": "Экспансия и агрессия",
-        "isRight": false
+        "answer": "Экспансия и агрессия",
+        "isTrue": false
       },
       {
-        "answerText": "Движение и торможение",
-        "isRight": false
+        "answer": "Движение и торможение",
+        "isTrue": false
       }
     ]
   },
@@ -2578,20 +2578,20 @@ export const philosophy = [
     "num": 118,
     "answers": [
       {
-        "answerText": "движение от простого к сложному, от низшего к высшему",
-        "isRight": true
+        "answer": "движение от простого к сложному, от низшего к высшему",
+        "isTrue": true
       },
       {
-        "answerText": "деградация биологических видов",
-        "isRight": false
+        "answer": "деградация биологических видов",
+        "isTrue": false
       },
       {
-        "answerText": "утрата творческого начала",
-        "isRight": false
+        "answer": "утрата творческого начала",
+        "isTrue": false
       },
       {
-        "answerText": "движение по горизонтали",
-        "isRight": false
+        "answer": "движение по горизонтали",
+        "isTrue": false
       }
     ]
   },
@@ -2600,20 +2600,20 @@ export const philosophy = [
     "num": 119,
     "answers": [
       {
-        "answerText": "Автоматизация производства",
-        "isRight": true
+        "answer": "Автоматизация производства",
+        "isTrue": true
       },
       {
-        "answerText": "Развитие атомной энергетики",
-        "isRight": false
+        "answer": "Развитие атомной энергетики",
+        "isTrue": false
       },
       {
-        "answerText": "Химизация",
-        "isRight": false
+        "answer": "Химизация",
+        "isTrue": false
       },
       {
-        "answerText": "Экологизация производства",
-        "isRight": false
+        "answer": "Экологизация производства",
+        "isTrue": false
       }
     ]
   },
@@ -2622,20 +2622,20 @@ export const philosophy = [
     "num": 120,
     "answers": [
       {
-        "answerText": "&laquo;тихая&raquo; смерть",
-        "isRight": true
+        "answer": "&laquo;тихая&raquo; смерть",
+        "isTrue": true
       },
       {
-        "answerText": "Реанимация",
-        "isRight": false
+        "answer": "Реанимация",
+        "isTrue": false
       },
       {
-        "answerText": "жизнь после смерти",
-        "isRight": false
+        "answer": "жизнь после смерти",
+        "isTrue": false
       },
       {
-        "answerText": "биологическая смерть",
-        "isRight": false
+        "answer": "биологическая смерть",
+        "isTrue": false
       }
     ]
   },
@@ -2644,20 +2644,20 @@ export const philosophy = [
     "num": 121,
     "answers": [
       {
-        "answerText": "автономность, альтернативность, контрарность",
-        "isRight": true
+        "answer": "автономность, альтернативность, контрарность",
+        "isTrue": true
       },
       {
-        "answerText": "официальность, идеологичность, эпизодичность",
-        "isRight": false
+        "answer": "официальность, идеологичность, эпизодичность",
+        "isTrue": false
       },
       {
-        "answerText": "укорененность, традиционность, самобытность",
-        "isRight": false
+        "answer": "укорененность, традиционность, самобытность",
+        "isTrue": false
       },
       {
-        "answerText": "консерватизм, невосприимчивость к новому",
-        "isRight": false
+        "answer": "консерватизм, невосприимчивость к новому",
+        "isTrue": false
       }
     ]
   },
@@ -2666,20 +2666,20 @@ export const philosophy = [
     "num": 122,
     "answers": [
       {
-        "answerText": "в стремлении познать мир в его всеобщности и целостности",
-        "isRight": true
+        "answer": "в стремлении познать мир в его всеобщности и целостности",
+        "isTrue": true
       },
       {
-        "answerText": "в фанатизме",
-        "isRight": false
+        "answer": "в фанатизме",
+        "isTrue": false
       },
       {
-        "answerText": "в практическом отношении к миру",
-        "isRight": false
+        "answer": "в практическом отношении к миру",
+        "isTrue": false
       },
       {
-        "answerText": "в догматизме",
-        "isRight": false
+        "answer": "в догматизме",
+        "isTrue": false
       }
     ]
   },
@@ -2688,20 +2688,20 @@ export const philosophy = [
     "num": 123,
     "answers": [
       {
-        "answerText": "Государство, право, мораль, религия",
-        "isRight": true
+        "answer": "Государство, право, мораль, религия",
+        "isTrue": true
       },
       {
-        "answerText": "Атом, молекула, электрон",
-        "isRight": false
+        "answer": "Атом, молекула, электрон",
+        "isTrue": false
       },
       {
-        "answerText": "Галактика и метагалактика",
-        "isRight": false
+        "answer": "Галактика и метагалактика",
+        "isTrue": false
       },
       {
-        "answerText": "Литосфера, атмосфера",
-        "isRight": false
+        "answer": "Литосфера, атмосфера",
+        "isTrue": false
       }
     ]
   },
@@ -2710,20 +2710,20 @@ export const philosophy = [
     "num": 124,
     "answers": [
       {
-        "answerText": "систему взглядов, определяющих общее понимание мира и места человека в мире",
-        "isRight": true
+        "answer": "систему взглядов, определяющих общее понимание мира и места человека в мире",
+        "isTrue": true
       },
       {
-        "answerText": "систему донаучных взглядов",
-        "isRight": false
+        "answer": "систему донаучных взглядов",
+        "isTrue": false
       },
       {
-        "answerText": "коллективное сверхсознание",
-        "isRight": false
+        "answer": "коллективное сверхсознание",
+        "isTrue": false
       },
       {
-        "answerText": "результат взаимосвязи души и тела",
-        "isRight": false
+        "answer": "результат взаимосвязи души и тела",
+        "isTrue": false
       }
     ]
   },
@@ -2732,20 +2732,20 @@ export const philosophy = [
     "num": 125,
     "answers": [
       {
-        "answerText": "сократовский метод установления истины",
-        "isRight": true
+        "answer": "сократовский метод установления истины",
+        "isTrue": true
       },
       {
-        "answerText": "вид бытия",
-        "isRight": false
+        "answer": "вид бытия",
+        "isTrue": false
       },
       {
-        "answerText": "метод Аристотеля",
-        "isRight": false
+        "answer": "метод Аристотеля",
+        "isTrue": false
       },
       {
-        "answerText": "раздел эстетики",
-        "isRight": false
+        "answer": "раздел эстетики",
+        "isTrue": false
       }
     ]
   },
@@ -2754,20 +2754,20 @@ export const philosophy = [
     "num": 126,
     "answers": [
       {
-        "answerText": "Совокупность взгляда отражающих веру в Бога",
-        "isRight": true
+        "answer": "Совокупность взгляда отражающих веру в Бога",
+        "isTrue": true
       },
       {
-        "answerText": "Научные высказывания и гипотезы",
-        "isRight": false
+        "answer": "Научные высказывания и гипотезы",
+        "isTrue": false
       },
       {
-        "answerText": "Свобода индивидуального выбора",
-        "isRight": false
+        "answer": "Свобода индивидуального выбора",
+        "isTrue": false
       },
       {
-        "answerText": "Совокупность ценностных ориентаций",
-        "isRight": false
+        "answer": "Совокупность ценностных ориентаций",
+        "isTrue": false
       }
     ]
   },
@@ -2776,20 +2776,20 @@ export const philosophy = [
     "num": 127,
     "answers": [
       {
-        "answerText": "Деградация природы и общества",
-        "isRight": true
+        "answer": "Деградация природы и общества",
+        "isTrue": true
       },
       {
-        "answerText": "Зигзагообразность развития",
-        "isRight": false
+        "answer": "Зигзагообразность развития",
+        "isTrue": false
       },
       {
-        "answerText": "разрушение противоречий",
-        "isRight": false
+        "answer": "разрушение противоречий",
+        "isTrue": false
       },
       {
-        "answerText": "потеря ориентации",
-        "isRight": false
+        "answer": "потеря ориентации",
+        "isTrue": false
       }
     ]
   },
@@ -2798,20 +2798,20 @@ export const philosophy = [
     "num": 128,
     "answers": [
       {
-        "answerText": "воля к власти",
-        "isRight": true
+        "answer": "воля к власти",
+        "isTrue": true
       },
       {
-        "answerText": "бессознательное",
-        "isRight": false
+        "answer": "бессознательное",
+        "isTrue": false
       },
       {
-        "answerText": "точка Омега",
-        "isRight": false
+        "answer": "точка Омега",
+        "isTrue": false
       },
       {
-        "answerText": "эпифеномен",
-        "isRight": false
+        "answer": "эпифеномен",
+        "isTrue": false
       }
     ]
   },
@@ -2820,20 +2820,20 @@ export const philosophy = [
     "num": 129,
     "answers": [
       {
-        "answerText": "Яссауи",
-        "isRight": true
+        "answer": "Яссауи",
+        "isTrue": true
       },
       {
-        "answerText": "аль-Кинди",
-        "isRight": false
+        "answer": "аль-Кинди",
+        "isTrue": false
       },
       {
-        "answerText": "Ибн-Сина",
-        "isRight": false
+        "answer": "Ибн-Сина",
+        "isTrue": false
       },
       {
-        "answerText": "аль-Фараби",
-        "isRight": false
+        "answer": "аль-Фараби",
+        "isTrue": false
       }
     ]
   },
@@ -2842,20 +2842,20 @@ export const philosophy = [
     "num": 130,
     "answers": [
       {
-        "answerText": "Ценность",
-        "isRight": true
+        "answer": "Ценность",
+        "isTrue": true
       },
       {
-        "answerText": "Предмет",
-        "isRight": false
+        "answer": "Предмет",
+        "isTrue": false
       },
       {
-        "answerText": "Объект",
-        "isRight": false
+        "answer": "Объект",
+        "isTrue": false
       },
       {
-        "answerText": "Явление",
-        "isRight": false
+        "answer": "Явление",
+        "isTrue": false
       }
     ]
   },
@@ -2864,20 +2864,20 @@ export const philosophy = [
     "num": 131,
     "answers": [
       {
-        "answerText": "Ф.Ницше",
-        "isRight": true
+        "answer": "Ф.Ницше",
+        "isTrue": true
       },
       {
-        "answerText": "И.Кант",
-        "isRight": false
+        "answer": "И.Кант",
+        "isTrue": false
       },
       {
-        "answerText": "К.Маркс",
-        "isRight": false
+        "answer": "К.Маркс",
+        "isTrue": false
       },
       {
-        "answerText": "И.Фихте",
-        "isRight": false
+        "answer": "И.Фихте",
+        "isTrue": false
       }
     ]
   },
@@ -2886,20 +2886,20 @@ export const philosophy = [
     "num": 132,
     "answers": [
       {
-        "answerText": "Р.Лотце",
-        "isRight": true
+        "answer": "Р.Лотце",
+        "isTrue": true
       },
       {
-        "answerText": "Г.Гегель",
-        "isRight": false
+        "answer": "Г.Гегель",
+        "isTrue": false
       },
       {
-        "answerText": "К.Маркс",
-        "isRight": false
+        "answer": "К.Маркс",
+        "isTrue": false
       },
       {
-        "answerText": "М.Хайдеггер",
-        "isRight": false
+        "answer": "М.Хайдеггер",
+        "isTrue": false
       }
     ]
   },
@@ -2908,20 +2908,20 @@ export const philosophy = [
     "num": 133,
     "answers": [
       {
-        "answerText": "идеализация",
-        "isRight": true
+        "answer": "идеализация",
+        "isTrue": true
       },
       {
-        "answerText": "наблюдение",
-        "isRight": false
+        "answer": "наблюдение",
+        "isTrue": false
       },
       {
-        "answerText": "измерение",
-        "isRight": false
+        "answer": "измерение",
+        "isTrue": false
       },
       {
-        "answerText": "сравнение",
-        "isRight": false
+        "answer": "сравнение",
+        "isTrue": false
       }
     ]
   },
@@ -2930,20 +2930,20 @@ export const philosophy = [
     "num": 134,
     "answers": [
       {
-        "answerText": "Утверждал, что &laquo;Я мыслю &ndash; следовательно, я существую&raquo;",
-        "isRight": true
+        "answer": "Утверждал, что &laquo;Я мыслю &ndash; следовательно, я существую&raquo;",
+        "isTrue": true
       },
       {
-        "answerText": "Считал, что душа человека является материальной и протяженной",
-        "isRight": false
+        "answer": "Считал, что душа человека является материальной и протяженной",
+        "isTrue": false
       },
       {
-        "answerText": "Доказал существование Бога",
-        "isRight": false
+        "answer": "Доказал существование Бога",
+        "isTrue": false
       },
       {
-        "answerText": "Подверг критике философские взгляды позитивистов",
-        "isRight": false
+        "answer": "Подверг критике философские взгляды позитивистов",
+        "isTrue": false
       }
     ]
   },
@@ -2952,20 +2952,20 @@ export const philosophy = [
     "num": 135,
     "answers": [
       {
-        "answerText": "Атамекен, кіндік қаны тамған жер",
-        "isRight": true
+        "answer": "Атамекен, кіндік қаны тамған жер",
+        "isTrue": true
       },
       {
-        "answerText": "Жетісу",
-        "isRight": false
+        "answer": "Жетісу",
+        "isTrue": false
       },
       {
-        "answerText": "Сарыарқа",
-        "isRight": false
+        "answer": "Сарыарқа",
+        "isTrue": false
       },
       {
-        "answerText": "Темир казык",
-        "isRight": false
+        "answer": "Темир казык",
+        "isTrue": false
       }
     ]
   },
@@ -2974,20 +2974,20 @@ export const philosophy = [
     "num": 136,
     "answers": [
       {
-        "answerText": "отражала особенности кочевой культуры и развивалась в форме поэзии",
-        "isRight": true
+        "answer": "отражала особенности кочевой культуры и развивалась в форме поэзии",
+        "isTrue": true
       },
       {
-        "answerText": "развивалась только в средневековых городах Средней Азии",
-        "isRight": false
+        "answer": "развивалась только в средневековых городах Средней Азии",
+        "isTrue": false
       },
       {
-        "answerText": "в основном обращалась к проблемам философии науки",
-        "isRight": false
+        "answer": "в основном обращалась к проблемам философии науки",
+        "isTrue": false
       },
       {
-        "answerText": "развивалась в форме комментариев к священным текстам",
-        "isRight": false
+        "answer": "развивалась в форме комментариев к священным текстам",
+        "isTrue": false
       }
     ]
   },
@@ -2996,20 +2996,20 @@ export const philosophy = [
     "num": 137,
     "answers": [
       {
-        "answerText": "человек рассматривается как творение Бога",
-        "isRight": true
+        "answer": "человек рассматривается как творение Бога",
+        "isTrue": true
       },
       {
-        "answerText": "сознание свойство высокоорганизованной материи",
-        "isRight": false
+        "answer": "сознание свойство высокоорганизованной материи",
+        "isTrue": false
       },
       {
-        "answerText": "сознание умирает вместе с телом",
-        "isRight": false
+        "answer": "сознание умирает вместе с телом",
+        "isTrue": false
       },
       {
-        "answerText": "человек не обладает сознанием",
-        "isRight": false
+        "answer": "человек не обладает сознанием",
+        "isTrue": false
       }
     ]
   },
@@ -3018,20 +3018,20 @@ export const philosophy = [
     "num": 138,
     "answers": [
       {
-        "answerText": "Субъекта и объекта",
-        "isRight": true
+        "answer": "Субъекта и объекта",
+        "isTrue": true
       },
       {
-        "answerText": "Материи и сознания",
-        "isRight": false
+        "answer": "Материи и сознания",
+        "isTrue": false
       },
       {
-        "answerText": "Времени и пространства",
-        "isRight": false
+        "answer": "Времени и пространства",
+        "isTrue": false
       },
       {
-        "answerText": "Идей и чувств",
-        "isRight": false
+        "answer": "Идей и чувств",
+        "isTrue": false
       }
     ]
   },
@@ -3040,20 +3040,20 @@ export const philosophy = [
     "num": 139,
     "answers": [
       {
-        "answerText": "Рационализм и эмпиризм",
-        "isRight": true
+        "answer": "Рационализм и эмпиризм",
+        "isTrue": true
       },
       {
-        "answerText": "Практицизм и проблематизм",
-        "isRight": false
+        "answer": "Практицизм и проблематизм",
+        "isTrue": false
       },
       {
-        "answerText": "Унитаризм и федерализм",
-        "isRight": false
+        "answer": "Унитаризм и федерализм",
+        "isTrue": false
       },
       {
-        "answerText": "Монизм и дуализм",
-        "isRight": false
+        "answer": "Монизм и дуализм",
+        "isTrue": false
       }
     ]
   },
@@ -3062,20 +3062,20 @@ export const philosophy = [
     "num": 140,
     "answers": [
       {
-        "answerText": "о сущности познания",
-        "isRight": true
+        "answer": "о сущности познания",
+        "isTrue": true
       },
       {
-        "answerText": "о ценностях, об их происхождении и сущности",
-        "isRight": false
+        "answer": "о ценностях, об их происхождении и сущности",
+        "isTrue": false
       },
       {
-        "answerText": "о развитии вселенной",
-        "isRight": false
+        "answer": "о развитии вселенной",
+        "isTrue": false
       },
       {
-        "answerText": "о бытии как таковом",
-        "isRight": false
+        "answer": "о бытии как таковом",
+        "isTrue": false
       }
     ]
   },
@@ -3084,20 +3084,20 @@ export const philosophy = [
     "num": 141,
     "answers": [
       {
-        "answerText": "Ибн-Рушд",
-        "isRight": true
+        "answer": "Ибн-Рушд",
+        "isTrue": true
       },
       {
-        "answerText": "Л. да Винчи",
-        "isRight": false
+        "answer": "Л. да Винчи",
+        "isTrue": false
       },
       {
-        "answerText": "Аристотель",
-        "isRight": false
+        "answer": "Аристотель",
+        "isTrue": false
       },
       {
-        "answerText": "Монтень",
-        "isRight": false
+        "answer": "Монтень",
+        "isTrue": false
       }
     ]
   },
@@ -3106,20 +3106,20 @@ export const philosophy = [
     "num": 142,
     "answers": [
       {
-        "answerText": "Эмпирический и теоретический",
-        "isRight": true
+        "answer": "Эмпирический и теоретический",
+        "isTrue": true
       },
       {
-        "answerText": "Религиозный и мифологический",
-        "isRight": false
+        "answer": "Религиозный и мифологический",
+        "isTrue": false
       },
       {
-        "answerText": "Диалектический и символический",
-        "isRight": false
+        "answer": "Диалектический и символический",
+        "isTrue": false
       },
       {
-        "answerText": "Чувственный и рациональный",
-        "isRight": false
+        "answer": "Чувственный и рациональный",
+        "isTrue": false
       }
     ]
   },
@@ -3128,20 +3128,20 @@ export const philosophy = [
     "num": 143,
     "answers": [
       {
-        "answerText": "Основу и источник познания",
-        "isRight": true
+        "answer": "Основу и источник познания",
+        "isTrue": true
       },
       {
-        "answerText": "Препятствие познания",
-        "isRight": false
+        "answer": "Препятствие познания",
+        "isTrue": false
       },
       {
-        "answerText": "Заблуждение",
-        "isRight": false
+        "answer": "Заблуждение",
+        "isTrue": false
       },
       {
-        "answerText": "Синтетическое отношение",
-        "isRight": false
+        "answer": "Синтетическое отношение",
+        "isTrue": false
       }
     ]
   },
@@ -3150,20 +3150,20 @@ export const philosophy = [
     "num": 144,
     "answers": [
       {
-        "answerText": "Принцип мышления, направленный на осмысление и осознание самого себя",
-        "isRight": true
+        "answer": "Принцип мышления, направленный на осмысление и осознание самого себя",
+        "isTrue": true
       },
       {
-        "answerText": "Практическая проверка знаний",
-        "isRight": false
+        "answer": "Практическая проверка знаний",
+        "isTrue": false
       },
       {
-        "answerText": "Исторический тип мировоззрения",
-        "isRight": false
+        "answer": "Исторический тип мировоззрения",
+        "isTrue": false
       },
       {
-        "answerText": "Синоним априорного знания",
-        "isRight": false
+        "answer": "Синоним априорного знания",
+        "isTrue": false
       }
     ]
   },
@@ -3172,20 +3172,20 @@ export const philosophy = [
     "num": 145,
     "answers": [
       {
-        "answerText": "сциентизм",
-        "isRight": true
+        "answer": "сциентизм",
+        "isTrue": true
       },
       {
-        "answerText": "антисциентизм",
-        "isRight": false
+        "answer": "антисциентизм",
+        "isTrue": false
       },
       {
-        "answerText": "наукофобия",
-        "isRight": false
+        "answer": "наукофобия",
+        "isTrue": false
       },
       {
-        "answerText": "гносеология",
-        "isRight": false
+        "answer": "гносеология",
+        "isTrue": false
       }
     ]
   },
@@ -3194,20 +3194,20 @@ export const philosophy = [
     "num": 146,
     "answers": [
       {
-        "answerText": "Социальна по своей природе",
-        "isRight": true
+        "answer": "Социальна по своей природе",
+        "isTrue": true
       },
       {
-        "answerText": "Результат божественного творения",
-        "isRight": false
+        "answer": "Результат божественного творения",
+        "isTrue": false
       },
       {
-        "answerText": "Что-то неуловимое и неопределенное",
-        "isRight": false
+        "answer": "Что-то неуловимое и неопределенное",
+        "isTrue": false
       },
       {
-        "answerText": "Результат эксперимента",
-        "isRight": false
+        "answer": "Результат эксперимента",
+        "isTrue": false
       }
     ]
   },
@@ -3216,20 +3216,20 @@ export const philosophy = [
     "num": 147,
     "answers": [
       {
-        "answerText": "Трудовая деятельность, общение",
-        "isRight": true
+        "answer": "Трудовая деятельность, общение",
+        "isTrue": true
       },
       {
-        "answerText": "Развитие телесных качеств",
-        "isRight": false
+        "answer": "Развитие телесных качеств",
+        "isTrue": false
       },
       {
-        "answerText": "Брачные обряды, религия",
-        "isRight": false
+        "answer": "Брачные обряды, религия",
+        "isTrue": false
       },
       {
-        "answerText": "Совокупность психологических черт",
-        "isRight": false
+        "answer": "Совокупность психологических черт",
+        "isTrue": false
       }
     ]
   },
@@ -3238,20 +3238,20 @@ export const philosophy = [
     "num": 148,
     "answers": [
       {
-        "answerText": "о всеобщей закономерной связи, причинно-следственной обусловленности явлений",
-        "isRight": true
+        "answer": "о всеобщей закономерной связи, причинно-следственной обусловленности явлений",
+        "isTrue": true
       },
       {
-        "answerText": "направлением антропологии, отрицающем свободу человека",
-        "isRight": false
+        "answer": "направлением антропологии, отрицающем свободу человека",
+        "isTrue": false
       },
       {
-        "answerText": "о божественной предопределенности",
-        "isRight": false
+        "answer": "о божественной предопределенности",
+        "isTrue": false
       },
       {
-        "answerText": "учение о свободной воле",
-        "isRight": false
+        "answer": "учение о свободной воле",
+        "isTrue": false
       }
     ]
   },
@@ -3260,20 +3260,20 @@ export const philosophy = [
     "num": 149,
     "answers": [
       {
-        "answerText": "Шокан Валиханов, Ыбырай Алтынсарин",
-        "isRight": true
+        "answer": "Шокан Валиханов, Ыбырай Алтынсарин",
+        "isTrue": true
       },
       {
-        "answerText": "Аль-Фараби, Аль-Газали",
-        "isRight": false
+        "answer": "Аль-Фараби, Аль-Газали",
+        "isTrue": false
       },
       {
-        "answerText": "Юсуф Баласагуни, Махмуд Кашгари",
-        "isRight": false
+        "answer": "Юсуф Баласагуни, Махмуд Кашгари",
+        "isTrue": false
       },
       {
-        "answerText": "Казтуган-жырау, Шалкииз",
-        "isRight": false
+        "answer": "Казтуган-жырау, Шалкииз",
+        "isTrue": false
       }
     ]
   },
@@ -3282,20 +3282,20 @@ export const philosophy = [
     "num": 150,
     "answers": [
       {
-        "answerText": "смерти и бессмертия человека",
-        "isRight": true
+        "answer": "смерти и бессмертия человека",
+        "isTrue": true
       },
       {
-        "answerText": "осознания конечности жизни человека",
-        "isRight": false
+        "answer": "осознания конечности жизни человека",
+        "isTrue": false
       },
       {
-        "answerText": "гносеологическим оптимизмом",
-        "isRight": false
+        "answer": "гносеологическим оптимизмом",
+        "isTrue": false
       },
       {
-        "answerText": "осознанию принципиальной непознаваемости мира",
-        "isRight": false
+        "answer": "осознанию принципиальной непознаваемости мира",
+        "isTrue": false
       }
     ]
   },
@@ -3304,20 +3304,20 @@ export const philosophy = [
     "num": 151,
     "answers": [
       {
-        "answerText": "выражает высшую цель стремлений и деятельности человека",
-        "isRight": true
+        "answer": "выражает высшую цель стремлений и деятельности человека",
+        "isTrue": true
       },
       {
-        "answerText": "методология достижения истины",
-        "isRight": false
+        "answer": "методология достижения истины",
+        "isTrue": false
       },
       {
-        "answerText": "религиозное понятие",
-        "isRight": false
+        "answer": "религиозное понятие",
+        "isTrue": false
       },
       {
-        "answerText": "выражает частные интересы людей",
-        "isRight": false
+        "answer": "выражает частные интересы людей",
+        "isTrue": false
       }
     ]
   },
@@ -3326,20 +3326,20 @@ export const philosophy = [
     "num": 152,
     "answers": [
       {
-        "answerText": "теория долга",
-        "isRight": true
+        "answer": "теория долга",
+        "isTrue": true
       },
       {
-        "answerText": "теории пользы",
-        "isRight": false
+        "answer": "теории пользы",
+        "isTrue": false
       },
       {
-        "answerText": "теория духовного",
-        "isRight": false
+        "answer": "теория духовного",
+        "isTrue": false
       },
       {
-        "answerText": "монизм",
-        "isRight": false
+        "answer": "монизм",
+        "isTrue": false
       }
     ]
   },
@@ -3348,20 +3348,20 @@ export const philosophy = [
     "num": 153,
     "answers": [
       {
-        "answerText": "Свобода &ndash; это свобода выбора, которую никто не может отнять у человека",
-        "isRight": true
+        "answer": "Свобода &ndash; это свобода выбора, которую никто не может отнять у человека",
+        "isTrue": true
       },
       {
-        "answerText": "Все абсурдно",
-        "isRight": false
+        "answer": "Все абсурдно",
+        "isTrue": false
       },
       {
-        "answerText": "Жизнь и судьба человека предопределены",
-        "isRight": false
+        "answer": "Жизнь и судьба человека предопределены",
+        "isTrue": false
       },
       {
-        "answerText": "Свобода &ndash; это гуманизм",
-        "isRight": false
+        "answer": "Свобода &ndash; это гуманизм",
+        "isTrue": false
       }
     ]
   },
@@ -3370,20 +3370,20 @@ export const philosophy = [
     "num": 154,
     "answers": [
       {
-        "answerText": "Шопенгауэра, Ницше",
-        "isRight": true
+        "answer": "Шопенгауэра, Ницше",
+        "isTrue": true
       },
       {
-        "answerText": "Маркса, Энгельса",
-        "isRight": false
+        "answer": "Маркса, Энгельса",
+        "isTrue": false
       },
       {
-        "answerText": "Канта, Гегеля",
-        "isRight": false
+        "answer": "Канта, Гегеля",
+        "isTrue": false
       },
       {
-        "answerText": "Платона, Сократа",
-        "isRight": false
+        "answer": "Платона, Сократа",
+        "isTrue": false
       }
     ]
   },
@@ -3392,20 +3392,20 @@ export const philosophy = [
     "num": 155,
     "answers": [
       {
-        "answerText": "Н. Кузанский",
-        "isRight": true
+        "answer": "Н. Кузанский",
+        "isTrue": true
       },
       {
-        "answerText": "Эпикур",
-        "isRight": false
+        "answer": "Эпикур",
+        "isTrue": false
       },
       {
-        "answerText": "П. Абеляр",
-        "isRight": false
+        "answer": "П. Абеляр",
+        "isTrue": false
       },
       {
-        "answerText": "Р. Декарт",
-        "isRight": false
+        "answer": "Р. Декарт",
+        "isTrue": false
       }
     ]
   },
@@ -3414,20 +3414,20 @@ export const philosophy = [
     "num": 156,
     "answers": [
       {
-        "answerText": "Возрождения",
-        "isRight": true
+        "answer": "Возрождения",
+        "isTrue": true
       },
       {
-        "answerText": "Просвещения",
-        "isRight": false
+        "answer": "Просвещения",
+        "isTrue": false
       },
       {
-        "answerText": "Средневековья",
-        "isRight": false
+        "answer": "Средневековья",
+        "isTrue": false
       },
       {
-        "answerText": "Античности",
-        "isRight": false
+        "answer": "Античности",
+        "isTrue": false
       }
     ]
   },
@@ -3436,20 +3436,20 @@ export const philosophy = [
     "num": 157,
     "answers": [
       {
-        "answerText": "ученое незнание",
-        "isRight": true
+        "answer": "ученое незнание",
+        "isTrue": true
       },
       {
-        "answerText": "рациональное познание",
-        "isRight": false
+        "answer": "рациональное познание",
+        "isTrue": false
       },
       {
-        "answerText": "теория двойственной истины",
-        "isRight": false
+        "answer": "теория двойственной истины",
+        "isTrue": false
       },
       {
-        "answerText": "учение о монадах",
-        "isRight": false
+        "answer": "учение о монадах",
+        "isTrue": false
       }
     ]
   },
@@ -3458,20 +3458,20 @@ export const philosophy = [
     "num": 158,
     "answers": [
       {
-        "answerText": "Лейбниц",
-        "isRight": true
+        "answer": "Лейбниц",
+        "isTrue": true
       },
       {
-        "answerText": "Бэкон",
-        "isRight": false
+        "answer": "Бэкон",
+        "isTrue": false
       },
       {
-        "answerText": "Локк",
-        "isRight": false
+        "answer": "Локк",
+        "isTrue": false
       },
       {
-        "answerText": "Гоббс",
-        "isRight": false
+        "answer": "Гоббс",
+        "isTrue": false
       }
     ]
   },
@@ -3480,20 +3480,20 @@ export const philosophy = [
     "num": 159,
     "answers": [
       {
-        "answerText": "диалектика",
-        "isRight": true
+        "answer": "диалектика",
+        "isTrue": true
       },
       {
-        "answerText": "биология",
-        "isRight": false
+        "answer": "биология",
+        "isTrue": false
       },
       {
-        "answerText": "химия",
-        "isRight": false
+        "answer": "химия",
+        "isTrue": false
       },
       {
-        "answerText": "астрономия",
-        "isRight": false
+        "answer": "астрономия",
+        "isTrue": false
       }
     ]
   },
@@ -3502,20 +3502,20 @@ export const philosophy = [
     "num": 160,
     "answers": [
       {
-        "answerText": "разделение научной и религиозной истин",
-        "isRight": true
+        "answer": "разделение научной и религиозной истин",
+        "isTrue": true
       },
       {
-        "answerText": "представление об относительности истины",
-        "isRight": false
+        "answer": "представление об относительности истины",
+        "isTrue": false
       },
       {
-        "answerText": "представление о Боге как источнике знания",
-        "isRight": false
+        "answer": "представление о Боге как источнике знания",
+        "isTrue": false
       },
       {
-        "answerText": "представление о том, что любое суждение может быть истинным и ложным",
-        "isRight": false
+        "answer": "представление о том, что любое суждение может быть истинным и ложным",
+        "isTrue": false
       }
     ]
   },
@@ -3524,20 +3524,20 @@ export const philosophy = [
     "num": 161,
     "answers": [
       {
-        "answerText": "Идолы Вселенной",
-        "isRight": true
+        "answer": "Идолы Вселенной",
+        "isTrue": true
       },
       {
-        "answerText": "Идолы пещеры",
-        "isRight": false
+        "answer": "Идолы пещеры",
+        "isTrue": false
       },
       {
-        "answerText": "Идолы площади",
-        "isRight": false
+        "answer": "Идолы площади",
+        "isTrue": false
       },
       {
-        "answerText": "Идолы рода",
-        "isRight": false
+        "answer": "Идолы рода",
+        "isTrue": false
       }
     ]
   },
@@ -3546,20 +3546,20 @@ export const philosophy = [
     "num": 162,
     "answers": [
       {
-        "answerText": "Декартом",
-        "isRight": true
+        "answer": "Декартом",
+        "isTrue": true
       },
       {
-        "answerText": "Лейбницем",
-        "isRight": false
+        "answer": "Лейбницем",
+        "isTrue": false
       },
       {
-        "answerText": "Спинозой",
-        "isRight": false
+        "answer": "Спинозой",
+        "isTrue": false
       },
       {
-        "answerText": "Бэконом",
-        "isRight": false
+        "answer": "Бэконом",
+        "isTrue": false
       }
     ]
   },
@@ -3568,20 +3568,20 @@ export const philosophy = [
     "num": 163,
     "answers": [
       {
-        "answerText": "Р. Декарта",
-        "isRight": true
+        "answer": "Р. Декарта",
+        "isTrue": true
       },
       {
-        "answerText": "М. Хайдеггера",
-        "isRight": false
+        "answer": "М. Хайдеггера",
+        "isTrue": false
       },
       {
-        "answerText": "А. Камю",
-        "isRight": false
+        "answer": "А. Камю",
+        "isTrue": false
       },
       {
-        "answerText": "П. Абеляра",
-        "isRight": false
+        "answer": "П. Абеляра",
+        "isTrue": false
       }
     ]
   },
@@ -3590,20 +3590,20 @@ export const philosophy = [
     "num": 164,
     "answers": [
       {
-        "answerText": "Р. Декарт",
-        "isRight": true
+        "answer": "Р. Декарт",
+        "isTrue": true
       },
       {
-        "answerText": "Мальбранш",
-        "isRight": false
+        "answer": "Мальбранш",
+        "isTrue": false
       },
       {
-        "answerText": "Ф. Бэкон",
-        "isRight": false
+        "answer": "Ф. Бэкон",
+        "isTrue": false
       },
       {
-        "answerText": "Б. Паскаль",
-        "isRight": false
+        "answer": "Б. Паскаль",
+        "isTrue": false
       }
     ]
   },
@@ -3612,20 +3612,20 @@ export const philosophy = [
     "num": 165,
     "answers": [
       {
-        "answerText": "дуалистически",
-        "isRight": true
+        "answer": "дуалистически",
+        "isTrue": true
       },
       {
-        "answerText": "монистически",
-        "isRight": false
+        "answer": "монистически",
+        "isTrue": false
       },
       {
-        "answerText": "плюралистически",
-        "isRight": false
+        "answer": "плюралистически",
+        "isTrue": false
       },
       {
-        "answerText": "архаически",
-        "isRight": false
+        "answer": "архаически",
+        "isTrue": false
       }
     ]
   },
@@ -3634,20 +3634,20 @@ export const philosophy = [
     "num": 166,
     "answers": [
       {
-        "answerText": "Р. Декарт",
-        "isRight": true
+        "answer": "Р. Декарт",
+        "isTrue": true
       },
       {
-        "answerText": "Г. Гегель",
-        "isRight": false
+        "answer": "Г. Гегель",
+        "isTrue": false
       },
       {
-        "answerText": "Аль &ndash; Фараби",
-        "isRight": false
+        "answer": "Аль &ndash; Фараби",
+        "isTrue": false
       },
       {
-        "answerText": "Аль &ndash; Кинди",
-        "isRight": false
+        "answer": "Аль &ndash; Кинди",
+        "isTrue": false
       }
     ]
   },
@@ -3656,20 +3656,20 @@ export const philosophy = [
     "num": 167,
     "answers": [
       {
-        "answerText": "Б. Спиноза",
-        "isRight": true
+        "answer": "Б. Спиноза",
+        "isTrue": true
       },
       {
-        "answerText": "Т. Гоббс",
-        "isRight": false
+        "answer": "Т. Гоббс",
+        "isTrue": false
       },
       {
-        "answerText": "Дж. Бекон",
-        "isRight": false
+        "answer": "Дж. Бекон",
+        "isTrue": false
       },
       {
-        "answerText": "Дж. Локк",
-        "isRight": false
+        "answer": "Дж. Локк",
+        "isTrue": false
       }
     ]
   },
@@ -3678,20 +3678,20 @@ export const philosophy = [
     "num": 168,
     "answers": [
       {
-        "answerText": "Ф. Бэкон",
-        "isRight": true
+        "answer": "Ф. Бэкон",
+        "isTrue": true
       },
       {
-        "answerText": "Б. Паскаль",
-        "isRight": false
+        "answer": "Б. Паскаль",
+        "isTrue": false
       },
       {
-        "answerText": "Р. Декарт",
-        "isRight": false
+        "answer": "Р. Декарт",
+        "isTrue": false
       },
       {
-        "answerText": "Дж. Локк",
-        "isRight": false
+        "answer": "Дж. Локк",
+        "isTrue": false
       }
     ]
   },
@@ -3700,20 +3700,20 @@ export const philosophy = [
     "num": 169,
     "answers": [
       {
-        "answerText": "фрейдизма",
-        "isRight": true
+        "answer": "фрейдизма",
+        "isTrue": true
       },
       {
-        "answerText": "феноменологии",
-        "isRight": false
+        "answer": "феноменологии",
+        "isTrue": false
       },
       {
-        "answerText": "структурализма",
-        "isRight": false
+        "answer": "структурализма",
+        "isTrue": false
       },
       {
-        "answerText": "позитивизма",
-        "isRight": false
+        "answer": "позитивизма",
+        "isTrue": false
       }
     ]
   },
@@ -3722,20 +3722,20 @@ export const philosophy = [
     "num": 170,
     "answers": [
       {
-        "answerText": "эмпиризм-рационализм",
-        "isRight": true
+        "answer": "эмпиризм-рационализм",
+        "isTrue": true
       },
       {
-        "answerText": "номинализм-реализм",
-        "isRight": false
+        "answer": "номинализм-реализм",
+        "isTrue": false
       },
       {
-        "answerText": "агностицизм-идеализм",
-        "isRight": false
+        "answer": "агностицизм-идеализм",
+        "isTrue": false
       },
       {
-        "answerText": "правильного ответа нет",
-        "isRight": false
+        "answer": "правильного ответа нет",
+        "isTrue": false
       }
     ]
   },
@@ -3744,20 +3744,20 @@ export const philosophy = [
     "num": 171,
     "answers": [
       {
-        "answerText": "Г. Лейбница",
-        "isRight": true
+        "answer": "Г. Лейбница",
+        "isTrue": true
       },
       {
-        "answerText": "Эпикура",
-        "isRight": false
+        "answer": "Эпикура",
+        "isTrue": false
       },
       {
-        "answerText": "Ф. Аквинского",
-        "isRight": false
+        "answer": "Ф. Аквинского",
+        "isTrue": false
       },
       {
-        "answerText": "Ф. Бэкона",
-        "isRight": false
+        "answer": "Ф. Бэкона",
+        "isTrue": false
       }
     ]
   },
@@ -3766,20 +3766,20 @@ export const philosophy = [
     "num": 172,
     "answers": [
       {
-        "answerText": "эмпиризма",
-        "isRight": true
+        "answer": "эмпиризма",
+        "isTrue": true
       },
       {
-        "answerText": "рационализма",
-        "isRight": false
+        "answer": "рационализма",
+        "isTrue": false
       },
       {
-        "answerText": "номинализма",
-        "isRight": false
+        "answer": "номинализма",
+        "isTrue": false
       },
       {
-        "answerText": "иррационализма",
-        "isRight": false
+        "answer": "иррационализма",
+        "isTrue": false
       }
     ]
   },
@@ -3788,20 +3788,20 @@ export const philosophy = [
     "num": 173,
     "answers": [
       {
-        "answerText": "гносеологии",
-        "isRight": true
+        "answer": "гносеологии",
+        "isTrue": true
       },
       {
-        "answerText": "аксиологии",
-        "isRight": false
+        "answer": "аксиологии",
+        "isTrue": false
       },
       {
-        "answerText": "политики",
-        "isRight": false
+        "answer": "политики",
+        "isTrue": false
       },
       {
-        "answerText": "бытия",
-        "isRight": false
+        "answer": "бытия",
+        "isTrue": false
       }
     ]
   },
@@ -3810,20 +3810,20 @@ export const philosophy = [
     "num": 174,
     "answers": [
       {
-        "answerText": "материализма",
-        "isRight": true
+        "answer": "материализма",
+        "isTrue": true
       },
       {
-        "answerText": "идеализма",
-        "isRight": false
+        "answer": "идеализма",
+        "isTrue": false
       },
       {
-        "answerText": "агностицизма",
-        "isRight": false
+        "answer": "агностицизма",
+        "isTrue": false
       },
       {
-        "answerText": "скептицизма",
-        "isRight": false
+        "answer": "скептицизма",
+        "isTrue": false
       }
     ]
   },
@@ -3832,20 +3832,20 @@ export const philosophy = [
     "num": 175,
     "answers": [
       {
-        "answerText": "морали",
-        "isRight": true
+        "answer": "морали",
+        "isTrue": true
       },
       {
-        "answerText": "гносеологии",
-        "isRight": false
+        "answer": "гносеологии",
+        "isTrue": false
       },
       {
-        "answerText": "политики",
-        "isRight": false
+        "answer": "политики",
+        "isTrue": false
       },
       {
-        "answerText": "бытия",
-        "isRight": false
+        "answer": "бытия",
+        "isTrue": false
       }
     ]
   },
@@ -3854,20 +3854,20 @@ export const philosophy = [
     "num": 176,
     "answers": [
       {
-        "answerText": "И. Кант",
-        "isRight": true
+        "answer": "И. Кант",
+        "isTrue": true
       },
       {
-        "answerText": "Ф. Шеллинг",
-        "isRight": false
+        "answer": "Ф. Шеллинг",
+        "isTrue": false
       },
       {
-        "answerText": "Г. Гегель",
-        "isRight": false
+        "answer": "Г. Гегель",
+        "isTrue": false
       },
       {
-        "answerText": "Л. Фейербах",
-        "isRight": false
+        "answer": "Л. Фейербах",
+        "isTrue": false
       }
     ]
   },
@@ -3876,20 +3876,20 @@ export const philosophy = [
     "num": 177,
     "answers": [
       {
-        "answerText": "Человек создал Бога",
-        "isRight": true
+        "answer": "Человек создал Бога",
+        "isTrue": true
       },
       {
-        "answerText": "Бог создал человека",
-        "isRight": false
+        "answer": "Бог создал человека",
+        "isTrue": false
       },
       {
-        "answerText": "Демиург является автором мироздания",
-        "isRight": false
+        "answer": "Демиург является автором мироздания",
+        "isTrue": false
       },
       {
-        "answerText": "Бог создал природу",
-        "isRight": false
+        "answer": "Бог создал природу",
+        "isTrue": false
       }
     ]
   },
@@ -3898,20 +3898,20 @@ export const philosophy = [
     "num": 178,
     "answers": [
       {
-        "answerText": "неклассической философии",
-        "isRight": true
+        "answer": "неклассической философии",
+        "isTrue": true
       },
       {
-        "answerText": "классической философии",
-        "isRight": false
+        "answer": "классической философии",
+        "isTrue": false
       },
       {
-        "answerText": "рациональной философии",
-        "isRight": false
+        "answer": "рациональной философии",
+        "isTrue": false
       },
       {
-        "answerText": "немецкой классической философии",
-        "isRight": false
+        "answer": "немецкой классической философии",
+        "isTrue": false
       }
     ]
   },
@@ -3920,20 +3920,20 @@ export const philosophy = [
     "num": 179,
     "answers": [
       {
-        "answerText": "И. Канта",
-        "isRight": true
+        "answer": "И. Канта",
+        "isTrue": true
       },
       {
-        "answerText": "Г. Гегеля",
-        "isRight": false
+        "answer": "Г. Гегеля",
+        "isTrue": false
       },
       {
-        "answerText": "И. Фихте",
-        "isRight": false
+        "answer": "И. Фихте",
+        "isTrue": false
       },
       {
-        "answerText": "Ф. Шеллинга",
-        "isRight": false
+        "answer": "Ф. Шеллинга",
+        "isTrue": false
       }
     ]
   },
@@ -3942,20 +3942,20 @@ export const philosophy = [
     "num": 180,
     "answers": [
       {
-        "answerText": "закон",
-        "isRight": true
+        "answer": "закон",
+        "isTrue": true
       },
       {
-        "answerText": "принцип",
-        "isRight": false
+        "answer": "принцип",
+        "isTrue": false
       },
       {
-        "answerText": "политика",
-        "isRight": false
+        "answer": "политика",
+        "isTrue": false
       },
       {
-        "answerText": "счастье",
-        "isRight": false
+        "answer": "счастье",
+        "isTrue": false
       }
     ]
   },
@@ -3964,20 +3964,20 @@ export const philosophy = [
     "num": 181,
     "answers": [
       {
-        "answerText": "человек",
-        "isRight": true
+        "answer": "человек",
+        "isTrue": true
       },
       {
-        "answerText": "бог",
-        "isRight": false
+        "answer": "бог",
+        "isTrue": false
       },
       {
-        "answerText": "политика",
-        "isRight": false
+        "answer": "политика",
+        "isTrue": false
       },
       {
-        "answerText": "познание",
-        "isRight": false
+        "answer": "познание",
+        "isTrue": false
       }
     ]
   },
@@ -3986,20 +3986,20 @@ export const philosophy = [
     "num": 182,
     "answers": [
       {
-        "answerText": "И. Канту",
-        "isRight": true
+        "answer": "И. Канту",
+        "isTrue": true
       },
       {
-        "answerText": "Сократу",
-        "isRight": false
+        "answer": "Сократу",
+        "isTrue": false
       },
       {
-        "answerText": "Конфуцию",
-        "isRight": false
+        "answer": "Конфуцию",
+        "isTrue": false
       },
       {
-        "answerText": "Ж. Ж. Руссо",
-        "isRight": false
+        "answer": "Ж. Ж. Руссо",
+        "isTrue": false
       }
     ]
   },
@@ -4008,20 +4008,20 @@ export const philosophy = [
     "num": 183,
     "answers": [
       {
-        "answerText": "нельзя",
-        "isRight": true
+        "answer": "нельзя",
+        "isTrue": true
       },
       {
-        "answerText": "можно",
-        "isRight": false
+        "answer": "можно",
+        "isTrue": false
       },
       {
-        "answerText": "он вообще не касается этой проблемы",
-        "isRight": false
+        "answer": "он вообще не касается этой проблемы",
+        "isTrue": false
       },
       {
-        "answerText": "он не дает конкретного ответа на этот вопрос",
-        "isRight": false
+        "answer": "он не дает конкретного ответа на этот вопрос",
+        "isTrue": false
       }
     ]
   },
@@ -4030,20 +4030,20 @@ export const philosophy = [
     "num": 184,
     "answers": [
       {
-        "answerText": "Закон отрицания отрицания",
-        "isRight": true
+        "answer": "Закон отрицания отрицания",
+        "isTrue": true
       },
       {
-        "answerText": "Закон естественного отбора",
-        "isRight": false
+        "answer": "Закон естественного отбора",
+        "isTrue": false
       },
       {
-        "answerText": "Закон достаточного основания",
-        "isRight": false
+        "answer": "Закон достаточного основания",
+        "isTrue": false
       },
       {
-        "answerText": "Закон исключённого третьего",
-        "isRight": false
+        "answer": "Закон исключённого третьего",
+        "isTrue": false
       }
     ]
   },
@@ -4052,20 +4052,20 @@ export const philosophy = [
     "num": 185,
     "answers": [
       {
-        "answerText": "закон перехода количественных изменений в качественные",
-        "isRight": true
+        "answer": "закон перехода количественных изменений в качественные",
+        "isTrue": true
       },
       {
-        "answerText": "закон естественного отбора",
-        "isRight": false
+        "answer": "закон естественного отбора",
+        "isTrue": false
       },
       {
-        "answerText": "закон достаточного основания",
-        "isRight": false
+        "answer": "закон достаточного основания",
+        "isTrue": false
       },
       {
-        "answerText": "закон исключенного третьего",
-        "isRight": false
+        "answer": "закон исключенного третьего",
+        "isTrue": false
       }
     ]
   },
@@ -4074,20 +4074,20 @@ export const philosophy = [
     "num": 186,
     "answers": [
       {
-        "answerText": "Г. Гегель",
-        "isRight": true
+        "answer": "Г. Гегель",
+        "isTrue": true
       },
       {
-        "answerText": "Б. Спиноза",
-        "isRight": false
+        "answer": "Б. Спиноза",
+        "isTrue": false
       },
       {
-        "answerText": "Г. Лейбниц",
-        "isRight": false
+        "answer": "Г. Лейбниц",
+        "isTrue": false
       },
       {
-        "answerText": "И. Кант",
-        "isRight": false
+        "answer": "И. Кант",
+        "isTrue": false
       }
     ]
   },
@@ -4096,20 +4096,20 @@ export const philosophy = [
     "num": 187,
     "answers": [
       {
-        "answerText": "антропологией",
-        "isRight": true
+        "answer": "антропологией",
+        "isTrue": true
       },
       {
-        "answerText": "праксиологией",
-        "isRight": false
+        "answer": "праксиологией",
+        "isTrue": false
       },
       {
-        "answerText": "эристикой",
-        "isRight": false
+        "answer": "эристикой",
+        "isTrue": false
       },
       {
-        "answerText": "гносеологией",
-        "isRight": false
+        "answer": "гносеологией",
+        "isTrue": false
       }
     ]
   },
@@ -4118,20 +4118,20 @@ export const philosophy = [
     "num": 188,
     "answers": [
       {
-        "answerText": "К. Ясперс",
-        "isRight": true
+        "answer": "К. Ясперс",
+        "isTrue": true
       },
       {
-        "answerText": "Т. Кун",
-        "isRight": false
+        "answer": "Т. Кун",
+        "isTrue": false
       },
       {
-        "answerText": "Л. Фейербах",
-        "isRight": false
+        "answer": "Л. Фейербах",
+        "isTrue": false
       },
       {
-        "answerText": "М. Вебер",
-        "isRight": false
+        "answer": "М. Вебер",
+        "isTrue": false
       }
     ]
   },
@@ -4140,20 +4140,20 @@ export const philosophy = [
     "num": 189,
     "answers": [
       {
-        "answerText": "Экзистенциализма",
-        "isRight": true
+        "answer": "Экзистенциализма",
+        "isTrue": true
       },
       {
-        "answerText": "Неопозитивизма",
-        "isRight": false
+        "answer": "Неопозитивизма",
+        "isTrue": false
       },
       {
-        "answerText": "Неотомизма",
-        "isRight": false
+        "answer": "Неотомизма",
+        "isTrue": false
       },
       {
-        "answerText": "Фрейдизма",
-        "isRight": false
+        "answer": "Фрейдизма",
+        "isTrue": false
       }
     ]
   },
@@ -4162,20 +4162,20 @@ export const philosophy = [
     "num": 190,
     "answers": [
       {
-        "answerText": "деизм",
-        "isRight": true
+        "answer": "деизм",
+        "isTrue": true
       },
       {
-        "answerText": "пантеизм",
-        "isRight": false
+        "answer": "пантеизм",
+        "isTrue": false
       },
       {
-        "answerText": "панентеизм",
-        "isRight": false
+        "answer": "панентеизм",
+        "isTrue": false
       },
       {
-        "answerText": "атеизм",
-        "isRight": false
+        "answer": "атеизм",
+        "isTrue": false
       }
     ]
   },
@@ -4184,20 +4184,20 @@ export const philosophy = [
     "num": 191,
     "answers": [
       {
-        "answerText": "бессознательного",
-        "isRight": true
+        "answer": "бессознательного",
+        "isTrue": true
       },
       {
-        "answerText": "понимания",
-        "isRight": false
+        "answer": "понимания",
+        "isTrue": false
       },
       {
-        "answerText": "бытия",
-        "isRight": false
+        "answer": "бытия",
+        "isTrue": false
       },
       {
-        "answerText": "абсурда",
-        "isRight": false
+        "answer": "абсурда",
+        "isTrue": false
       }
     ]
   },
@@ -4206,20 +4206,20 @@ export const philosophy = [
     "num": 192,
     "answers": [
       {
-        "answerText": "Г. Зиммель",
-        "isRight": true
+        "answer": "Г. Зиммель",
+        "isTrue": true
       },
       {
-        "answerText": "А. Камю",
-        "isRight": false
+        "answer": "А. Камю",
+        "isTrue": false
       },
       {
-        "answerText": "М. Хайдеггер",
-        "isRight": false
+        "answer": "М. Хайдеггер",
+        "isTrue": false
       },
       {
-        "answerText": "К. Ясперс",
-        "isRight": false
+        "answer": "К. Ясперс",
+        "isTrue": false
       }
     ]
   },
@@ -4228,20 +4228,20 @@ export const philosophy = [
     "num": 193,
     "answers": [
       {
-        "answerText": "экзистенциализма",
-        "isRight": true
+        "answer": "экзистенциализма",
+        "isTrue": true
       },
       {
-        "answerText": "сциентизма",
-        "isRight": false
+        "answer": "сциентизма",
+        "isTrue": false
       },
       {
-        "answerText": "позитивизма",
-        "isRight": false
+        "answer": "позитивизма",
+        "isTrue": false
       },
       {
-        "answerText": "неотомизма",
-        "isRight": false
+        "answer": "неотомизма",
+        "isTrue": false
       }
     ]
   },
@@ -4250,20 +4250,20 @@ export const philosophy = [
     "num": 194,
     "answers": [
       {
-        "answerText": "экзистенциализма",
-        "isRight": true
+        "answer": "экзистенциализма",
+        "isTrue": true
       },
       {
-        "answerText": "немецкой классической философии",
-        "isRight": false
+        "answer": "немецкой классической философии",
+        "isTrue": false
       },
       {
-        "answerText": "марксизма",
-        "isRight": false
+        "answer": "марксизма",
+        "isTrue": false
       },
       {
-        "answerText": "герменевтики",
-        "isRight": false
+        "answer": "герменевтики",
+        "isTrue": false
       }
     ]
   },
@@ -4272,20 +4272,20 @@ export const philosophy = [
     "num": 195,
     "answers": [
       {
-        "answerText": "К. Поппер",
-        "isRight": true
+        "answer": "К. Поппер",
+        "isTrue": true
       },
       {
-        "answerText": "Г. Гадамер",
-        "isRight": false
+        "answer": "Г. Гадамер",
+        "isTrue": false
       },
       {
-        "answerText": "Ж. -П. Сартр",
-        "isRight": false
+        "answer": "Ж. -П. Сартр",
+        "isTrue": false
       },
       {
-        "answerText": "Э. Фромм",
-        "isRight": false
+        "answer": "Э. Фромм",
+        "isTrue": false
       }
     ]
   },
@@ -4294,20 +4294,20 @@ export const philosophy = [
     "num": 196,
     "answers": [
       {
-        "answerText": "экзистенциализма",
-        "isRight": true
+        "answer": "экзистенциализма",
+        "isTrue": true
       },
       {
-        "answerText": "позитивизма",
-        "isRight": false
+        "answer": "позитивизма",
+        "isTrue": false
       },
       {
-        "answerText": "неотомизма",
-        "isRight": false
+        "answer": "неотомизма",
+        "isTrue": false
       },
       {
-        "answerText": "персонализма",
-        "isRight": false
+        "answer": "персонализма",
+        "isTrue": false
       }
     ]
   },
@@ -4316,20 +4316,20 @@ export const philosophy = [
     "num": 197,
     "answers": [
       {
-        "answerText": "Воля",
-        "isRight": true
+        "answer": "Воля",
+        "isTrue": true
       },
       {
-        "answerText": "Понятия",
-        "isRight": false
+        "answer": "Понятия",
+        "isTrue": false
       },
       {
-        "answerText": "Суждения",
-        "isRight": false
+        "answer": "Суждения",
+        "isTrue": false
       },
       {
-        "answerText": "Индуктивные умозаключения",
-        "isRight": false
+        "answer": "Индуктивные умозаключения",
+        "isTrue": false
       }
     ]
   },
@@ -4338,20 +4338,20 @@ export const philosophy = [
     "num": 198,
     "answers": [
       {
-        "answerText": "Рефлексия (принцип человеческого сознания)",
-        "isRight": true
+        "answer": "Рефлексия (принцип человеческого сознания)",
+        "isTrue": true
       },
       {
-        "answerText": "Трансцендентальная апперцепция",
-        "isRight": false
+        "answer": "Трансцендентальная апперцепция",
+        "isTrue": false
       },
       {
-        "answerText": "Майевтика",
-        "isRight": false
+        "answer": "Майевтика",
+        "isTrue": false
       },
       {
-        "answerText": "Эмпириокритицизм",
-        "isRight": false
+        "answer": "Эмпириокритицизм",
+        "isTrue": false
       }
     ]
   },
@@ -4360,20 +4360,20 @@ export const philosophy = [
     "num": 199,
     "answers": [
       {
-        "answerText": "неопозитивизма",
-        "isRight": true
+        "answer": "неопозитивизма",
+        "isTrue": true
       },
       {
-        "answerText": "психоанализма",
-        "isRight": false
+        "answer": "психоанализма",
+        "isTrue": false
       },
       {
-        "answerText": "герменевтики",
-        "isRight": false
+        "answer": "герменевтики",
+        "isTrue": false
       },
       {
-        "answerText": "томизма",
-        "isRight": false
+        "answer": "томизма",
+        "isTrue": false
       }
     ]
   },
@@ -4382,20 +4382,20 @@ export const philosophy = [
     "num": 200,
     "answers": [
       {
-        "answerText": "существование",
-        "isRight": true
+        "answer": "существование",
+        "isTrue": true
       },
       {
-        "answerText": "свобода",
-        "isRight": false
+        "answer": "свобода",
+        "isTrue": false
       },
       {
-        "answerText": "равенство",
-        "isRight": false
+        "answer": "равенство",
+        "isTrue": false
       },
       {
-        "answerText": "порядок",
-        "isRight": false
+        "answer": "порядок",
+        "isTrue": false
       }
     ]
   },
@@ -4404,20 +4404,20 @@ export const philosophy = [
     "num": 201,
     "answers": [
       {
-        "answerText": "биосоциальное",
-        "isRight": true
+        "answer": "биосоциальное",
+        "isTrue": true
       },
       {
-        "answerText": "социальное",
-        "isRight": false
+        "answer": "социальное",
+        "isTrue": false
       },
       {
-        "answerText": "биологическое",
-        "isRight": false
+        "answer": "биологическое",
+        "isTrue": false
       },
       {
-        "answerText": "религиозное",
-        "isRight": false
+        "answer": "религиозное",
+        "isTrue": false
       }
     ]
   },
@@ -4426,20 +4426,20 @@ export const philosophy = [
     "num": 202,
     "answers": [
       {
-        "answerText": "знаковые системы",
-        "isRight": true
+        "answer": "знаковые системы",
+        "isTrue": true
       },
       {
-        "answerText": "политические теории",
-        "isRight": false
+        "answer": "политические теории",
+        "isTrue": false
       },
       {
-        "answerText": "проблемы ценностей",
-        "isRight": false
+        "answer": "проблемы ценностей",
+        "isTrue": false
       },
       {
-        "answerText": "экономические проблемы",
-        "isRight": false
+        "answer": "экономические проблемы",
+        "isTrue": false
       }
     ]
   },
@@ -4448,20 +4448,20 @@ export const philosophy = [
     "num": 203,
     "answers": [
       {
-        "answerText": "Гадамер",
-        "isRight": true
+        "answer": "Гадамер",
+        "isTrue": true
       },
       {
-        "answerText": "Ницше",
-        "isRight": false
+        "answer": "Ницше",
+        "isTrue": false
       },
       {
-        "answerText": "Шопенгауэр",
-        "isRight": false
+        "answer": "Шопенгауэр",
+        "isTrue": false
       },
       {
-        "answerText": "Фейерабенд",
-        "isRight": false
+        "answer": "Фейерабенд",
+        "isTrue": false
       }
     ]
   },
@@ -4470,20 +4470,20 @@ export const philosophy = [
     "num": 204,
     "answers": [
       {
-        "answerText": "Ж. Делёз",
-        "isRight": true
+        "answer": "Ж. Делёз",
+        "isTrue": true
       },
       {
-        "answerText": "А. Камю",
-        "isRight": false
+        "answer": "А. Камю",
+        "isTrue": false
       },
       {
-        "answerText": "Ж. П. Сартр",
-        "isRight": false
+        "answer": "Ж. П. Сартр",
+        "isTrue": false
       },
       {
-        "answerText": "Г. Марсель",
-        "isRight": false
+        "answer": "Г. Марсель",
+        "isTrue": false
       }
     ]
   },
@@ -4492,20 +4492,20 @@ export const philosophy = [
     "num": 205,
     "answers": [
       {
-        "answerText": "апории",
-        "isRight": true
+        "answer": "апории",
+        "isTrue": true
       },
       {
-        "answerText": "теории",
-        "isRight": false
+        "answer": "теории",
+        "isTrue": false
       },
       {
-        "answerText": "модусы",
-        "isRight": false
+        "answer": "модусы",
+        "isTrue": false
       },
       {
-        "answerText": "атрибуты",
-        "isRight": false
+        "answer": "атрибуты",
+        "isTrue": false
       }
     ]
   },
@@ -4514,20 +4514,20 @@ export const philosophy = [
     "num": 206,
     "answers": [
       {
-        "answerText": "потенциальная предпосылка или возможность существования вещи",
-        "isRight": true
+        "answer": "потенциальная предпосылка или возможность существования вещи",
+        "isTrue": true
       },
       {
-        "answerText": "Логос",
-        "isRight": false
+        "answer": "Логос",
+        "isTrue": false
       },
       {
-        "answerText": "душа любой вещи",
-        "isRight": false
+        "answer": "душа любой вещи",
+        "isTrue": false
       },
       {
-        "answerText": "космический разум",
-        "isRight": false
+        "answer": "космический разум",
+        "isTrue": false
       }
     ]
   },
@@ -4536,20 +4536,20 @@ export const philosophy = [
     "num": 207,
     "answers": [
       {
-        "answerText": "Протагор",
-        "isRight": true
+        "answer": "Протагор",
+        "isTrue": true
       },
       {
-        "answerText": "Аристотель",
-        "isRight": false
+        "answer": "Аристотель",
+        "isTrue": false
       },
       {
-        "answerText": "Сократ",
-        "isRight": false
+        "answer": "Сократ",
+        "isTrue": false
       },
       {
-        "answerText": "Платон",
-        "isRight": false
+        "answer": "Платон",
+        "isTrue": false
       }
     ]
   },
@@ -4558,20 +4558,20 @@ export const philosophy = [
     "num": 208,
     "answers": [
       {
-        "answerText": "Демокрит",
-        "isRight": true
+        "answer": "Демокрит",
+        "isTrue": true
       },
       {
-        "answerText": "Аристотель",
-        "isRight": false
+        "answer": "Аристотель",
+        "isTrue": false
       },
       {
-        "answerText": "Анаксагор",
-        "isRight": false
+        "answer": "Анаксагор",
+        "isTrue": false
       },
       {
-        "answerText": "Платон",
-        "isRight": false
+        "answer": "Платон",
+        "isTrue": false
       }
     ]
   },
@@ -4580,20 +4580,20 @@ export const philosophy = [
     "num": 209,
     "answers": [
       {
-        "answerText": "Диалектики",
-        "isRight": true
+        "answer": "Диалектики",
+        "isTrue": true
       },
       {
-        "answerText": "Дуализма",
-        "isRight": false
+        "answer": "Дуализма",
+        "isTrue": false
       },
       {
-        "answerText": "Воображения",
-        "isRight": false
+        "answer": "Воображения",
+        "isTrue": false
       },
       {
-        "answerText": "Знания",
-        "isRight": false
+        "answer": "Знания",
+        "isTrue": false
       }
     ]
   },
@@ -4602,20 +4602,20 @@ export const philosophy = [
     "num": 210,
     "answers": [
       {
-        "answerText": "Не материальна, но умопостигаема",
-        "isRight": true
+        "answer": "Не материальна, но умопостигаема",
+        "isTrue": true
       },
       {
-        "answerText": "Не материальна и неумопостигаема",
-        "isRight": false
+        "answer": "Не материальна и неумопостигаема",
+        "isTrue": false
       },
       {
-        "answerText": "Относится к враждебным понятиям",
-        "isRight": false
+        "answer": "Относится к враждебным понятиям",
+        "isTrue": false
       },
       {
-        "answerText": "Материальна, умопостигаема",
-        "isRight": false
+        "answer": "Материальна, умопостигаема",
+        "isTrue": false
       }
     ]
   },
@@ -4624,20 +4624,20 @@ export const philosophy = [
     "num": 211,
     "answers": [
       {
-        "answerText": "Высшей ценностью, идеалом свободного человека",
-        "isRight": true
+        "answer": "Высшей ценностью, идеалом свободного человека",
+        "isTrue": true
       },
       {
-        "answerText": "Основанием для порицания",
-        "isRight": false
+        "answer": "Основанием для порицания",
+        "isTrue": false
       },
       {
-        "answerText": "Бесполезной тратой времени",
-        "isRight": false
+        "answer": "Бесполезной тратой времени",
+        "isTrue": false
       },
       {
-        "answerText": "Главным недостатком философии",
-        "isRight": false
+        "answer": "Главным недостатком философии",
+        "isTrue": false
       }
     ]
   },
@@ -4646,20 +4646,20 @@ export const philosophy = [
     "num": 212,
     "answers": [
       {
-        "answerText": "Зенон",
-        "isRight": true
+        "answer": "Зенон",
+        "isTrue": true
       },
       {
-        "answerText": "Гераклит",
-        "isRight": false
+        "answer": "Гераклит",
+        "isTrue": false
       },
       {
-        "answerText": "Сократ",
-        "isRight": false
+        "answer": "Сократ",
+        "isTrue": false
       },
       {
-        "answerText": "Демокрит",
-        "isRight": false
+        "answer": "Демокрит",
+        "isTrue": false
       }
     ]
   },
@@ -4668,20 +4668,20 @@ export const philosophy = [
     "num": 213,
     "answers": [
       {
-        "answerText": "Материя пассивна, форма активна",
-        "isRight": true
+        "answer": "Материя пассивна, форма активна",
+        "isTrue": true
       },
       {
-        "answerText": "Материя активна, форма пассивна",
-        "isRight": false
+        "answer": "Материя активна, форма пассивна",
+        "isTrue": false
       },
       {
-        "answerText": "Материя бесконечна, форма конечна",
-        "isRight": false
+        "answer": "Материя бесконечна, форма конечна",
+        "isTrue": false
       },
       {
-        "answerText": "Материя и форма конечны",
-        "isRight": false
+        "answer": "Материя и форма конечны",
+        "isTrue": false
       }
     ]
   },
@@ -4690,20 +4690,20 @@ export const philosophy = [
     "num": 214,
     "answers": [
       {
-        "answerText": "Спиноза",
-        "isRight": true
+        "answer": "Спиноза",
+        "isTrue": true
       },
       {
-        "answerText": "Фалес",
-        "isRight": false
+        "answer": "Фалес",
+        "isTrue": false
       },
       {
-        "answerText": "Анаксимен",
-        "isRight": false
+        "answer": "Анаксимен",
+        "isTrue": false
       },
       {
-        "answerText": "Анаксимандр",
-        "isRight": false
+        "answer": "Анаксимандр",
+        "isTrue": false
       }
     ]
   },
@@ -4712,20 +4712,20 @@ export const philosophy = [
     "num": 215,
     "answers": [
       {
-        "answerText": "Цицерон",
-        "isRight": true
+        "answer": "Цицерон",
+        "isTrue": true
       },
       {
-        "answerText": "Плотин",
-        "isRight": false
+        "answer": "Плотин",
+        "isTrue": false
       },
       {
-        "answerText": "Сенека",
-        "isRight": false
+        "answer": "Сенека",
+        "isTrue": false
       },
       {
-        "answerText": "Боэций",
-        "isRight": false
+        "answer": "Боэций",
+        "isTrue": false
       }
     ]
   },
@@ -4734,20 +4734,20 @@ export const philosophy = [
     "num": 216,
     "answers": [
       {
-        "answerText": "Следование церемониям",
-        "isRight": true
+        "answer": "Следование церемониям",
+        "isTrue": true
       },
       {
-        "answerText": "Любовь",
-        "isRight": false
+        "answer": "Любовь",
+        "isTrue": false
       },
       {
-        "answerText": "Следование естественному закону",
-        "isRight": false
+        "answer": "Следование естественному закону",
+        "isTrue": false
       },
       {
-        "answerText": "Следование велению сердца",
-        "isRight": false
+        "answer": "Следование велению сердца",
+        "isTrue": false
       }
     ]
   },
@@ -4756,20 +4756,20 @@ export const philosophy = [
     "num": 217,
     "answers": [
       {
-        "answerText": "Конфуцианства",
-        "isRight": true
+        "answer": "Конфуцианства",
+        "isTrue": true
       },
       {
-        "answerText": "Легизма",
-        "isRight": false
+        "answer": "Легизма",
+        "isTrue": false
       },
       {
-        "answerText": "Даосизма",
-        "isRight": false
+        "answer": "Даосизма",
+        "isTrue": false
       },
       {
-        "answerText": "Инь-Ян",
-        "isRight": false
+        "answer": "Инь-Ян",
+        "isTrue": false
       }
     ]
   },
@@ -4778,20 +4778,20 @@ export const philosophy = [
     "num": 218,
     "answers": [
       {
-        "answerText": "Даосизма",
-        "isRight": true
+        "answer": "Даосизма",
+        "isTrue": true
       },
       {
-        "answerText": "Инь-Ян",
-        "isRight": false
+        "answer": "Инь-Ян",
+        "isTrue": false
       },
       {
-        "answerText": "Конфуцианства",
-        "isRight": false
+        "answer": "Конфуцианства",
+        "isTrue": false
       },
       {
-        "answerText": "Моизма",
-        "isRight": false
+        "answer": "Моизма",
+        "isTrue": false
       }
     ]
   },
@@ -4800,20 +4800,20 @@ export const philosophy = [
     "num": 219,
     "answers": [
       {
-        "answerText": "отца и сына",
-        "isRight": true
+        "answer": "отца и сына",
+        "isTrue": true
       },
       {
-        "answerText": "матери и детей",
-        "isRight": false
+        "answer": "матери и детей",
+        "isTrue": false
       },
       {
-        "answerText": "тренера и тренируемого",
-        "isRight": false
+        "answer": "тренера и тренируемого",
+        "isTrue": false
       },
       {
-        "answerText": "мужа и жены",
-        "isRight": false
+        "answer": "мужа и жены",
+        "isTrue": false
       }
     ]
   },
@@ -4822,20 +4822,20 @@ export const philosophy = [
     "num": 220,
     "answers": [
       {
-        "answerText": "Лао-цзы",
-        "isRight": true
+        "answer": "Лао-цзы",
+        "isTrue": true
       },
       {
-        "answerText": "Сюнь-цзы",
-        "isRight": false
+        "answer": "Сюнь-цзы",
+        "isTrue": false
       },
       {
-        "answerText": "Мен-цзы",
-        "isRight": false
+        "answer": "Мен-цзы",
+        "isTrue": false
       },
       {
-        "answerText": "Кун-Фу-цзы",
-        "isRight": false
+        "answer": "Кун-Фу-цзы",
+        "isTrue": false
       }
     ]
   },
@@ -4844,20 +4844,20 @@ export const philosophy = [
     "num": 221,
     "answers": [
       {
-        "answerText": "5 книг",
-        "isRight": true
+        "answer": "5 книг",
+        "isTrue": true
       },
       {
-        "answerText": "2 книги",
-        "isRight": false
+        "answer": "2 книги",
+        "isTrue": false
       },
       {
-        "answerText": "3 книги",
-        "isRight": false
+        "answer": "3 книги",
+        "isTrue": false
       },
       {
-        "answerText": "7книг",
-        "isRight": false
+        "answer": "7книг",
+        "isTrue": false
       }
     ]
   },
@@ -4866,20 +4866,20 @@ export const philosophy = [
     "num": 222,
     "answers": [
       {
-        "answerText": "Махавира Вардхамана",
-        "isRight": true
+        "answer": "Махавира Вардхамана",
+        "isTrue": true
       },
       {
-        "answerText": "Будда",
-        "isRight": false
+        "answer": "Будда",
+        "isTrue": false
       },
       {
-        "answerText": "Конфуций",
-        "isRight": false
+        "answer": "Конфуций",
+        "isTrue": false
       },
       {
-        "answerText": "Чарвака",
-        "isRight": false
+        "answer": "Чарвака",
+        "isTrue": false
       }
     ]
   },
@@ -4888,20 +4888,20 @@ export const philosophy = [
     "num": 223,
     "answers": [
       {
-        "answerText": "Веды",
-        "isRight": true
+        "answer": "Веды",
+        "isTrue": true
       },
       {
-        "answerText": "Библия",
-        "isRight": false
+        "answer": "Библия",
+        "isTrue": false
       },
       {
-        "answerText": "Евангелие",
-        "isRight": false
+        "answer": "Евангелие",
+        "isTrue": false
       },
       {
-        "answerText": "Коран",
-        "isRight": false
+        "answer": "Коран",
+        "isTrue": false
       }
     ]
   },
@@ -4910,20 +4910,20 @@ export const philosophy = [
     "num": 224,
     "answers": [
       {
-        "answerText": "Буддизм",
-        "isRight": true
+        "answer": "Буддизм",
+        "isTrue": true
       },
       {
-        "answerText": "Даосизм",
-        "isRight": false
+        "answer": "Даосизм",
+        "isTrue": false
       },
       {
-        "answerText": "Джайнизм",
-        "isRight": false
+        "answer": "Джайнизм",
+        "isTrue": false
       },
       {
-        "answerText": "Чарвака",
-        "isRight": false
+        "answer": "Чарвака",
+        "isTrue": false
       }
     ]
   },
@@ -4932,20 +4932,20 @@ export const philosophy = [
     "num": 225,
     "answers": [
       {
-        "answerText": "Принцип ахимсы (непричинение зла)",
-        "isRight": true
+        "answer": "Принцип ахимсы (непричинение зла)",
+        "isTrue": true
       },
       {
-        "answerText": "Познание всего сущего",
-        "isRight": false
+        "answer": "Познание всего сущего",
+        "isTrue": false
       },
       {
-        "answerText": "Аскетизм",
-        "isRight": false
+        "answer": "Аскетизм",
+        "isTrue": false
       },
       {
-        "answerText": "Стремление к счастью",
-        "isRight": false
+        "answer": "Стремление к счастью",
+        "isTrue": false
       }
     ]
   },
@@ -4954,20 +4954,20 @@ export const philosophy = [
     "num": 226,
     "answers": [
       {
-        "answerText": "чарвака",
-        "isRight": true
+        "answer": "чарвака",
+        "isTrue": true
       },
       {
-        "answerText": "йога",
-        "isRight": false
+        "answer": "йога",
+        "isTrue": false
       },
       {
-        "answerText": "вайшешика",
-        "isRight": false
+        "answer": "вайшешика",
+        "isTrue": false
       },
       {
-        "answerText": "ньяя",
-        "isRight": false
+        "answer": "ньяя",
+        "isTrue": false
       }
     ]
   },
@@ -4976,20 +4976,20 @@ export const philosophy = [
     "num": 227,
     "answers": [
       {
-        "answerText": "Жизнь есть страдание",
-        "isRight": true
+        "answer": "Жизнь есть страдание",
+        "isTrue": true
       },
       {
-        "answerText": "Жизнь есть любовь к человеку",
-        "isRight": false
+        "answer": "Жизнь есть любовь к человеку",
+        "isTrue": false
       },
       {
-        "answerText": "Жизнь есть искание истины",
-        "isRight": false
+        "answer": "Жизнь есть искание истины",
+        "isTrue": false
       },
       {
-        "answerText": "Жизнь есть наслаждение",
-        "isRight": false
+        "answer": "Жизнь есть наслаждение",
+        "isTrue": false
       }
     ]
   },
@@ -4998,20 +4998,20 @@ export const philosophy = [
     "num": 228,
     "answers": [
       {
-        "answerText": "ньяя",
-        "isRight": true
+        "answer": "ньяя",
+        "isTrue": true
       },
       {
-        "answerText": "буддизм",
-        "isRight": false
+        "answer": "буддизм",
+        "isTrue": false
       },
       {
-        "answerText": "джайнизм",
-        "isRight": false
+        "answer": "джайнизм",
+        "isTrue": false
       },
       {
-        "answerText": "локаята",
-        "isRight": false
+        "answer": "локаята",
+        "isTrue": false
       }
     ]
   },
@@ -5020,20 +5020,20 @@ export const philosophy = [
     "num": 229,
     "answers": [
       {
-        "answerText": "просветленный",
-        "isRight": true
+        "answer": "просветленный",
+        "isTrue": true
       },
       {
-        "answerText": "праведный",
-        "isRight": false
+        "answer": "праведный",
+        "isTrue": false
       },
       {
-        "answerText": "разумный",
-        "isRight": false
+        "answer": "разумный",
+        "isTrue": false
       },
       {
-        "answerText": "умиротворенный",
-        "isRight": false
+        "answer": "умиротворенный",
+        "isTrue": false
       }
     ]
   },
@@ -5042,20 +5042,20 @@ export const philosophy = [
     "num": 230,
     "answers": [
       {
-        "answerText": "закон круговорота перерождений",
-        "isRight": true
+        "answer": "закон круговорота перерождений",
+        "isTrue": true
       },
       {
-        "answerText": "закон воздаяния",
-        "isRight": false
+        "answer": "закон воздаяния",
+        "isTrue": false
       },
       {
-        "answerText": "закон первичности общечеловеческих ценностей",
-        "isRight": false
+        "answer": "закон первичности общечеловеческих ценностей",
+        "isTrue": false
       },
       {
-        "answerText": "закон естественного роста потребностей",
-        "isRight": false
+        "answer": "закон естественного роста потребностей",
+        "isTrue": false
       }
     ]
   },
@@ -5064,20 +5064,20 @@ export const philosophy = [
     "num": 231,
     "answers": [
       {
-        "answerText": "Сиддхартха Гаутама",
-        "isRight": true
+        "answer": "Сиддхартха Гаутама",
+        "isTrue": true
       },
       {
-        "answerText": "Лао-цзы",
-        "isRight": false
+        "answer": "Лао-цзы",
+        "isTrue": false
       },
       {
-        "answerText": "Чарвака",
-        "isRight": false
+        "answer": "Чарвака",
+        "isTrue": false
       },
       {
-        "answerText": "Анаксагор",
-        "isRight": false
+        "answer": "Анаксагор",
+        "isTrue": false
       }
     ]
   },
@@ -5086,20 +5086,20 @@ export const philosophy = [
     "num": 232,
     "answers": [
       {
-        "answerText": "учение &laquo;отцов церкви&raquo;",
-        "isRight": true
+        "answer": "учение &laquo;отцов церкви&raquo;",
+        "isTrue": true
       },
       {
-        "answerText": "символ веры",
-        "isRight": false
+        "answer": "символ веры",
+        "isTrue": false
       },
       {
-        "answerText": "средневековая философия",
-        "isRight": false
+        "answer": "средневековая философия",
+        "isTrue": false
       },
       {
-        "answerText": "оправдание Бога",
-        "isRight": false
+        "answer": "оправдание Бога",
+        "isTrue": false
       }
     ]
   },
@@ -5108,20 +5108,20 @@ export const philosophy = [
     "num": 233,
     "answers": [
       {
-        "answerText": "О природе общих понятий (универсалий)",
-        "isRight": true
+        "answer": "О природе общих понятий (универсалий)",
+        "isTrue": true
       },
       {
-        "answerText": "О Боге",
-        "isRight": false
+        "answer": "О Боге",
+        "isTrue": false
       },
       {
-        "answerText": "Об обществе",
-        "isRight": false
+        "answer": "Об обществе",
+        "isTrue": false
       },
       {
-        "answerText": "О природе человека",
-        "isRight": false
+        "answer": "О природе человека",
+        "isTrue": false
       }
     ]
   },
@@ -5130,20 +5130,20 @@ export const philosophy = [
     "num": 234,
     "answers": [
       {
-        "answerText": "Теодицея",
-        "isRight": true
+        "answer": "Теодицея",
+        "isTrue": true
       },
       {
-        "answerText": "Теология",
-        "isRight": false
+        "answer": "Теология",
+        "isTrue": false
       },
       {
-        "answerText": "Телеология",
-        "isRight": false
+        "answer": "Телеология",
+        "isTrue": false
       },
       {
-        "answerText": "Теогония",
-        "isRight": false
+        "answer": "Теогония",
+        "isTrue": false
       }
     ]
   },
@@ -5152,20 +5152,20 @@ export const philosophy = [
     "num": 235,
     "answers": [
       {
-        "answerText": "13 век",
-        "isRight": true
+        "answer": "13 век",
+        "isTrue": true
       },
       {
-        "answerText": "11 век",
-        "isRight": false
+        "answer": "11 век",
+        "isTrue": false
       },
       {
-        "answerText": "14 век",
-        "isRight": false
+        "answer": "14 век",
+        "isTrue": false
       },
       {
-        "answerText": "6 век",
-        "isRight": false
+        "answer": "6 век",
+        "isTrue": false
       }
     ]
   },
@@ -5174,20 +5174,20 @@ export const philosophy = [
     "num": 236,
     "answers": [
       {
-        "answerText": "средневековой философии",
-        "isRight": true
+        "answer": "средневековой философии",
+        "isTrue": true
       },
       {
-        "answerText": "античной философии",
-        "isRight": false
+        "answer": "античной философии",
+        "isTrue": false
       },
       {
-        "answerText": "философии Нового времени",
-        "isRight": false
+        "answer": "философии Нового времени",
+        "isTrue": false
       },
       {
-        "answerText": "Философии Просвещения",
-        "isRight": false
+        "answer": "Философии Просвещения",
+        "isTrue": false
       }
     ]
   },
@@ -5196,20 +5196,20 @@ export const philosophy = [
     "num": 237,
     "answers": [
       {
-        "answerText": "творением Бога",
-        "isRight": true
+        "answer": "творением Бога",
+        "isTrue": true
       },
       {
-        "answerText": "эманацией идеи",
-        "isRight": false
+        "answer": "эманацией идеи",
+        "isTrue": false
       },
       {
-        "answerText": "проявлением воли к жизни",
-        "isRight": false
+        "answer": "проявлением воли к жизни",
+        "isTrue": false
       },
       {
-        "answerText": "самоорганизацией материи",
-        "isRight": false
+        "answer": "самоорганизацией материи",
+        "isTrue": false
       }
     ]
   },
@@ -5218,20 +5218,20 @@ export const philosophy = [
     "num": 238,
     "answers": [
       {
-        "answerText": "Образ и подобие Бога",
-        "isRight": true
+        "answer": "Образ и подобие Бога",
+        "isTrue": true
       },
       {
-        "answerText": "Дитя природы",
-        "isRight": false
+        "answer": "Дитя природы",
+        "isTrue": false
       },
       {
-        "answerText": "Низшее создание в иерархии творений",
-        "isRight": false
+        "answer": "Низшее создание в иерархии творений",
+        "isTrue": false
       },
       {
-        "answerText": "Существо самодостаточное",
-        "isRight": false
+        "answer": "Существо самодостаточное",
+        "isTrue": false
       }
     ]
   },
@@ -5240,20 +5240,20 @@ export const philosophy = [
     "num": 239,
     "answers": [
       {
-        "answerText": "Без доказательства",
-        "isRight": true
+        "answer": "Без доказательства",
+        "isTrue": true
       },
       {
-        "answerText": "Через доказательство",
-        "isRight": false
+        "answer": "Через доказательство",
+        "isTrue": false
       },
       {
-        "answerText": "Через наблюдение",
-        "isRight": false
+        "answer": "Через наблюдение",
+        "isTrue": false
       },
       {
-        "answerText": "Через эксперимент",
-        "isRight": false
+        "answer": "Через эксперимент",
+        "isTrue": false
       }
     ]
   },
@@ -5262,20 +5262,20 @@ export const philosophy = [
     "num": 240,
     "answers": [
       {
-        "answerText": "Фома Аквинский",
-        "isRight": true
+        "answer": "Фома Аквинский",
+        "isTrue": true
       },
       {
-        "answerText": "Аврелий Августин",
-        "isRight": false
+        "answer": "Аврелий Августин",
+        "isTrue": false
       },
       {
-        "answerText": "Цицерон",
-        "isRight": false
+        "answer": "Цицерон",
+        "isTrue": false
       },
       {
-        "answerText": "Зенон Китийского",
-        "isRight": false
+        "answer": "Зенон Китийского",
+        "isTrue": false
       }
     ]
   },
@@ -5284,20 +5284,20 @@ export const philosophy = [
     "num": 241,
     "answers": [
       {
-        "answerText": "всебожие &ndash; признание присутствия Бога во всей природе",
-        "isRight": true
+        "answer": "всебожие &ndash; признание присутствия Бога во всей природе",
+        "isTrue": true
       },
       {
-        "answerText": "признание первичности материи по отношению к сознанию",
-        "isRight": false
+        "answer": "признание первичности материи по отношению к сознанию",
+        "isTrue": false
       },
       {
-        "answerText": "центром всего мироздания является бог",
-        "isRight": false
+        "answer": "центром всего мироздания является бог",
+        "isTrue": false
       },
       {
-        "answerText": "признание того, что разум-главное орудие познания",
-        "isRight": false
+        "answer": "признание того, что разум-главное орудие познания",
+        "isTrue": false
       }
     ]
   },
@@ -5306,20 +5306,20 @@ export const philosophy = [
     "num": 242,
     "answers": [
       {
-        "answerText": "иудаизма",
-        "isRight": true
+        "answer": "иудаизма",
+        "isTrue": true
       },
       {
-        "answerText": "брахманизма",
-        "isRight": false
+        "answer": "брахманизма",
+        "isTrue": false
       },
       {
-        "answerText": "конфуцианства",
-        "isRight": false
+        "answer": "конфуцианства",
+        "isTrue": false
       },
       {
-        "answerText": "тотемизма",
-        "isRight": false
+        "answer": "тотемизма",
+        "isTrue": false
       }
     ]
   },
@@ -5328,20 +5328,20 @@ export const philosophy = [
     "num": 243,
     "answers": [
       {
-        "answerText": "&laquo;Исповедь&raquo;",
-        "isRight": true
+        "answer": "&laquo;Исповедь&raquo;",
+        "isTrue": true
       },
       {
-        "answerText": "&laquo;Об уме&raquo;",
-        "isRight": false
+        "answer": "&laquo;Об уме&raquo;",
+        "isTrue": false
       },
       {
-        "answerText": "&laquo;Исследования о человеческом разуме&raquo;",
-        "isRight": false
+        "answer": "&laquo;Исследования о человеческом разуме&raquo;",
+        "isTrue": false
       },
       {
-        "answerText": "&laquo;О бессмертии человеческой души&raquo;",
-        "isRight": false
+        "answer": "&laquo;О бессмертии человеческой души&raquo;",
+        "isTrue": false
       }
     ]
   },
@@ -5350,20 +5350,20 @@ export const philosophy = [
     "num": 244,
     "answers": [
       {
-        "answerText": "Суфизм",
-        "isRight": true
+        "answer": "Суфизм",
+        "isTrue": true
       },
       {
-        "answerText": "Аверроизм",
-        "isRight": false
+        "answer": "Аверроизм",
+        "isTrue": false
       },
       {
-        "answerText": "Восточный перипатетизм",
-        "isRight": false
+        "answer": "Восточный перипатетизм",
+        "isTrue": false
       },
       {
-        "answerText": "Философия ортодоксального ислама",
-        "isRight": false
+        "answer": "Философия ортодоксального ислама",
+        "isTrue": false
       }
     ]
   },
@@ -5372,20 +5372,20 @@ export const philosophy = [
     "num": 245,
     "answers": [
       {
-        "answerText": "Признании самостоятельными истины веры и философского умозаключения",
-        "isRight": true
+        "answer": "Признании самостоятельными истины веры и философского умозаключения",
+        "isTrue": true
       },
       {
-        "answerText": "Стремлении сделать науку и философию самостоятельными, избавить их от опеки религии",
-        "isRight": false
+        "answer": "Стремлении сделать науку и философию самостоятельными, избавить их от опеки религии",
+        "isTrue": false
       },
       {
-        "answerText": "Существовании двух истин: одна для себя, а другая &ndash; для остальных",
-        "isRight": false
+        "answer": "Существовании двух истин: одна для себя, а другая &ndash; для остальных",
+        "isTrue": false
       },
       {
-        "answerText": "Признании истинными положения, которые приводят к конкретному практическому результату и истины, доказанной логическим путем",
-        "isRight": false
+        "answer": "Признании истинными положения, которые приводят к конкретному практическому результату и истины, доказанной логическим путем",
+        "isTrue": false
       }
     ]
   },
@@ -5394,20 +5394,20 @@ export const philosophy = [
     "num": 246,
     "answers": [
       {
-        "answerText": "Аль-Фараби",
-        "isRight": true
+        "answer": "Аль-Фараби",
+        "isTrue": true
       },
       {
-        "answerText": "Аль-Бируни",
-        "isRight": false
+        "answer": "Аль-Бируни",
+        "isTrue": false
       },
       {
-        "answerText": "Августина",
-        "isRight": false
+        "answer": "Августина",
+        "isTrue": false
       },
       {
-        "answerText": "Ибн-Рушда",
-        "isRight": false
+        "answer": "Ибн-Рушда",
+        "isTrue": false
       }
     ]
   },
@@ -5416,20 +5416,20 @@ export const philosophy = [
     "num": 247,
     "answers": [
       {
-        "answerText": "рациональный способ постижения мира",
-        "isRight": true
+        "answer": "рациональный способ постижения мира",
+        "isTrue": true
       },
       {
-        "answerText": "мистический способ постижения Бога",
-        "isRight": false
+        "answer": "мистический способ постижения Бога",
+        "isTrue": false
       },
       {
-        "answerText": "догматы веры",
-        "isRight": false
+        "answer": "догматы веры",
+        "isTrue": false
       },
       {
-        "answerText": "мусульманское право",
-        "isRight": false
+        "answer": "мусульманское право",
+        "isTrue": false
       }
     ]
   },
@@ -5438,20 +5438,20 @@ export const philosophy = [
     "num": 248,
     "answers": [
       {
-        "answerText": "Перипатетизм",
-        "isRight": true
+        "answer": "Перипатетизм",
+        "isTrue": true
       },
       {
-        "answerText": "Гилозоизм",
-        "isRight": false
+        "answer": "Гилозоизм",
+        "isTrue": false
       },
       {
-        "answerText": "Скептицизм",
-        "isRight": false
+        "answer": "Скептицизм",
+        "isTrue": false
       },
       {
-        "answerText": "Идеализм",
-        "isRight": false
+        "answer": "Идеализм",
+        "isTrue": false
       }
     ]
   },
@@ -5460,20 +5460,20 @@ export const philosophy = [
     "num": 249,
     "answers": [
       {
-        "answerText": "Аль-Кинди",
-        "isRight": true
+        "answer": "Аль-Кинди",
+        "isTrue": true
       },
       {
-        "answerText": "Аль-Фараби",
-        "isRight": false
+        "answer": "Аль-Фараби",
+        "isTrue": false
       },
       {
-        "answerText": "Аль-Бируни",
-        "isRight": false
+        "answer": "Аль-Бируни",
+        "isTrue": false
       },
       {
-        "answerText": "Ибн-Рушд",
-        "isRight": false
+        "answer": "Ибн-Рушд",
+        "isTrue": false
       }
     ]
   },
@@ -5482,20 +5482,20 @@ export const philosophy = [
     "num": 250,
     "answers": [
       {
-        "answerText": "Ибн-Сина",
-        "isRight": true
+        "answer": "Ибн-Сина",
+        "isTrue": true
       },
       {
-        "answerText": "Аль-Фараби",
-        "isRight": false
+        "answer": "Аль-Фараби",
+        "isTrue": false
       },
       {
-        "answerText": "Аль-Бируни",
-        "isRight": false
+        "answer": "Аль-Бируни",
+        "isTrue": false
       },
       {
-        "answerText": "Ибн-Рушд",
-        "isRight": false
+        "answer": "Ибн-Рушд",
+        "isTrue": false
       }
     ]
   },
@@ -5504,20 +5504,20 @@ export const philosophy = [
     "num": 251,
     "answers": [
       {
-        "answerText": "Аравии",
-        "isRight": true
+        "answer": "Аравии",
+        "isTrue": true
       },
       {
-        "answerText": "Испании",
-        "isRight": false
+        "answer": "Испании",
+        "isTrue": false
       },
       {
-        "answerText": "Африке",
-        "isRight": false
+        "answer": "Африке",
+        "isTrue": false
       },
       {
-        "answerText": "Италии",
-        "isRight": false
+        "answer": "Италии",
+        "isTrue": false
       }
     ]
   },
@@ -5526,20 +5526,20 @@ export const philosophy = [
     "num": 252,
     "answers": [
       {
-        "answerText": "Фомы Аквинского",
-        "isRight": true
+        "answer": "Фомы Аквинского",
+        "isTrue": true
       },
       {
-        "answerText": "Аврелия Августина",
-        "isRight": false
+        "answer": "Аврелия Августина",
+        "isTrue": false
       },
       {
-        "answerText": "Пьера Абеляра",
-        "isRight": false
+        "answer": "Пьера Абеляра",
+        "isTrue": false
       },
       {
-        "answerText": "Тертуллиана",
-        "isRight": false
+        "answer": "Тертуллиана",
+        "isTrue": false
       }
     ]
   },
@@ -5548,20 +5548,20 @@ export const philosophy = [
     "num": 253,
     "answers": [
       {
-        "answerText": "строгого монотеизма",
-        "isRight": true
+        "answer": "строгого монотеизма",
+        "isTrue": true
       },
       {
-        "answerText": "политеизма",
-        "isRight": false
+        "answer": "политеизма",
+        "isTrue": false
       },
       {
-        "answerText": "плюрализма",
-        "isRight": false
+        "answer": "плюрализма",
+        "isTrue": false
       },
       {
-        "answerText": "дуализма",
-        "isRight": false
+        "answer": "дуализма",
+        "isTrue": false
       }
     ]
   },
@@ -5570,20 +5570,20 @@ export const philosophy = [
     "num": 254,
     "answers": [
       {
-        "answerText": "Богу",
-        "isRight": true
+        "answer": "Богу",
+        "isTrue": true
       },
       {
-        "answerText": "самому себе",
-        "isRight": false
+        "answer": "самому себе",
+        "isTrue": false
       },
       {
-        "answerText": "человеку",
-        "isRight": false
+        "answer": "человеку",
+        "isTrue": false
       },
       {
-        "answerText": "обществу",
-        "isRight": false
+        "answer": "обществу",
+        "isTrue": false
       }
     ]
   },
@@ -5592,20 +5592,20 @@ export const philosophy = [
     "num": 255,
     "answers": [
       {
-        "answerText": "система &laquo;Мир- человек&raquo;",
-        "isRight": true
+        "answer": "система &laquo;Мир- человек&raquo;",
+        "isTrue": true
       },
       {
-        "answerText": "система &laquo;Начальник-подчиненный&raquo;",
-        "isRight": false
+        "answer": "система &laquo;Начальник-подчиненный&raquo;",
+        "isTrue": false
       },
       {
-        "answerText": "система &laquo;Культура- человек&raquo;",
-        "isRight": false
+        "answer": "система &laquo;Культура- человек&raquo;",
+        "isTrue": false
       },
       {
-        "answerText": "система &laquo;Механизмы- элементы&raquo;",
-        "isRight": false
+        "answer": "система &laquo;Механизмы- элементы&raquo;",
+        "isTrue": false
       }
     ]
   },
@@ -5614,20 +5614,20 @@ export const philosophy = [
     "num": 256,
     "answers": [
       {
-        "answerText": "это общее понятие, отражающее общие взаимосвязи природы, общества и познания, идеальные формы практической деятельности;",
-        "isRight": true
+        "answer": "это общее понятие, отражающее общие взаимосвязи природы, общества и познания, идеальные формы практической деятельности;",
+        "isTrue": true
       },
       {
-        "answerText": "это общие понятия, отражающие взаимосвязи природы и общества;",
-        "isRight": false
+        "answer": "это общие понятия, отражающие взаимосвязи природы и общества;",
+        "isTrue": false
       },
       {
-        "answerText": "это общие понятия, отражающие взаимосвязи общества, познания;",
-        "isRight": false
+        "answer": "это общие понятия, отражающие взаимосвязи общества, познания;",
+        "isTrue": false
       },
       {
-        "answerText": "это общие понятия, отражающие взаимосвязи природы и познания;",
-        "isRight": false
+        "answer": "это общие понятия, отражающие взаимосвязи природы и познания;",
+        "isTrue": false
       }
     ]
   },
@@ -5636,20 +5636,20 @@ export const philosophy = [
     "num": 257,
     "answers": [
       {
-        "answerText": "элементарные частицы:",
-        "isRight": true
+        "answer": "элементарные частицы:",
+        "isTrue": true
       },
       {
-        "answerText": "молекулы;",
-        "isRight": false
+        "answer": "молекулы;",
+        "isTrue": false
       },
       {
-        "answerText": "макротела;",
-        "isRight": false
+        "answer": "макротела;",
+        "isTrue": false
       },
       {
-        "answerText": "звезды;",
-        "isRight": false
+        "answer": "звезды;",
+        "isTrue": false
       }
     ]
   },
@@ -5658,20 +5658,20 @@ export const philosophy = [
     "num": 258,
     "answers": [
       {
-        "answerText": "логики и теории познания;",
-        "isRight": true
+        "answer": "логики и теории познания;",
+        "isTrue": true
       },
       {
-        "answerText": "и методологии;",
-        "isRight": false
+        "answer": "и методологии;",
+        "isTrue": false
       },
       {
-        "answerText": "и умения говорить;",
-        "isRight": false
+        "answer": "и умения говорить;",
+        "isTrue": false
       },
       {
-        "answerText": "и искусства спора;",
-        "isRight": false
+        "answer": "и искусства спора;",
+        "isTrue": false
       }
     ]
   },
@@ -5680,20 +5680,20 @@ export const philosophy = [
     "num": 259,
     "answers": [
       {
-        "answerText": "явление существенно, сущность- является;",
-        "isRight": true
+        "answer": "явление существенно, сущность- является;",
+        "isTrue": true
       },
       {
-        "answerText": "явление и сущность тождественны;",
-        "isRight": false
+        "answer": "явление и сущность тождественны;",
+        "isTrue": false
       },
       {
-        "answerText": "явление и сущность независимы друг от друга;",
-        "isRight": false
+        "answer": "явление и сущность независимы друг от друга;",
+        "isTrue": false
       },
       {
-        "answerText": "явление выше сущности;",
-        "isRight": false
+        "answer": "явление выше сущности;",
+        "isTrue": false
       }
     ]
   },
@@ -5702,20 +5702,20 @@ export const philosophy = [
     "num": 260,
     "answers": [
       {
-        "answerText": "материя &ndash; это объективная реальность, данная нам в ощущениях;",
-        "isRight": true
+        "answer": "материя &ndash; это объективная реальность, данная нам в ощущениях;",
+        "isTrue": true
       },
       {
-        "answerText": "материя &ndash; вещество, поле и вакуум;",
-        "isRight": false
+        "answer": "материя &ndash; вещество, поле и вакуум;",
+        "isTrue": false
       },
       {
-        "answerText": "материя &ndash; это молекулы и атомы;",
-        "isRight": false
+        "answer": "материя &ndash; это молекулы и атомы;",
+        "isTrue": false
       },
       {
-        "answerText": "материя &ndash; это все то, что обладает массой, энергией;",
-        "isRight": false
+        "answer": "материя &ndash; это все то, что обладает массой, энергией;",
+        "isTrue": false
       }
     ]
   },
@@ -5724,20 +5724,20 @@ export const philosophy = [
     "num": 261,
     "answers": [
       {
-        "answerText": "различие, противоположность, противоречие;",
-        "isRight": true
+        "answer": "различие, противоположность, противоречие;",
+        "isTrue": true
       },
       {
-        "answerText": "субстанция, причинность, взаимодействие;",
-        "isRight": false
+        "answer": "субстанция, причинность, взаимодействие;",
+        "isTrue": false
       },
       {
-        "answerText": "отрицание, отрицание отрицания, снятие;",
-        "isRight": false
+        "answer": "отрицание, отрицание отрицания, снятие;",
+        "isTrue": false
       },
       {
-        "answerText": "качество, количество, мера;",
-        "isRight": false
+        "answer": "качество, количество, мера;",
+        "isTrue": false
       }
     ]
   },
@@ -5746,20 +5746,20 @@ export const philosophy = [
     "num": 262,
     "answers": [
       {
-        "answerText": "субъективного идеализма;",
-        "isRight": true
+        "answer": "субъективного идеализма;",
+        "isTrue": true
       },
       {
-        "answerText": "объективного идеализма;",
-        "isRight": false
+        "answer": "объективного идеализма;",
+        "isTrue": false
       },
       {
-        "answerText": "метафизического материализма:",
-        "isRight": false
+        "answer": "метафизического материализма:",
+        "isTrue": false
       },
       {
-        "answerText": "диалектического материализма;",
-        "isRight": false
+        "answer": "диалектического материализма;",
+        "isTrue": false
       }
     ]
   },
@@ -5768,20 +5768,20 @@ export const philosophy = [
     "num": 263,
     "answers": [
       {
-        "answerText": "диалектике;",
-        "isRight": true
+        "answer": "диалектике;",
+        "isTrue": true
       },
       {
-        "answerText": "синергетике;",
-        "isRight": false
+        "answer": "синергетике;",
+        "isTrue": false
       },
       {
-        "answerText": "метафизике;",
-        "isRight": false
+        "answer": "метафизике;",
+        "isTrue": false
       },
       {
-        "answerText": "софистике;",
-        "isRight": false
+        "answer": "софистике;",
+        "isTrue": false
       }
     ]
   },
@@ -5790,20 +5790,20 @@ export const philosophy = [
     "num": 264,
     "answers": [
       {
-        "answerText": "механизм;",
-        "isRight": true
+        "answer": "механизм;",
+        "isTrue": true
       },
       {
-        "answerText": "направленность;",
-        "isRight": false
+        "answer": "направленность;",
+        "isTrue": false
       },
       {
-        "answerText": "обратимость;",
-        "isRight": false
+        "answer": "обратимость;",
+        "isTrue": false
       },
       {
-        "answerText": "источник;",
-        "isRight": false
+        "answer": "источник;",
+        "isTrue": false
       }
     ]
   },
@@ -5812,20 +5812,20 @@ export const philosophy = [
     "num": 265,
     "answers": [
       {
-        "answerText": "сущность и явление;",
-        "isRight": true
+        "answer": "сущность и явление;",
+        "isTrue": true
       },
       {
-        "answerText": "атомарность, валентность;",
-        "isRight": false
+        "answer": "атомарность, валентность;",
+        "isTrue": false
       },
       {
-        "answerText": "круговорот;",
-        "isRight": false
+        "answer": "круговорот;",
+        "isTrue": false
       },
       {
-        "answerText": "пространство;",
-        "isRight": false
+        "answer": "пространство;",
+        "isTrue": false
       }
     ]
   },
@@ -5834,20 +5834,20 @@ export const philosophy = [
     "num": 266,
     "answers": [
       {
-        "answerText": "внутренне расчлененная целостность, закономерный порядок связи элементов в составе целого;",
-        "isRight": true
+        "answer": "внутренне расчлененная целостность, закономерный порядок связи элементов в составе целого;",
+        "isTrue": true
       },
       {
-        "answerText": "ее абсолютная однородность;",
-        "isRight": false
+        "answer": "ее абсолютная однородность;",
+        "isTrue": false
       },
       {
-        "answerText": "отсутствие внутренней организации;",
-        "isRight": false
+        "answer": "отсутствие внутренней организации;",
+        "isTrue": false
       },
       {
-        "answerText": "наличие каких-то элементов;",
-        "isRight": false
+        "answer": "наличие каких-то элементов;",
+        "isTrue": false
       }
     ]
   },
@@ -5856,20 +5856,20 @@ export const philosophy = [
     "num": 267,
     "answers": [
       {
-        "answerText": "Развитие есть линейный процесс, совершающийся на неизменной основе;",
-        "isRight": true
+        "answer": "Развитие есть линейный процесс, совершающийся на неизменной основе;",
+        "isTrue": true
       },
       {
-        "answerText": "Развитие есть скачкообразный диалектический процесс",
-        "isRight": false
+        "answer": "Развитие есть скачкообразный диалектический процесс",
+        "isTrue": false
       },
       {
-        "answerText": "В мире все течет, все изменяется",
-        "isRight": false
+        "answer": "В мире все течет, все изменяется",
+        "isTrue": false
       },
       {
-        "answerText": "Прогресс- это развитие сложных систем, для которого характерен переход от низшего к высшему",
-        "isRight": false
+        "answer": "Прогресс- это развитие сложных систем, для которого характерен переход от низшего к высшему",
+        "isTrue": false
       }
     ]
   },
@@ -5878,20 +5878,20 @@ export const philosophy = [
     "num": 268,
     "answers": [
       {
-        "answerText": "литосферу",
-        "isRight": true
+        "answer": "литосферу",
+        "isTrue": true
       },
       {
-        "answerText": "клетку",
-        "isRight": false
+        "answer": "клетку",
+        "isTrue": false
       },
       {
-        "answerText": "социальную систему",
-        "isRight": false
+        "answer": "социальную систему",
+        "isTrue": false
       },
       {
-        "answerText": "биоценоз",
-        "isRight": false
+        "answer": "биоценоз",
+        "isTrue": false
       }
     ]
   },
@@ -5900,20 +5900,20 @@ export const philosophy = [
     "num": 269,
     "answers": [
       {
-        "answerText": "&laquo;Материализм и эмпириокритицизм&raquo;",
-        "isRight": true
+        "answer": "&laquo;Материализм и эмпириокритицизм&raquo;",
+        "isTrue": true
       },
       {
-        "answerText": "&laquo;Диалектика природы&raquo;",
-        "isRight": false
+        "answer": "&laquo;Диалектика природы&raquo;",
+        "isTrue": false
       },
       {
-        "answerText": "&laquo;Бытие и время&raquo;",
-        "isRight": false
+        "answer": "&laquo;Бытие и время&raquo;",
+        "isTrue": false
       },
       {
-        "answerText": "&laquo;Шаг назад, два вперед&raquo;",
-        "isRight": false
+        "answer": "&laquo;Шаг назад, два вперед&raquo;",
+        "isTrue": false
       }
     ]
   },
@@ -5922,20 +5922,20 @@ export const philosophy = [
     "num": 270,
     "answers": [
       {
-        "answerText": "абсолютным",
-        "isRight": true
+        "answer": "абсолютным",
+        "isTrue": true
       },
       {
-        "answerText": "относительным",
-        "isRight": false
+        "answer": "относительным",
+        "isTrue": false
       },
       {
-        "answerText": "сравнимым",
-        "isRight": false
+        "answer": "сравнимым",
+        "isTrue": false
       },
       {
-        "answerText": "положительным",
-        "isRight": false
+        "answer": "положительным",
+        "isTrue": false
       }
     ]
   },
@@ -5944,20 +5944,20 @@ export const philosophy = [
     "num": 271,
     "answers": [
       {
-        "answerText": "высота",
-        "isRight": true
+        "answer": "высота",
+        "isTrue": true
       },
       {
-        "answerText": "угол",
-        "isRight": false
+        "answer": "угол",
+        "isTrue": false
       },
       {
-        "answerText": "масса",
-        "isRight": false
+        "answer": "масса",
+        "isTrue": false
       },
       {
-        "answerText": "градус",
-        "isRight": false
+        "answer": "градус",
+        "isTrue": false
       }
     ]
   },
@@ -5966,20 +5966,20 @@ export const philosophy = [
     "num": 272,
     "answers": [
       {
-        "answerText": "Возрождения",
-        "isRight": true
+        "answer": "Возрождения",
+        "isTrue": true
       },
       {
-        "answerText": "феодализма",
-        "isRight": false
+        "answer": "феодализма",
+        "isTrue": false
       },
       {
-        "answerText": "Просвещения",
-        "isRight": false
+        "answer": "Просвещения",
+        "isTrue": false
       },
       {
-        "answerText": "средневековья",
-        "isRight": false
+        "answer": "средневековья",
+        "isTrue": false
       }
     ]
   },
@@ -5988,20 +5988,20 @@ export const philosophy = [
     "num": 273,
     "answers": [
       {
-        "answerText": "Гераклита",
-        "isRight": true
+        "answer": "Гераклита",
+        "isTrue": true
       },
       {
-        "answerText": "Платона",
-        "isRight": false
+        "answer": "Платона",
+        "isTrue": false
       },
       {
-        "answerText": "Сократа",
-        "isRight": false
+        "answer": "Сократа",
+        "isTrue": false
       },
       {
-        "answerText": "Аристотеля",
-        "isRight": false
+        "answer": "Аристотеля",
+        "isTrue": false
       }
     ]
   },
@@ -6010,20 +6010,20 @@ export const philosophy = [
     "num": 274,
     "answers": [
       {
-        "answerText": "Гегелем",
-        "isRight": true
+        "answer": "Гегелем",
+        "isTrue": true
       },
       {
-        "answerText": "Марксом",
-        "isRight": false
+        "answer": "Марксом",
+        "isTrue": false
       },
       {
-        "answerText": "Спенсером",
-        "isRight": false
+        "answer": "Спенсером",
+        "isTrue": false
       },
       {
-        "answerText": "Юмом",
-        "isRight": false
+        "answer": "Юмом",
+        "isTrue": false
       }
     ]
   },
@@ -6032,20 +6032,20 @@ export const philosophy = [
     "num": 275,
     "answers": [
       {
-        "answerText": "диалектике",
-        "isRight": true
+        "answer": "диалектике",
+        "isTrue": true
       },
       {
-        "answerText": "дуализму",
-        "isRight": false
+        "answer": "дуализму",
+        "isTrue": false
       },
       {
-        "answerText": "скептицизму",
-        "isRight": false
+        "answer": "скептицизму",
+        "isTrue": false
       },
       {
-        "answerText": "монизму",
-        "isRight": false
+        "answer": "монизму",
+        "isTrue": false
       }
     ]
   },
@@ -6054,20 +6054,20 @@ export const philosophy = [
     "num": 276,
     "answers": [
       {
-        "answerText": "прагматизмом",
-        "isRight": true
+        "answer": "прагматизмом",
+        "isTrue": true
       },
       {
-        "answerText": "марксизмом",
-        "isRight": false
+        "answer": "марксизмом",
+        "isTrue": false
       },
       {
-        "answerText": "неотомизмом",
-        "isRight": false
+        "answer": "неотомизмом",
+        "isTrue": false
       },
       {
-        "answerText": "неоэмпиризмом",
-        "isRight": false
+        "answer": "неоэмпиризмом",
+        "isTrue": false
       }
     ]
   },
@@ -6076,20 +6076,20 @@ export const philosophy = [
     "num": 277,
     "answers": [
       {
-        "answerText": "любые изменения объекта в результате воздействия на него другого объекта",
-        "isRight": true
+        "answer": "любые изменения объекта в результате воздействия на него другого объекта",
+        "isTrue": true
       },
       {
-        "answerText": "всякое взаимодействие объекта",
-        "isRight": false
+        "answer": "всякое взаимодействие объекта",
+        "isTrue": false
       },
       {
-        "answerText": "абсолютная копия отражаемого объекта",
-        "isRight": false
+        "answer": "абсолютная копия отражаемого объекта",
+        "isTrue": false
       },
       {
-        "answerText": "воспроизведение структуры, свойств отражаемого объекта",
-        "isRight": false
+        "answer": "воспроизведение структуры, свойств отражаемого объекта",
+        "isTrue": false
       }
     ]
   },
@@ -6098,20 +6098,20 @@ export const philosophy = [
     "num": 278,
     "answers": [
       {
-        "answerText": "марксизму",
-        "isRight": true
+        "answer": "марксизму",
+        "isTrue": true
       },
       {
-        "answerText": "прагматизму",
-        "isRight": false
+        "answer": "прагматизму",
+        "isTrue": false
       },
       {
-        "answerText": "экзистенциализму",
-        "isRight": false
+        "answer": "экзистенциализму",
+        "isTrue": false
       },
       {
-        "answerText": "феноменологии",
-        "isRight": false
+        "answer": "феноменологии",
+        "isTrue": false
       }
     ]
   },
@@ -6120,20 +6120,20 @@ export const philosophy = [
     "num": 279,
     "answers": [
       {
-        "answerText": "чувственное и рациональное",
-        "isRight": true
+        "answer": "чувственное и рациональное",
+        "isTrue": true
       },
       {
-        "answerText": "обыденное и научное",
-        "isRight": false
+        "answer": "обыденное и научное",
+        "isTrue": false
       },
       {
-        "answerText": "теоретическое и прагматическое",
-        "isRight": false
+        "answer": "теоретическое и прагматическое",
+        "isTrue": false
       },
       {
-        "answerText": "рассудок и ощущение",
-        "isRight": false
+        "answer": "рассудок и ощущение",
+        "isTrue": false
       }
     ]
   },
@@ -6142,20 +6142,20 @@ export const philosophy = [
     "num": 280,
     "answers": [
       {
-        "answerText": "понятие, суждение, умозаключение",
-        "isRight": true
+        "answer": "понятие, суждение, умозаключение",
+        "isTrue": true
       },
       {
-        "answerText": "ощущение, восприятие",
-        "isRight": false
+        "answer": "ощущение, восприятие",
+        "isTrue": false
       },
       {
-        "answerText": "чувства, эмоции, рассудок",
-        "isRight": false
+        "answer": "чувства, эмоции, рассудок",
+        "isTrue": false
       },
       {
-        "answerText": "&laquo;я&raquo;, &laquo;оно&raquo;, сверх я&raquo;",
-        "isRight": false
+        "answer": "&laquo;я&raquo;, &laquo;оно&raquo;, сверх я&raquo;",
+        "isTrue": false
       }
     ]
   },
@@ -6164,20 +6164,20 @@ export const philosophy = [
     "num": 281,
     "answers": [
       {
-        "answerText": "истина- результат соглашения ученых",
-        "isRight": true
+        "answer": "истина- результат соглашения ученых",
+        "isTrue": true
       },
       {
-        "answerText": "истина- соответствие знаний действительности",
-        "isRight": false
+        "answer": "истина- соответствие знаний действительности",
+        "isTrue": false
       },
       {
-        "answerText": "истина &ndash; непротиворечивое знание",
-        "isRight": false
+        "answer": "истина &ndash; непротиворечивое знание",
+        "isTrue": false
       },
       {
-        "answerText": "истина- результат",
-        "isRight": false
+        "answer": "истина- результат",
+        "isTrue": false
       }
     ]
   },
@@ -6186,20 +6186,20 @@ export const philosophy = [
     "num": 282,
     "answers": [
       {
-        "answerText": "теоретический и эмпирический",
-        "isRight": true
+        "answer": "теоретический и эмпирический",
+        "isTrue": true
       },
       {
-        "answerText": "физический и метафизический",
-        "isRight": false
+        "answer": "физический и метафизический",
+        "isTrue": false
       },
       {
-        "answerText": "материалистический и идеалистический",
-        "isRight": false
+        "answer": "материалистический и идеалистический",
+        "isTrue": false
       },
       {
-        "answerText": "субъективный и объективный",
-        "isRight": false
+        "answer": "субъективный и объективный",
+        "isTrue": false
       }
     ]
   },
@@ -6208,20 +6208,20 @@ export const philosophy = [
     "num": 283,
     "answers": [
       {
-        "answerText": "практика",
-        "isRight": true
+        "answer": "практика",
+        "isTrue": true
       },
       {
-        "answerText": "общепризнанность",
-        "isRight": false
+        "answer": "общепризнанность",
+        "isTrue": false
       },
       {
-        "answerText": "красота",
-        "isRight": false
+        "answer": "красота",
+        "isTrue": false
       },
       {
-        "answerText": "полезность",
-        "isRight": false
+        "answer": "полезность",
+        "isTrue": false
       }
     ]
   },
@@ -6230,20 +6230,20 @@ export const philosophy = [
     "num": 284,
     "answers": [
       {
-        "answerText": "релятивизмом",
-        "isRight": true
+        "answer": "релятивизмом",
+        "isTrue": true
       },
       {
-        "answerText": "субъективизмом",
-        "isRight": false
+        "answer": "субъективизмом",
+        "isTrue": false
       },
       {
-        "answerText": "агностицизмом",
-        "isRight": false
+        "answer": "агностицизмом",
+        "isTrue": false
       },
       {
-        "answerText": "скептицизмом",
-        "isRight": false
+        "answer": "скептицизмом",
+        "isTrue": false
       }
     ]
   },
@@ -6252,20 +6252,20 @@ export const philosophy = [
     "num": 285,
     "answers": [
       {
-        "answerText": "необходимо наличие субъекта и объекта познания",
-        "isRight": true
+        "answer": "необходимо наличие субъекта и объекта познания",
+        "isTrue": true
       },
       {
-        "answerText": "наличие предмета познания",
-        "isRight": false
+        "answer": "наличие предмета познания",
+        "isTrue": false
       },
       {
-        "answerText": "наличие средств познания",
-        "isRight": false
+        "answer": "наличие средств познания",
+        "isTrue": false
       },
       {
-        "answerText": "наличие способности к познанию",
-        "isRight": false
+        "answer": "наличие способности к познанию",
+        "isTrue": false
       }
     ]
   },
@@ -6274,20 +6274,20 @@ export const philosophy = [
     "num": 286,
     "answers": [
       {
-        "answerText": "дедукция",
-        "isRight": true
+        "answer": "дедукция",
+        "isTrue": true
       },
       {
-        "answerText": "синтез",
-        "isRight": false
+        "answer": "синтез",
+        "isTrue": false
       },
       {
-        "answerText": "индукция",
-        "isRight": false
+        "answer": "индукция",
+        "isTrue": false
       },
       {
-        "answerText": "социометрия",
-        "isRight": false
+        "answer": "социометрия",
+        "isTrue": false
       }
     ]
   },
@@ -6296,20 +6296,20 @@ export const philosophy = [
     "num": 287,
     "answers": [
       {
-        "answerText": "обыденное сознание",
-        "isRight": true
+        "answer": "обыденное сознание",
+        "isTrue": true
       },
       {
-        "answerText": "идеология",
-        "isRight": false
+        "answer": "идеология",
+        "isTrue": false
       },
       {
-        "answerText": "теоретическое сознание",
-        "isRight": false
+        "answer": "теоретическое сознание",
+        "isTrue": false
       },
       {
-        "answerText": "философия",
-        "isRight": false
+        "answer": "философия",
+        "isTrue": false
       }
     ]
   },
@@ -6318,20 +6318,20 @@ export const philosophy = [
     "num": 288,
     "answers": [
       {
-        "answerText": "учение о научном методе познания",
-        "isRight": true
+        "answer": "учение о научном методе познания",
+        "isTrue": true
       },
       {
-        "answerText": "усовершенствование, обновление",
-        "isRight": false
+        "answer": "усовершенствование, обновление",
+        "isTrue": false
       },
       {
-        "answerText": "теория о происхождении Вселенной",
-        "isRight": false
+        "answer": "теория о происхождении Вселенной",
+        "isTrue": false
       },
       {
-        "answerText": "полное отрицание общепринятых норм",
-        "isRight": false
+        "answer": "полное отрицание общепринятых норм",
+        "isTrue": false
       }
     ]
   },
@@ -6340,20 +6340,20 @@ export const philosophy = [
     "num": 289,
     "answers": [
       {
-        "answerText": "субъективная реальность, целенаправленное отражение действительности",
-        "isRight": true
+        "answer": "субъективная реальность, целенаправленное отражение действительности",
+        "isTrue": true
       },
       {
-        "answerText": "психическое вообще",
-        "isRight": false
+        "answer": "психическое вообще",
+        "isTrue": false
       },
       {
-        "answerText": "сфера мышления",
-        "isRight": false
+        "answer": "сфера мышления",
+        "isTrue": false
       },
       {
-        "answerText": "божественный дар осознания себя и окружающей действительности",
-        "isRight": false
+        "answer": "божественный дар осознания себя и окружающей действительности",
+        "isTrue": false
       }
     ]
   },
@@ -6362,20 +6362,20 @@ export const philosophy = [
     "num": 290,
     "answers": [
       {
-        "answerText": "отражение есть любая реакция на любое воздействие",
-        "isRight": true
+        "answer": "отражение есть любая реакция на любое воздействие",
+        "isTrue": true
       },
       {
-        "answerText": "отражение есть зеркальное отражение",
-        "isRight": false
+        "answer": "отражение есть зеркальное отражение",
+        "isTrue": false
       },
       {
-        "answerText": "отражение есть след",
-        "isRight": false
+        "answer": "отражение есть след",
+        "isTrue": false
       },
       {
-        "answerText": "отражение есть снимок",
-        "isRight": false
+        "answer": "отражение есть снимок",
+        "isTrue": false
       }
     ]
   },
@@ -6384,20 +6384,20 @@ export const philosophy = [
     "num": 291,
     "answers": [
       {
-        "answerText": "идеален",
-        "isRight": true
+        "answer": "идеален",
+        "isTrue": true
       },
       {
-        "answerText": "материален",
-        "isRight": false
+        "answer": "материален",
+        "isTrue": false
       },
       {
-        "answerText": "визуален",
-        "isRight": false
+        "answer": "визуален",
+        "isTrue": false
       },
       {
-        "answerText": "социален",
-        "isRight": false
+        "answer": "социален",
+        "isTrue": false
       }
     ]
   },
@@ -6406,20 +6406,20 @@ export const philosophy = [
     "num": 292,
     "answers": [
       {
-        "answerText": "формы общественного сознания",
-        "isRight": true
+        "answer": "формы общественного сознания",
+        "isTrue": true
       },
       {
-        "answerText": "формы массового сознания",
-        "isRight": false
+        "answer": "формы массового сознания",
+        "isTrue": false
       },
       {
-        "answerText": "формы повседневного сознания",
-        "isRight": false
+        "answer": "формы повседневного сознания",
+        "isTrue": false
       },
       {
-        "answerText": "формы практического сознания",
-        "isRight": false
+        "answer": "формы практического сознания",
+        "isTrue": false
       }
     ]
   },
@@ -6428,20 +6428,20 @@ export const philosophy = [
     "num": 293,
     "answers": [
       {
-        "answerText": "науке",
-        "isRight": true
+        "answer": "науке",
+        "isTrue": true
       },
       {
-        "answerText": "нации",
-        "isRight": false
+        "answer": "нации",
+        "isTrue": false
       },
       {
-        "answerText": "экономике",
-        "isRight": false
+        "answer": "экономике",
+        "isTrue": false
       },
       {
-        "answerText": "государству",
-        "isRight": false
+        "answer": "государству",
+        "isTrue": false
       }
     ]
   },
@@ -6450,20 +6450,20 @@ export const philosophy = [
     "num": 294,
     "answers": [
       {
-        "answerText": "регулятивная",
-        "isRight": true
+        "answer": "регулятивная",
+        "isTrue": true
       },
       {
-        "answerText": "Просветительская",
-        "isRight": false
+        "answer": "Просветительская",
+        "isTrue": false
       },
       {
-        "answerText": "читать нотации",
-        "isRight": false
+        "answer": "читать нотации",
+        "isTrue": false
       },
       {
-        "answerText": "воспитательная",
-        "isRight": false
+        "answer": "воспитательная",
+        "isTrue": false
       }
     ]
   },
@@ -6472,20 +6472,20 @@ export const philosophy = [
     "num": 295,
     "answers": [
       {
-        "answerText": "Вебер",
-        "isRight": true
+        "answer": "Вебер",
+        "isTrue": true
       },
       {
-        "answerText": "Конт",
-        "isRight": false
+        "answer": "Конт",
+        "isTrue": false
       },
       {
-        "answerText": "Сорокин",
-        "isRight": false
+        "answer": "Сорокин",
+        "isTrue": false
       },
       {
-        "answerText": "Риккерт",
-        "isRight": false
+        "answer": "Риккерт",
+        "isTrue": false
       }
     ]
   },
@@ -6494,20 +6494,20 @@ export const philosophy = [
     "num": 296,
     "answers": [
       {
-        "answerText": "эстетика",
-        "isRight": true
+        "answer": "эстетика",
+        "isTrue": true
       },
       {
-        "answerText": "гносеология",
-        "isRight": false
+        "answer": "гносеология",
+        "isTrue": false
       },
       {
-        "answerText": "социальная философия",
-        "isRight": false
+        "answer": "социальная философия",
+        "isTrue": false
       },
       {
-        "answerText": "этика",
-        "isRight": false
+        "answer": "этика",
+        "isTrue": false
       }
     ]
   },
@@ -6516,20 +6516,20 @@ export const philosophy = [
     "num": 297,
     "answers": [
       {
-        "answerText": "Имеют и практический и неутилитарный характер",
-        "isRight": true
+        "answer": "Имеют и практический и неутилитарный характер",
+        "isTrue": true
       },
       {
-        "answerText": "Носят мистический характер",
-        "isRight": false
+        "answer": "Носят мистический характер",
+        "isTrue": false
       },
       {
-        "answerText": "Обладают неутилитарным характером",
-        "isRight": false
+        "answer": "Обладают неутилитарным характером",
+        "isTrue": false
       },
       {
-        "answerText": "Носят практический характер",
-        "isRight": false
+        "answer": "Носят практический характер",
+        "isTrue": false
       }
     ]
   },
@@ -6538,20 +6538,20 @@ export const philosophy = [
     "num": 298,
     "answers": [
       {
-        "answerText": "Общечеловеческих ценностей",
-        "isRight": true
+        "answer": "Общечеловеческих ценностей",
+        "isTrue": true
       },
       {
-        "answerText": "Ценностей общения",
-        "isRight": false
+        "answer": "Ценностей общения",
+        "isTrue": false
       },
       {
-        "answerText": "Материальных ценностей",
-        "isRight": false
+        "answer": "Материальных ценностей",
+        "isTrue": false
       },
       {
-        "answerText": "Ценностей стиля жизни",
-        "isRight": false
+        "answer": "Ценностей стиля жизни",
+        "isTrue": false
       }
     ]
   },
@@ -6560,20 +6560,20 @@ export const philosophy = [
     "num": 299,
     "answers": [
       {
-        "answerText": "Нравственный",
-        "isRight": true
+        "answer": "Нравственный",
+        "isTrue": true
       },
       {
-        "answerText": "разумный",
-        "isRight": false
+        "answer": "разумный",
+        "isTrue": false
       },
       {
-        "answerText": "чувственный",
-        "isRight": false
+        "answer": "чувственный",
+        "isTrue": false
       },
       {
-        "answerText": "психический",
-        "isRight": false
+        "answer": "психический",
+        "isTrue": false
       }
     ]
   },
@@ -6582,20 +6582,20 @@ export const philosophy = [
     "num": 300,
     "answers": [
       {
-        "answerText": "Отношения между людьми по поводу существующих в обществе систем ценностей",
-        "isRight": true
+        "answer": "Отношения между людьми по поводу существующих в обществе систем ценностей",
+        "isTrue": true
       },
       {
-        "answerText": "Отношения между людьми и ценностями",
-        "isRight": false
+        "answer": "Отношения между людьми и ценностями",
+        "isTrue": false
       },
       {
-        "answerText": "Принятая в данном обществе иерархия ценностей",
-        "isRight": false
+        "answer": "Принятая в данном обществе иерархия ценностей",
+        "isTrue": false
       },
       {
-        "answerText": "Отношения между ценностями",
-        "isRight": false
+        "answer": "Отношения между ценностями",
+        "isTrue": false
       }
     ]
   },
@@ -6604,20 +6604,20 @@ export const philosophy = [
     "num": 301,
     "answers": [
       {
-        "answerText": "мораль как явление общественной жизни;",
-        "isRight": true
+        "answer": "мораль как явление общественной жизни;",
+        "isTrue": true
       },
       {
-        "answerText": "конкретная материальная вещь;",
-        "isRight": false
+        "answer": "конкретная материальная вещь;",
+        "isTrue": false
       },
       {
-        "answerText": "поведение конкретного человека;",
-        "isRight": false
+        "answer": "поведение конкретного человека;",
+        "isTrue": false
       },
       {
-        "answerText": "образ жизни людей;",
-        "isRight": false
+        "answer": "образ жизни людей;",
+        "isTrue": false
       }
     ]
   },
@@ -6626,20 +6626,20 @@ export const philosophy = [
     "num": 302,
     "answers": [
       {
-        "answerText": "элемент материальных ценностей;",
-        "isRight": true
+        "answer": "элемент материальных ценностей;",
+        "isTrue": true
       },
       {
-        "answerText": "самостоятельный вид ценностей;",
-        "isRight": false
+        "answer": "самостоятельный вид ценностей;",
+        "isTrue": false
       },
       {
-        "answerText": "элемент социальных ценностей;",
-        "isRight": false
+        "answer": "элемент социальных ценностей;",
+        "isTrue": false
       },
       {
-        "answerText": "то же, что и материальные ценности;",
-        "isRight": false
+        "answer": "то же, что и материальные ценности;",
+        "isTrue": false
       }
     ]
   },
@@ -6648,20 +6648,20 @@ export const philosophy = [
     "num": 303,
     "answers": [
       {
-        "answerText": "в нерасчлененности, слитности, целостности миропонимания;",
-        "isRight": true
+        "answer": "в нерасчлененности, слитности, целостности миропонимания;",
+        "isTrue": true
       },
       {
-        "answerText": "в признании субстанционального начала в мире;",
-        "isRight": false
+        "answer": "в признании субстанционального начала в мире;",
+        "isTrue": false
       },
       {
-        "answerText": "в вере во всемогущество единого Бога;",
-        "isRight": false
+        "answer": "в вере во всемогущество единого Бога;",
+        "isTrue": false
       },
       {
-        "answerText": "в противопоставлении человека и природы;",
-        "isRight": false
+        "answer": "в противопоставлении человека и природы;",
+        "isTrue": false
       }
     ]
   },
@@ -6670,20 +6670,20 @@ export const philosophy = [
     "num": 304,
     "answers": [
       {
-        "answerText": "технологическая;",
-        "isRight": true
+        "answer": "технологическая;",
+        "isTrue": true
       },
       {
-        "answerText": "познавательная;",
-        "isRight": false
+        "answer": "познавательная;",
+        "isTrue": false
       },
       {
-        "answerText": "мировоззренческая;",
-        "isRight": false
+        "answer": "мировоззренческая;",
+        "isTrue": false
       },
       {
-        "answerText": "просветительская;",
-        "isRight": false
+        "answer": "просветительская;",
+        "isTrue": false
       }
     ]
   },
@@ -6692,20 +6692,20 @@ export const philosophy = [
     "num": 305,
     "answers": [
       {
-        "answerText": "даосизма;",
-        "isRight": true
+        "answer": "даосизма;",
+        "isTrue": true
       },
       {
-        "answerText": "конфуцианства;",
-        "isRight": false
+        "answer": "конфуцианства;",
+        "isTrue": false
       },
       {
-        "answerText": "легизма;",
-        "isRight": false
+        "answer": "легизма;",
+        "isTrue": false
       },
       {
-        "answerText": "буддизма;",
-        "isRight": false
+        "answer": "буддизма;",
+        "isTrue": false
       }
     ]
   },
@@ -6714,20 +6714,20 @@ export const philosophy = [
     "num": 306,
     "answers": [
       {
-        "answerText": "в жажде желаний;",
-        "isRight": true
+        "answer": "в жажде желаний;",
+        "isTrue": true
       },
       {
-        "answerText": "в поклонении небу;",
-        "isRight": false
+        "answer": "в поклонении небу;",
+        "isTrue": false
       },
       {
-        "answerText": "в стремлении к нирване;",
-        "isRight": false
+        "answer": "в стремлении к нирване;",
+        "isTrue": false
       },
       {
-        "answerText": "в поклонении к духам предков;",
-        "isRight": false
+        "answer": "в поклонении к духам предков;",
+        "isTrue": false
       }
     ]
   },
@@ -6736,20 +6736,20 @@ export const philosophy = [
     "num": 307,
     "answers": [
       {
-        "answerText": "Парменид;",
-        "isRight": true
+        "answer": "Парменид;",
+        "isTrue": true
       },
       {
-        "answerText": "Пифагор;",
-        "isRight": false
+        "answer": "Пифагор;",
+        "isTrue": false
       },
       {
-        "answerText": "Гераклит;",
-        "isRight": false
+        "answer": "Гераклит;",
+        "isTrue": false
       },
       {
-        "answerText": "Сократ;",
-        "isRight": false
+        "answer": "Сократ;",
+        "isTrue": false
       }
     ]
   },
@@ -6758,20 +6758,20 @@ export const philosophy = [
     "num": 308,
     "answers": [
       {
-        "answerText": "Аристотель;",
-        "isRight": true
+        "answer": "Аристотель;",
+        "isTrue": true
       },
       {
-        "answerText": "Сократ;",
-        "isRight": false
+        "answer": "Сократ;",
+        "isTrue": false
       },
       {
-        "answerText": "Гераклит;",
-        "isRight": false
+        "answer": "Гераклит;",
+        "isTrue": false
       },
       {
-        "answerText": "Демокрит;",
-        "isRight": false
+        "answer": "Демокрит;",
+        "isTrue": false
       }
     ]
   },
@@ -6780,20 +6780,20 @@ export const philosophy = [
     "num": 309,
     "answers": [
       {
-        "answerText": "стихийная диалектика;",
-        "isRight": true
+        "answer": "стихийная диалектика;",
+        "isTrue": true
       },
       {
-        "answerText": "стихийная ученость;",
-        "isRight": false
+        "answer": "стихийная ученость;",
+        "isTrue": false
       },
       {
-        "answerText": "стихи;",
-        "isRight": false
+        "answer": "стихи;",
+        "isTrue": false
       },
       {
-        "answerText": "стихийный материализм;",
-        "isRight": false
+        "answer": "стихийный материализм;",
+        "isTrue": false
       }
     ]
   },
@@ -6802,20 +6802,20 @@ export const philosophy = [
     "num": 310,
     "answers": [
       {
-        "answerText": "перипатетиками;",
-        "isRight": true
+        "answer": "перипатетиками;",
+        "isTrue": true
       },
       {
-        "answerText": "скептиками;",
-        "isRight": false
+        "answer": "скептиками;",
+        "isTrue": false
       },
       {
-        "answerText": "схоластиками;",
-        "isRight": false
+        "answer": "схоластиками;",
+        "isTrue": false
       },
       {
-        "answerText": "реалистами;",
-        "isRight": false
+        "answer": "реалистами;",
+        "isTrue": false
       }
     ]
   },
@@ -6824,20 +6824,20 @@ export const philosophy = [
     "num": 311,
     "answers": [
       {
-        "answerText": "А. Августин;",
-        "isRight": true
+        "answer": "А. Августин;",
+        "isTrue": true
       },
       {
-        "answerText": "Ямвлих;",
-        "isRight": false
+        "answer": "Ямвлих;",
+        "isTrue": false
       },
       {
-        "answerText": "Ф. Аквинский;",
-        "isRight": false
+        "answer": "Ф. Аквинский;",
+        "isTrue": false
       },
       {
-        "answerText": "Плотин;",
-        "isRight": false
+        "answer": "Плотин;",
+        "isTrue": false
       }
     ]
   },
@@ -6846,20 +6846,20 @@ export const philosophy = [
     "num": 312,
     "answers": [
       {
-        "answerText": "эпохи Средневековья;",
-        "isRight": true
+        "answer": "эпохи Средневековья;",
+        "isTrue": true
       },
       {
-        "answerText": "эпохи Античности (Древней Греции);",
-        "isRight": false
+        "answer": "эпохи Античности (Древней Греции);",
+        "isTrue": false
       },
       {
-        "answerText": "эпохи Возрождения;",
-        "isRight": false
+        "answer": "эпохи Возрождения;",
+        "isTrue": false
       },
       {
-        "answerText": "эпохи Научной революции;",
-        "isRight": false
+        "answer": "эпохи Научной революции;",
+        "isTrue": false
       }
     ]
   },
@@ -6868,20 +6868,20 @@ export const philosophy = [
     "num": 313,
     "answers": [
       {
-        "answerText": "совокупность теолого-философских взглядов христианских мыслителей.",
-        "isRight": true
+        "answer": "совокупность теолого-философских взглядов христианских мыслителей.",
+        "isTrue": true
       },
       {
-        "answerText": "принцип, в соответствии с которым Бог из ничего сотворил живую и неживую природу;",
-        "isRight": false
+        "answer": "принцип, в соответствии с которым Бог из ничего сотворил живую и неживую природу;",
+        "isTrue": false
       },
       {
-        "answerText": "принцип принятия за основу всего сущего одного начала;",
-        "isRight": false
+        "answer": "принцип принятия за основу всего сущего одного начала;",
+        "isTrue": false
       },
       {
-        "answerText": "философская позиция, в соответствии с которой любое",
-        "isRight": false
+        "answer": "философская позиция, в соответствии с которой любое",
+        "isTrue": false
       }
     ]
   },
@@ -6890,20 +6890,20 @@ export const philosophy = [
     "num": 314,
     "answers": [
       {
-        "answerText": "эпохе Средних веков.",
-        "isRight": true
+        "answer": "эпохе Средних веков.",
+        "isTrue": true
       },
       {
-        "answerText": "эпохе Возрождения;",
-        "isRight": false
+        "answer": "эпохе Возрождения;",
+        "isTrue": false
       },
       {
-        "answerText": "новому времени;",
-        "isRight": false
+        "answer": "новому времени;",
+        "isTrue": false
       },
       {
-        "answerText": "эпохе Просвещения;",
-        "isRight": false
+        "answer": "эпохе Просвещения;",
+        "isTrue": false
       }
     ]
   },
@@ -6912,20 +6912,20 @@ export const philosophy = [
     "num": 315,
     "answers": [
       {
-        "answerText": "переход от теоцентрического к антропоцентрическому пониманию",
-        "isRight": true
+        "answer": "переход от теоцентрического к антропоцентрическому пониманию",
+        "isTrue": true
       },
       {
-        "answerText": "борьба против антропоцентризма;",
-        "isRight": false
+        "answer": "борьба против антропоцентризма;",
+        "isTrue": false
       },
       {
-        "answerText": "стремление к мирному существованию;",
-        "isRight": false
+        "answer": "стремление к мирному существованию;",
+        "isTrue": false
       },
       {
-        "answerText": "возвращение к космоцентрическому мировоззрению;",
-        "isRight": false
+        "answer": "возвращение к космоцентрическому мировоззрению;",
+        "isTrue": false
       }
     ]
   },
@@ -6934,20 +6934,20 @@ export const philosophy = [
     "num": 316,
     "answers": [
       {
-        "answerText": "Н. Коперник;",
-        "isRight": true
+        "answer": "Н. Коперник;",
+        "isTrue": true
       },
       {
-        "answerText": "Птолемей;",
-        "isRight": false
+        "answer": "Птолемей;",
+        "isTrue": false
       },
       {
-        "answerText": "Архимед;",
-        "isRight": false
+        "answer": "Архимед;",
+        "isTrue": false
       },
       {
-        "answerText": "Лаплас;",
-        "isRight": false
+        "answer": "Лаплас;",
+        "isTrue": false
       }
     ]
   },
@@ -6956,20 +6956,20 @@ export const philosophy = [
     "num": 317,
     "answers": [
       {
-        "answerText": "бога и природы;",
-        "isRight": true
+        "answer": "бога и природы;",
+        "isTrue": true
       },
       {
-        "answerText": "идеи и материи;",
-        "isRight": false
+        "answer": "идеи и материи;",
+        "isTrue": false
       },
       {
-        "answerText": "разума и воли;",
-        "isRight": false
+        "answer": "разума и воли;",
+        "isTrue": false
       },
       {
-        "answerText": "знания и веры;",
-        "isRight": false
+        "answer": "знания и веры;",
+        "isTrue": false
       }
     ]
   },
@@ -6978,20 +6978,20 @@ export const philosophy = [
     "num": 318,
     "answers": [
       {
-        "answerText": "Р. Декарту;",
-        "isRight": true
+        "answer": "Р. Декарту;",
+        "isTrue": true
       },
       {
-        "answerText": "Ф. Бэкону;",
-        "isRight": false
+        "answer": "Ф. Бэкону;",
+        "isTrue": false
       },
       {
-        "answerText": "Т. Гоббсу;",
-        "isRight": false
+        "answer": "Т. Гоббсу;",
+        "isTrue": false
       },
       {
-        "answerText": "Б. Спинозе;",
-        "isRight": false
+        "answer": "Б. Спинозе;",
+        "isTrue": false
       }
     ]
   },
@@ -7000,20 +7000,20 @@ export const philosophy = [
     "num": 319,
     "answers": [
       {
-        "answerText": "Р. Декарт;",
-        "isRight": true
+        "answer": "Р. Декарт;",
+        "isTrue": true
       },
       {
-        "answerText": "Т. Гоббс;",
-        "isRight": false
+        "answer": "Т. Гоббс;",
+        "isTrue": false
       },
       {
-        "answerText": "И. Кант;",
-        "isRight": false
+        "answer": "И. Кант;",
+        "isTrue": false
       },
       {
-        "answerText": "Дж. Локк;",
-        "isRight": false
+        "answer": "Дж. Локк;",
+        "isTrue": false
       }
     ]
   },
@@ -7022,20 +7022,20 @@ export const philosophy = [
     "num": 320,
     "answers": [
       {
-        "answerText": "идолами площади;",
-        "isRight": true
+        "answer": "идолами площади;",
+        "isTrue": true
       },
       {
-        "answerText": "идолами пещеры;",
-        "isRight": false
+        "answer": "идолами пещеры;",
+        "isTrue": false
       },
       {
-        "answerText": "идолами театра;",
-        "isRight": false
+        "answer": "идолами театра;",
+        "isTrue": false
       },
       {
-        "answerText": "идолами рода;",
-        "isRight": false
+        "answer": "идолами рода;",
+        "isTrue": false
       }
     ]
   },
@@ -7044,20 +7044,20 @@ export const philosophy = [
     "num": 321,
     "answers": [
       {
-        "answerText": "индукцией;",
-        "isRight": true
+        "answer": "индукцией;",
+        "isTrue": true
       },
       {
-        "answerText": "дедукцией;",
-        "isRight": false
+        "answer": "дедукцией;",
+        "isTrue": false
       },
       {
-        "answerText": "анализом;",
-        "isRight": false
+        "answer": "анализом;",
+        "isTrue": false
       },
       {
-        "answerText": "синтезом;",
-        "isRight": false
+        "answer": "синтезом;",
+        "isTrue": false
       }
     ]
   },
@@ -7066,20 +7066,20 @@ export const philosophy = [
     "num": 322,
     "answers": [
       {
-        "answerText": "общественная польза и улучшение жизни людей;",
-        "isRight": true
+        "answer": "общественная польза и улучшение жизни людей;",
+        "isTrue": true
       },
       {
-        "answerText": "достижение славы и власти;",
-        "isRight": false
+        "answer": "достижение славы и власти;",
+        "isTrue": false
       },
       {
-        "answerText": "развитие че6ловеческого духа и знаний о мире;",
-        "isRight": false
+        "answer": "развитие че6ловеческого духа и знаний о мире;",
+        "isTrue": false
       },
       {
-        "answerText": "достижение абсолютной истины;",
-        "isRight": false
+        "answer": "достижение абсолютной истины;",
+        "isTrue": false
       }
     ]
   },
@@ -7088,20 +7088,20 @@ export const philosophy = [
     "num": 323,
     "answers": [
       {
-        "answerText": "науки;",
-        "isRight": true
+        "answer": "науки;",
+        "isTrue": true
       },
       {
-        "answerText": "человека;",
-        "isRight": false
+        "answer": "человека;",
+        "isTrue": false
       },
       {
-        "answerText": "общества;",
-        "isRight": false
+        "answer": "общества;",
+        "isTrue": false
       },
       {
-        "answerText": "церкви;",
-        "isRight": false
+        "answer": "церкви;",
+        "isTrue": false
       }
     ]
   },
@@ -7110,20 +7110,20 @@ export const philosophy = [
     "num": 324,
     "answers": [
       {
-        "answerText": "чувств;",
-        "isRight": true
+        "answer": "чувств;",
+        "isTrue": true
       },
       {
-        "answerText": "истины;",
-        "isRight": false
+        "answer": "истины;",
+        "isTrue": false
       },
       {
-        "answerText": "эмоций;",
-        "isRight": false
+        "answer": "эмоций;",
+        "isTrue": false
       },
       {
-        "answerText": "разума;",
-        "isRight": false
+        "answer": "разума;",
+        "isTrue": false
       }
     ]
   },
@@ -7132,20 +7132,20 @@ export const philosophy = [
     "num": 325,
     "answers": [
       {
-        "answerText": "опыт, опирающийся на эксперимент;",
-        "isRight": true
+        "answer": "опыт, опирающийся на эксперимент;",
+        "isTrue": true
       },
       {
-        "answerText": "изолированное чувственное восприятие;",
-        "isRight": false
+        "answer": "изолированное чувственное восприятие;",
+        "isTrue": false
       },
       {
-        "answerText": "форма, присущая самой вещи;",
-        "isRight": false
+        "answer": "форма, присущая самой вещи;",
+        "isTrue": false
       },
       {
-        "answerText": "мыслительный образ вещи, отраженный в сознании;",
-        "isRight": false
+        "answer": "мыслительный образ вещи, отраженный в сознании;",
+        "isTrue": false
       }
     ]
   },
@@ -7154,20 +7154,20 @@ export const philosophy = [
     "num": 326,
     "answers": [
       {
-        "answerText": "природа-Бог;",
-        "isRight": true
+        "answer": "природа-Бог;",
+        "isTrue": true
       },
       {
-        "answerText": "материя;",
-        "isRight": false
+        "answer": "материя;",
+        "isTrue": false
       },
       {
-        "answerText": "апейрон;",
-        "isRight": false
+        "answer": "апейрон;",
+        "isTrue": false
       },
       {
-        "answerText": "атом;",
-        "isRight": false
+        "answer": "атом;",
+        "isTrue": false
       }
     ]
   },
@@ -7176,20 +7176,20 @@ export const philosophy = [
     "num": 327,
     "answers": [
       {
-        "answerText": "К. Маркс и Ф. Энгельс;",
-        "isRight": true
+        "answer": "К. Маркс и Ф. Энгельс;",
+        "isTrue": true
       },
       {
-        "answerText": "Левкипп и Демокрит;",
-        "isRight": false
+        "answer": "Левкипп и Демокрит;",
+        "isTrue": false
       },
       {
-        "answerText": "Ф. Бэкон и Р. Декарт;",
-        "isRight": false
+        "answer": "Ф. Бэкон и Р. Декарт;",
+        "isTrue": false
       },
       {
-        "answerText": "Г. В. Плеханов и В. И. Ленин;",
-        "isRight": false
+        "answer": "Г. В. Плеханов и В. И. Ленин;",
+        "isTrue": false
       }
     ]
   },
@@ -7198,20 +7198,20 @@ export const philosophy = [
     "num": 328,
     "answers": [
       {
-        "answerText": "уровень развития производительных сил общества;",
-        "isRight": true
+        "answer": "уровень развития производительных сил общества;",
+        "isTrue": true
       },
       {
-        "answerText": "специфические правовые и законодательные формы;",
-        "isRight": false
+        "answer": "специфические правовые и законодательные формы;",
+        "isTrue": false
       },
       {
-        "answerText": "географическое положение;",
-        "isRight": false
+        "answer": "географическое положение;",
+        "isTrue": false
       },
       {
-        "answerText": "уровень технического и научного развития общества;",
-        "isRight": false
+        "answer": "уровень технического и научного развития общества;",
+        "isTrue": false
       }
     ]
   },
@@ -7220,20 +7220,20 @@ export const philosophy = [
     "num": 329,
     "answers": [
       {
-        "answerText": "механистичности;",
-        "isRight": true
+        "answer": "механистичности;",
+        "isTrue": true
       },
       {
-        "answerText": "волюнтаризма;",
-        "isRight": false
+        "answer": "волюнтаризма;",
+        "isTrue": false
       },
       {
-        "answerText": "рационализма;",
-        "isRight": false
+        "answer": "рационализма;",
+        "isTrue": false
       },
       {
-        "answerText": "гилозоизма;",
-        "isRight": false
+        "answer": "гилозоизма;",
+        "isTrue": false
       }
     ]
   },
@@ -7242,20 +7242,20 @@ export const philosophy = [
     "num": 330,
     "answers": [
       {
-        "answerText": "схоластика;",
-        "isRight": true
+        "answer": "схоластика;",
+        "isTrue": true
       },
       {
-        "answerText": "софистика;",
-        "isRight": false
+        "answer": "софистика;",
+        "isTrue": false
       },
       {
-        "answerText": "диалектика",
-        "isRight": false
+        "answer": "диалектика",
+        "isTrue": false
       },
       {
-        "answerText": "метафизика",
-        "isRight": false
+        "answer": "метафизика",
+        "isTrue": false
       }
     ]
   },
@@ -7264,20 +7264,20 @@ export const philosophy = [
     "num": 331,
     "answers": [
       {
-        "answerText": "теологическая, метафизическая, позитивная;",
-        "isRight": true
+        "answer": "теологическая, метафизическая, позитивная;",
+        "isTrue": true
       },
       {
-        "answerText": "религиозная, этическая, метафизическая;",
-        "isRight": false
+        "answer": "религиозная, этическая, метафизическая;",
+        "isTrue": false
       },
       {
-        "answerText": "эстетическая, этическая, метафизическая;",
-        "isRight": false
+        "answer": "эстетическая, этическая, метафизическая;",
+        "isTrue": false
       },
       {
-        "answerText": "религиозная, научная, позитивная;",
-        "isRight": false
+        "answer": "религиозная, научная, позитивная;",
+        "isTrue": false
       }
     ]
   },
@@ -7286,20 +7286,20 @@ export const philosophy = [
     "num": 332,
     "answers": [
       {
-        "answerText": "К. Маркс;",
-        "isRight": true
+        "answer": "К. Маркс;",
+        "isTrue": true
       },
       {
-        "answerText": "К. Ясперс;",
-        "isRight": false
+        "answer": "К. Ясперс;",
+        "isTrue": false
       },
       {
-        "answerText": "О. Шпенглер;",
-        "isRight": false
+        "answer": "О. Шпенглер;",
+        "isTrue": false
       },
       {
-        "answerText": "П. Сорокин;",
-        "isRight": false
+        "answer": "П. Сорокин;",
+        "isTrue": false
       }
     ]
   },
@@ -7308,20 +7308,20 @@ export const philosophy = [
     "num": 333,
     "answers": [
       {
-        "answerText": "базис;",
-        "isRight": true
+        "answer": "базис;",
+        "isTrue": true
       },
       {
-        "answerText": "способ производства;",
-        "isRight": false
+        "answer": "способ производства;",
+        "isTrue": false
       },
       {
-        "answerText": "процесс;",
-        "isRight": false
+        "answer": "процесс;",
+        "isTrue": false
       },
       {
-        "answerText": "комплекс;",
-        "isRight": false
+        "answer": "комплекс;",
+        "isTrue": false
       }
     ]
   },
@@ -7330,20 +7330,20 @@ export const philosophy = [
     "num": 334,
     "answers": [
       {
-        "answerText": "народ &ndash; творец истории;",
-        "isRight": true
+        "answer": "народ &ndash; творец истории;",
+        "isTrue": true
       },
       {
-        "answerText": "личность &ndash; творец истории;",
-        "isRight": false
+        "answer": "личность &ndash; творец истории;",
+        "isTrue": false
       },
       {
-        "answerText": "индивидуум &ndash; творец истории;",
-        "isRight": false
+        "answer": "индивидуум &ndash; творец истории;",
+        "isTrue": false
       },
       {
-        "answerText": "мировой дух &ndash; творец истории;",
-        "isRight": false
+        "answer": "мировой дух &ndash; творец истории;",
+        "isTrue": false
       }
     ]
   },
@@ -7352,20 +7352,20 @@ export const philosophy = [
     "num": 335,
     "answers": [
       {
-        "answerText": "бессознательна;",
-        "isRight": true
+        "answer": "бессознательна;",
+        "isTrue": true
       },
       {
-        "answerText": "сверхсознательна;",
-        "isRight": false
+        "answer": "сверхсознательна;",
+        "isTrue": false
       },
       {
-        "answerText": "интуитивна;",
-        "isRight": false
+        "answer": "интуитивна;",
+        "isTrue": false
       },
       {
-        "answerText": "божественна;",
-        "isRight": false
+        "answer": "божественна;",
+        "isTrue": false
       }
     ]
   },
@@ -7374,20 +7374,20 @@ export const philosophy = [
     "num": 336,
     "answers": [
       {
-        "answerText": "космология",
-        "isRight": true
+        "answer": "космология",
+        "isTrue": true
       },
       {
-        "answerText": "эсхатология",
-        "isRight": false
+        "answer": "эсхатология",
+        "isTrue": false
       },
       {
-        "answerText": "астрология",
-        "isRight": false
+        "answer": "астрология",
+        "isTrue": false
       },
       {
-        "answerText": "геология",
-        "isRight": false
+        "answer": "геология",
+        "isTrue": false
       }
     ]
   },
@@ -7396,20 +7396,20 @@ export const philosophy = [
     "num": 337,
     "answers": [
       {
-        "answerText": "Соборность",
-        "isRight": true
+        "answer": "Соборность",
+        "isTrue": true
       },
       {
-        "answerText": "Теоретический разум",
-        "isRight": false
+        "answer": "Теоретический разум",
+        "isTrue": false
       },
       {
-        "answerText": "Всеединство",
-        "isRight": false
+        "answer": "Всеединство",
+        "isTrue": false
       },
       {
-        "answerText": "Благодать",
-        "isRight": false
+        "answer": "Благодать",
+        "isTrue": false
       }
     ]
   },
@@ -7418,20 +7418,20 @@ export const philosophy = [
     "num": 338,
     "answers": [
       {
-        "answerText": "диалектическое",
-        "isRight": true
+        "answer": "диалектическое",
+        "isTrue": true
       },
       {
-        "answerText": "историческое",
-        "isRight": false
+        "answer": "историческое",
+        "isTrue": false
       },
       {
-        "answerText": "отрицательное",
-        "isRight": false
+        "answer": "отрицательное",
+        "isTrue": false
       },
       {
-        "answerText": "природное",
-        "isRight": false
+        "answer": "природное",
+        "isTrue": false
       }
     ]
   },
@@ -7440,20 +7440,20 @@ export const philosophy = [
     "num": 339,
     "answers": [
       {
-        "answerText": "Духовное единение",
-        "isRight": true
+        "answer": "Духовное единение",
+        "isTrue": true
       },
       {
-        "answerText": "Духовный опыт",
-        "isRight": false
+        "answer": "Духовный опыт",
+        "isTrue": false
       },
       {
-        "answerText": "Сельская община",
-        "isRight": false
+        "answer": "Сельская община",
+        "isTrue": false
       },
       {
-        "answerText": "Абсолютизация индивидуального начала",
-        "isRight": false
+        "answer": "Абсолютизация индивидуального начала",
+        "isTrue": false
       }
     ]
   },
@@ -7462,20 +7462,20 @@ export const philosophy = [
     "num": 340,
     "answers": [
       {
-        "answerText": "религиозной философии;",
-        "isRight": true
+        "answer": "религиозной философии;",
+        "isTrue": true
       },
       {
-        "answerText": "западников;",
-        "isRight": false
+        "answer": "западников;",
+        "isTrue": false
       },
       {
-        "answerText": "славянофилов;",
-        "isRight": false
+        "answer": "славянофилов;",
+        "isTrue": false
       },
       {
-        "answerText": "софистов;",
-        "isRight": false
+        "answer": "софистов;",
+        "isTrue": false
       }
     ]
   },
@@ -7484,20 +7484,20 @@ export const philosophy = [
     "num": 341,
     "answers": [
       {
-        "answerText": "приоритет базиса над настройкой",
-        "isRight": true
+        "answer": "приоритет базиса над настройкой",
+        "isTrue": true
       },
       {
-        "answerText": "приоритет банковского капитала",
-        "isRight": false
+        "answer": "приоритет банковского капитала",
+        "isTrue": false
       },
       {
-        "answerText": "роль политики",
-        "isRight": false
+        "answer": "роль политики",
+        "isTrue": false
       },
       {
-        "answerText": "роль рабочего класса",
-        "isRight": false
+        "answer": "роль рабочего класса",
+        "isTrue": false
       }
     ]
   },
@@ -7506,20 +7506,20 @@ export const philosophy = [
     "num": 342,
     "answers": [
       {
-        "answerText": "Асан-кайгы;",
-        "isRight": true
+        "answer": "Асан-кайгы;",
+        "isTrue": true
       },
       {
-        "answerText": "Шал-акын;",
-        "isRight": false
+        "answer": "Шал-акын;",
+        "isTrue": false
       },
       {
-        "answerText": "Коркыт-ата;",
-        "isRight": false
+        "answer": "Коркыт-ата;",
+        "isTrue": false
       },
       {
-        "answerText": "Бухар-жырау;",
-        "isRight": false
+        "answer": "Бухар-жырау;",
+        "isTrue": false
       }
     ]
   },
@@ -7528,20 +7528,20 @@ export const philosophy = [
     "num": 343,
     "answers": [
       {
-        "answerText": "Кант",
-        "isRight": true
+        "answer": "Кант",
+        "isTrue": true
       },
       {
-        "answerText": "Гегель",
-        "isRight": false
+        "answer": "Гегель",
+        "isTrue": false
       },
       {
-        "answerText": "Фихте",
-        "isRight": false
+        "answer": "Фихте",
+        "isTrue": false
       },
       {
-        "answerText": "Маркс",
-        "isRight": false
+        "answer": "Маркс",
+        "isTrue": false
       }
     ]
   },
@@ -7550,20 +7550,20 @@ export const philosophy = [
     "num": 344,
     "answers": [
       {
-        "answerText": "Эрнста Кассирера;",
-        "isRight": true
+        "answer": "Эрнста Кассирера;",
+        "isTrue": true
       },
       {
-        "answerText": "Фридриха Ницше;",
-        "isRight": false
+        "answer": "Фридриха Ницше;",
+        "isTrue": false
       },
       {
-        "answerText": "Макса Шелера;",
-        "isRight": false
+        "answer": "Макса Шелера;",
+        "isTrue": false
       },
       {
-        "answerText": "Арнольда Гелена;",
-        "isRight": false
+        "answer": "Арнольда Гелена;",
+        "isTrue": false
       }
     ]
   },
@@ -7572,20 +7572,20 @@ export const philosophy = [
     "num": 345,
     "answers": [
       {
-        "answerText": "учение о первопричинах бытия",
-        "isRight": true
+        "answer": "учение о первопричинах бытия",
+        "isTrue": true
       },
       {
-        "answerText": "основной элемент мироздания",
-        "isRight": false
+        "answer": "основной элемент мироздания",
+        "isTrue": false
       },
       {
-        "answerText": "чувственное восприятие",
-        "isRight": false
+        "answer": "чувственное восприятие",
+        "isTrue": false
       },
       {
-        "answerText": "наука о правильном непротиворечивом мышлении",
-        "isRight": false
+        "answer": "наука о правильном непротиворечивом мышлении",
+        "isTrue": false
       }
     ]
   },
@@ -7594,20 +7594,20 @@ export const philosophy = [
     "num": 346,
     "answers": [
       {
-        "answerText": "Альберт Швейцер;",
-        "isRight": true
+        "answer": "Альберт Швейцер;",
+        "isTrue": true
       },
       {
-        "answerText": "Освальд Шпенглер;",
-        "isRight": false
+        "answer": "Освальд Шпенглер;",
+        "isTrue": false
       },
       {
-        "answerText": "Бертран Рассел;",
-        "isRight": false
+        "answer": "Бертран Рассел;",
+        "isTrue": false
       },
       {
-        "answerText": "Людвиг Витгенштейн;",
-        "isRight": false
+        "answer": "Людвиг Витгенштейн;",
+        "isTrue": false
       }
     ]
   },
@@ -7616,20 +7616,20 @@ export const philosophy = [
     "num": 347,
     "answers": [
       {
-        "answerText": "верификация;",
-        "isRight": true
+        "answer": "верификация;",
+        "isTrue": true
       },
       {
-        "answerText": "консолидация;",
-        "isRight": false
+        "answer": "консолидация;",
+        "isTrue": false
       },
       {
-        "answerText": "специализация;",
-        "isRight": false
+        "answer": "специализация;",
+        "isTrue": false
       },
       {
-        "answerText": "фальсификация;",
-        "isRight": false
+        "answer": "фальсификация;",
+        "isTrue": false
       }
     ]
   },
@@ -7638,20 +7638,20 @@ export const philosophy = [
     "num": 348,
     "answers": [
       {
-        "answerText": "принципиальная опровергаемость;",
-        "isRight": true
+        "answer": "принципиальная опровергаемость;",
+        "isTrue": true
       },
       {
-        "answerText": "связь с практикой;",
-        "isRight": false
+        "answer": "связь с практикой;",
+        "isTrue": false
       },
       {
-        "answerText": "логическая соотнесенность с предшествующими знаниями;",
-        "isRight": false
+        "answer": "логическая соотнесенность с предшествующими знаниями;",
+        "isTrue": false
       },
       {
-        "answerText": "полезность;",
-        "isRight": false
+        "answer": "полезность;",
+        "isTrue": false
       }
     ]
   },
@@ -7660,20 +7660,20 @@ export const philosophy = [
     "num": 349,
     "answers": [
       {
-        "answerText": "Ортега-и-Гассет;",
-        "isRight": true
+        "answer": "Ортега-и-Гассет;",
+        "isTrue": true
       },
       {
-        "answerText": "Шпенглер;",
-        "isRight": false
+        "answer": "Шпенглер;",
+        "isTrue": false
       },
       {
-        "answerText": "Ницше;",
-        "isRight": false
+        "answer": "Ницше;",
+        "isTrue": false
       },
       {
-        "answerText": "Фромм;",
-        "isRight": false
+        "answer": "Фромм;",
+        "isTrue": false
       }
     ]
   },
@@ -7682,20 +7682,20 @@ export const philosophy = [
     "num": 350,
     "answers": [
       {
-        "answerText": "представление",
-        "isRight": true
+        "answer": "представление",
+        "isTrue": true
       },
       {
-        "answerText": "восприятие",
-        "isRight": false
+        "answer": "восприятие",
+        "isTrue": false
       },
       {
-        "answerText": "ощущение;",
-        "isRight": false
+        "answer": "ощущение;",
+        "isTrue": false
       },
       {
-        "answerText": "суждение",
-        "isRight": false
+        "answer": "суждение",
+        "isTrue": false
       }
     ]
   },
@@ -7704,20 +7704,20 @@ export const philosophy = [
     "num": 351,
     "answers": [
       {
-        "answerText": "движение;",
-        "isRight": true
+        "answer": "движение;",
+        "isTrue": true
       },
       {
-        "answerText": "время;",
-        "isRight": false
+        "answer": "время;",
+        "isTrue": false
       },
       {
-        "answerText": "пространство;",
-        "isRight": false
+        "answer": "пространство;",
+        "isTrue": false
       },
       {
-        "answerText": "взаимообусловленность;",
-        "isRight": false
+        "answer": "взаимообусловленность;",
+        "isTrue": false
       }
     ]
   },
@@ -7726,20 +7726,20 @@ export const philosophy = [
     "num": 352,
     "answers": [
       {
-        "answerText": "реляционная;",
-        "isRight": true
+        "answer": "реляционная;",
+        "isTrue": true
       },
       {
-        "answerText": "субстанциональная;",
-        "isRight": false
+        "answer": "субстанциональная;",
+        "isTrue": false
       },
       {
-        "answerText": "квантовая;",
-        "isRight": false
+        "answer": "квантовая;",
+        "isTrue": false
       },
       {
-        "answerText": "энергетическая;",
-        "isRight": false
+        "answer": "энергетическая;",
+        "isTrue": false
       }
     ]
   },
@@ -7748,20 +7748,20 @@ export const philosophy = [
     "num": 353,
     "answers": [
       {
-        "answerText": "охватывают практически все науки, известные в древности",
-        "isRight": true
+        "answer": "охватывают практически все науки, известные в древности",
+        "isTrue": true
       },
       {
-        "answerText": "посвящены в основном проблеме соотношения веры и разума",
-        "isRight": false
+        "answer": "посвящены в основном проблеме соотношения веры и разума",
+        "isTrue": false
       },
       {
-        "answerText": "не сохранились до наших дней",
-        "isRight": false
+        "answer": "не сохранились до наших дней",
+        "isTrue": false
       },
       {
-        "answerText": "написаны на латинском языке",
-        "isRight": false
+        "answer": "написаны на латинском языке",
+        "isTrue": false
       }
     ]
   },
@@ -7770,20 +7770,20 @@ export const philosophy = [
     "num": 354,
     "answers": [
       {
-        "answerText": "Время",
-        "isRight": true
+        "answer": "Время",
+        "isTrue": true
       },
       {
-        "answerText": "Сущность",
-        "isRight": false
+        "answer": "Сущность",
+        "isTrue": false
       },
       {
-        "answerText": "Субстанция",
-        "isRight": false
+        "answer": "Субстанция",
+        "isTrue": false
       },
       {
-        "answerText": "Пространство",
-        "isRight": false
+        "answer": "Пространство",
+        "isTrue": false
       }
     ]
   },
@@ -7792,20 +7792,20 @@ export const philosophy = [
     "num": 355,
     "answers": [
       {
-        "answerText": "учение, признающее &laquo;жизнь&raquo; неотъемлемым свойством материи",
-        "isRight": true
+        "answer": "учение, признающее &laquo;жизнь&raquo; неотъемлемым свойством материи",
+        "isTrue": true
       },
       {
-        "answerText": "учение о природе",
-        "isRight": false
+        "answer": "учение о природе",
+        "isTrue": false
       },
       {
-        "answerText": "учение о бытии как таковом",
-        "isRight": false
+        "answer": "учение о бытии как таковом",
+        "isTrue": false
       },
       {
-        "answerText": "учение о духовной культуре общества и человека",
-        "isRight": false
+        "answer": "учение о духовной культуре общества и человека",
+        "isTrue": false
       }
     ]
   },
@@ -7814,20 +7814,20 @@ export const philosophy = [
     "num": 356,
     "answers": [
       {
-        "answerText": "Открытое общество и его враги",
-        "isRight": true
+        "answer": "Открытое общество и его враги",
+        "isTrue": true
       },
       {
-        "answerText": "Утопия",
-        "isRight": false
+        "answer": "Утопия",
+        "isTrue": false
       },
       {
-        "answerText": "Город солнца",
-        "isRight": false
+        "answer": "Город солнца",
+        "isTrue": false
       },
       {
-        "answerText": "Государь",
-        "isRight": false
+        "answer": "Государь",
+        "isTrue": false
       }
     ]
   },
@@ -7836,20 +7836,20 @@ export const philosophy = [
     "num": 357,
     "answers": [
       {
-        "answerText": "сенсуализма",
-        "isRight": true
+        "answer": "сенсуализма",
+        "isTrue": true
       },
       {
-        "answerText": "скептицизма",
-        "isRight": false
+        "answer": "скептицизма",
+        "isTrue": false
       },
       {
-        "answerText": "гедонизма",
-        "isRight": false
+        "answer": "гедонизма",
+        "isTrue": false
       },
       {
-        "answerText": "реализма",
-        "isRight": false
+        "answer": "реализма",
+        "isTrue": false
       }
     ]
   },
@@ -7858,20 +7858,20 @@ export const philosophy = [
     "num": 358,
     "answers": [
       {
-        "answerText": "дедукция",
-        "isRight": true
+        "answer": "дедукция",
+        "isTrue": true
       },
       {
-        "answerText": "индукция",
-        "isRight": false
+        "answer": "индукция",
+        "isTrue": false
       },
       {
-        "answerText": "анализ",
-        "isRight": false
+        "answer": "анализ",
+        "isTrue": false
       },
       {
-        "answerText": "синтез",
-        "isRight": false
+        "answer": "синтез",
+        "isTrue": false
       }
     ]
   },
@@ -7880,20 +7880,20 @@ export const philosophy = [
     "num": 359,
     "answers": [
       {
-        "answerText": "Э. Кассиреру",
-        "isRight": true
+        "answer": "Э. Кассиреру",
+        "isTrue": true
       },
       {
-        "answerText": "Ф. Ницше",
-        "isRight": false
+        "answer": "Ф. Ницше",
+        "isTrue": false
       },
       {
-        "answerText": "А. Камю",
-        "isRight": false
+        "answer": "А. Камю",
+        "isTrue": false
       },
       {
-        "answerText": "В. Франклу",
-        "isRight": false
+        "answer": "В. Франклу",
+        "isTrue": false
       }
     ]
   },
@@ -7902,20 +7902,20 @@ export const philosophy = [
     "num": 360,
     "answers": [
       {
-        "answerText": "Экзистенциализма",
-        "isRight": true
+        "answer": "Экзистенциализма",
+        "isTrue": true
       },
       {
-        "answerText": "Феноменологии",
-        "isRight": false
+        "answer": "Феноменологии",
+        "isTrue": false
       },
       {
-        "answerText": "Структурализма",
-        "isRight": false
+        "answer": "Структурализма",
+        "isTrue": false
       },
       {
-        "answerText": "Постпозитивизма",
-        "isRight": false
+        "answer": "Постпозитивизма",
+        "isTrue": false
       }
     ]
   },
@@ -7924,20 +7924,20 @@ export const philosophy = [
     "num": 361,
     "answers": [
       {
-        "answerText": "Аристотелю",
-        "isRight": true
+        "answer": "Аристотелю",
+        "isTrue": true
       },
       {
-        "answerText": "Канту",
-        "isRight": false
+        "answer": "Канту",
+        "isTrue": false
       },
       {
-        "answerText": "Платону",
-        "isRight": false
+        "answer": "Платону",
+        "isTrue": false
       },
       {
-        "answerText": "Эмпедоклу",
-        "isRight": false
+        "answer": "Эмпедоклу",
+        "isTrue": false
       }
     ]
   },
@@ -7946,20 +7946,20 @@ export const philosophy = [
     "num": 362,
     "answers": [
       {
-        "answerText": "Гедонизм",
-        "isRight": true
+        "answer": "Гедонизм",
+        "isTrue": true
       },
       {
-        "answerText": "Гилозоизм",
-        "isRight": false
+        "answer": "Гилозоизм",
+        "isTrue": false
       },
       {
-        "answerText": "Панлогизм",
-        "isRight": false
+        "answer": "Панлогизм",
+        "isTrue": false
       },
       {
-        "answerText": "Майевтика",
-        "isRight": false
+        "answer": "Майевтика",
+        "isTrue": false
       }
     ]
   },
@@ -7968,20 +7968,20 @@ export const philosophy = [
     "num": 363,
     "answers": [
       {
-        "answerText": "категорический императив",
-        "isRight": true
+        "answer": "категорический императив",
+        "isTrue": true
       },
       {
-        "answerText": "гипотетический принцип",
-        "isRight": false
+        "answer": "гипотетический принцип",
+        "isTrue": false
       },
       {
-        "answerText": "антиномия",
-        "isRight": false
+        "answer": "антиномия",
+        "isTrue": false
       },
       {
-        "answerText": "трансцендентный императив",
-        "isRight": false
+        "answer": "трансцендентный императив",
+        "isTrue": false
       }
     ]
   },
@@ -7990,20 +7990,20 @@ export const philosophy = [
     "num": 364,
     "answers": [
       {
-        "answerText": "Абая (А.Кунанбаева)",
-        "isRight": true
+        "answer": "Абая (А.Кунанбаева)",
+        "isTrue": true
       },
       {
-        "answerText": "Ч. Валиханова",
-        "isRight": false
+        "answer": "Ч. Валиханова",
+        "isTrue": false
       },
       {
-        "answerText": "И. Алтынсарина",
-        "isRight": false
+        "answer": "И. Алтынсарина",
+        "isTrue": false
       },
       {
-        "answerText": "Ш. Кудайбердиева",
-        "isRight": false
+        "answer": "Ш. Кудайбердиева",
+        "isTrue": false
       }
     ]
   },
@@ -8012,20 +8012,20 @@ export const philosophy = [
     "num": 365,
     "answers": [
       {
-        "answerText": "К. Поппер",
-        "isRight": true
+        "answer": "К. Поппер",
+        "isTrue": true
       },
       {
-        "answerText": "О. Конт",
-        "isRight": false
+        "answer": "О. Конт",
+        "isTrue": false
       },
       {
-        "answerText": "Э. Дюркгейм",
-        "isRight": false
+        "answer": "Э. Дюркгейм",
+        "isTrue": false
       },
       {
-        "answerText": "К. Маркс",
-        "isRight": false
+        "answer": "К. Маркс",
+        "isTrue": false
       }
     ]
   },
@@ -8034,20 +8034,20 @@ export const philosophy = [
     "num": 366,
     "answers": [
       {
-        "answerText": "&quot;Римский клуб&quot;",
-        "isRight": true
+        "answer": "&quot;Римский клуб&quot;",
+        "isTrue": true
       },
       {
-        "answerText": "&quot;Движение зелёных&quot;",
-        "isRight": false
+        "answer": "&quot;Движение зелёных&quot;",
+        "isTrue": false
       },
       {
-        "answerText": "ООН",
-        "isRight": false
+        "answer": "ООН",
+        "isTrue": false
       },
       {
-        "answerText": "ЮНЕСКО",
-        "isRight": false
+        "answer": "ЮНЕСКО",
+        "isTrue": false
       }
     ]
   },
@@ -8056,20 +8056,20 @@ export const philosophy = [
     "num": 367,
     "answers": [
       {
-        "answerText": "учение о Боге",
-        "isRight": true
+        "answer": "учение о Боге",
+        "isTrue": true
       },
       {
-        "answerText": "жизнь Бога",
-        "isRight": false
+        "answer": "жизнь Бога",
+        "isTrue": false
       },
       {
-        "answerText": "учение о Логосе",
-        "isRight": false
+        "answer": "учение о Логосе",
+        "isTrue": false
       },
       {
-        "answerText": "родословная Богов",
-        "isRight": false
+        "answer": "родословная Богов",
+        "isTrue": false
       }
     ]
   },
@@ -8078,20 +8078,20 @@ export const philosophy = [
     "num": 368,
     "answers": [
       {
-        "answerText": "Ж. Баласагуни",
-        "isRight": true
+        "answer": "Ж. Баласагуни",
+        "isTrue": true
       },
       {
-        "answerText": "М. Кашгари",
-        "isRight": false
+        "answer": "М. Кашгари",
+        "isTrue": false
       },
       {
-        "answerText": "С. Бакыргани",
-        "isRight": false
+        "answer": "С. Бакыргани",
+        "isTrue": false
       },
       {
-        "answerText": "Х.А. Яссауи",
-        "isRight": false
+        "answer": "Х.А. Яссауи",
+        "isTrue": false
       }
     ]
   },
@@ -8100,20 +8100,20 @@ export const philosophy = [
     "num": 369,
     "answers": [
       {
-        "answerText": "А. Кунанбаев",
-        "isRight": true
+        "answer": "А. Кунанбаев",
+        "isTrue": true
       },
       {
-        "answerText": "М. Кашгари",
-        "isRight": false
+        "answer": "М. Кашгари",
+        "isTrue": false
       },
       {
-        "answerText": "С. Бакыргани",
-        "isRight": false
+        "answer": "С. Бакыргани",
+        "isTrue": false
       },
       {
-        "answerText": "Х.А. Яссауи",
-        "isRight": false
+        "answer": "Х.А. Яссауи",
+        "isTrue": false
       }
     ]
   },
@@ -8122,20 +8122,20 @@ export const philosophy = [
     "num": 370,
     "answers": [
       {
-        "answerText": "А. Мец А. Тойнби",
-        "isRight": true
+        "answer": "А. Мец А. Тойнби",
+        "isTrue": true
       },
       {
-        "answerText": "А. Мец",
-        "isRight": false
+        "answer": "А. Мец",
+        "isTrue": false
       },
       {
-        "answerText": "Ф. Шлейермахер",
-        "isRight": false
+        "answer": "Ф. Шлейермахер",
+        "isTrue": false
       },
       {
-        "answerText": "Н. Кузанский",
-        "isRight": false
+        "answer": "Н. Кузанский",
+        "isTrue": false
       }
     ]
   },
@@ -8144,20 +8144,20 @@ export const philosophy = [
     "num": 371,
     "answers": [
       {
-        "answerText": "Г. Гегель",
-        "isRight": true
+        "answer": "Г. Гегель",
+        "isTrue": true
       },
       {
-        "answerText": "Л. Фейербах",
-        "isRight": false
+        "answer": "Л. Фейербах",
+        "isTrue": false
       },
       {
-        "answerText": "И. Кант",
-        "isRight": false
+        "answer": "И. Кант",
+        "isTrue": false
       },
       {
-        "answerText": "И. Фихте",
-        "isRight": false
+        "answer": "И. Фихте",
+        "isTrue": false
       }
     ]
   },
@@ -8166,20 +8166,20 @@ export const philosophy = [
     "num": 372,
     "answers": [
       {
-        "answerText": "Л. Фейербах",
-        "isRight": true
+        "answer": "Л. Фейербах",
+        "isTrue": true
       },
       {
-        "answerText": "И. Кант",
-        "isRight": false
+        "answer": "И. Кант",
+        "isTrue": false
       },
       {
-        "answerText": "Г. Гегель",
-        "isRight": false
+        "answer": "Г. Гегель",
+        "isTrue": false
       },
       {
-        "answerText": "И. Фихте",
-        "isRight": false
+        "answer": "И. Фихте",
+        "isTrue": false
       }
     ]
   },
@@ -8188,20 +8188,20 @@ export const philosophy = [
     "num": 373,
     "answers": [
       {
-        "answerText": "Б. Спиноза",
-        "isRight": true
+        "answer": "Б. Спиноза",
+        "isTrue": true
       },
       {
-        "answerText": "Ф. Бэкон",
-        "isRight": false
+        "answer": "Ф. Бэкон",
+        "isTrue": false
       },
       {
-        "answerText": "Дж. Локк",
-        "isRight": false
+        "answer": "Дж. Локк",
+        "isTrue": false
       },
       {
-        "answerText": "Т. Гоббс",
-        "isRight": false
+        "answer": "Т. Гоббс",
+        "isTrue": false
       }
     ]
   },
@@ -8210,20 +8210,20 @@ export const philosophy = [
     "num": 374,
     "answers": [
       {
-        "answerText": "эпистема",
-        "isRight": true
+        "answer": "эпистема",
+        "isTrue": true
       },
       {
-        "answerText": "слово",
-        "isRight": false
+        "answer": "слово",
+        "isTrue": false
       },
       {
-        "answerText": "аналитика",
-        "isRight": false
+        "answer": "аналитика",
+        "isTrue": false
       },
       {
-        "answerText": "феномен",
-        "isRight": false
+        "answer": "феномен",
+        "isTrue": false
       }
     ]
   },
@@ -8232,20 +8232,20 @@ export const philosophy = [
     "num": 375,
     "answers": [
       {
-        "answerText": "вещь-в-себе",
-        "isRight": true
+        "answer": "вещь-в-себе",
+        "isTrue": true
       },
       {
-        "answerText": "ассимиляция",
-        "isRight": false
+        "answer": "ассимиляция",
+        "isTrue": false
       },
       {
-        "answerText": "материя",
-        "isRight": false
+        "answer": "материя",
+        "isTrue": false
       },
       {
-        "answerText": "фальсификация",
-        "isRight": false
+        "answer": "фальсификация",
+        "isTrue": false
       }
     ]
   },
@@ -8254,20 +8254,20 @@ export const philosophy = [
     "num": 376,
     "answers": [
       {
-        "answerText": "Т. Гоббсу",
-        "isRight": true
+        "answer": "Т. Гоббсу",
+        "isTrue": true
       },
       {
-        "answerText": "Аристотелю",
-        "isRight": false
+        "answer": "Аристотелю",
+        "isTrue": false
       },
       {
-        "answerText": "Канту",
-        "isRight": false
+        "answer": "Канту",
+        "isTrue": false
       },
       {
-        "answerText": "О. Конту",
-        "isRight": false
+        "answer": "О. Конту",
+        "isTrue": false
       }
     ]
   },
@@ -8276,20 +8276,20 @@ export const philosophy = [
     "num": 377,
     "answers": [
       {
-        "answerText": "аль-Фараби",
-        "isRight": true
+        "answer": "аль-Фараби",
+        "isTrue": true
       },
       {
-        "answerText": "аль-Кинди",
-        "isRight": false
+        "answer": "аль-Кинди",
+        "isTrue": false
       },
       {
-        "answerText": "аль-Газали",
-        "isRight": false
+        "answer": "аль-Газали",
+        "isTrue": false
       },
       {
-        "answerText": "Ибн-Сина",
-        "isRight": false
+        "answer": "Ибн-Сина",
+        "isTrue": false
       }
     ]
   },
@@ -8298,20 +8298,20 @@ export const philosophy = [
     "num": 378,
     "answers": [
       {
-        "answerText": "архетип коллективного бессознательного эго",
-        "isRight": true
+        "answer": "архетип коллективного бессознательного эго",
+        "isTrue": true
       },
       {
-        "answerText": "эго",
-        "isRight": false
+        "answer": "эго",
+        "isTrue": false
       },
       {
-        "answerText": "архетип индивидуального бессознательного",
-        "isRight": false
+        "answer": "архетип индивидуального бессознательного",
+        "isTrue": false
       },
       {
-        "answerText": "архетип ценностей",
-        "isRight": false
+        "answer": "архетип ценностей",
+        "isTrue": false
       }
     ]
   },
@@ -8320,20 +8320,20 @@ export const philosophy = [
     "num": 379,
     "answers": [
       {
-        "answerText": "О. А. Шпенглером",
-        "isRight": true
+        "answer": "О. А. Шпенглером",
+        "isTrue": true
       },
       {
-        "answerText": "А. Тойнби",
-        "isRight": false
+        "answer": "А. Тойнби",
+        "isTrue": false
       },
       {
-        "answerText": "А. Шопенгауэром",
-        "isRight": false
+        "answer": "А. Шопенгауэром",
+        "isTrue": false
       },
       {
-        "answerText": "Ф. Ницше",
-        "isRight": false
+        "answer": "Ф. Ницше",
+        "isTrue": false
       }
     ]
   },
@@ -8342,20 +8342,20 @@ export const philosophy = [
     "num": 380,
     "answers": [
       {
-        "answerText": "И. Хейзинга",
-        "isRight": true
+        "answer": "И. Хейзинга",
+        "isTrue": true
       },
       {
-        "answerText": "О. А. Шпенглером",
-        "isRight": false
+        "answer": "О. А. Шпенглером",
+        "isTrue": false
       },
       {
-        "answerText": "А. Тойнби",
-        "isRight": false
+        "answer": "А. Тойнби",
+        "isTrue": false
       },
       {
-        "answerText": "А. Шопенгауэру",
-        "isRight": false
+        "answer": "А. Шопенгауэру",
+        "isTrue": false
       }
     ]
   },
@@ -8364,20 +8364,20 @@ export const philosophy = [
     "num": 381,
     "answers": [
       {
-        "answerText": "Истины",
-        "isRight": true
+        "answer": "Истины",
+        "isTrue": true
       },
       {
-        "answerText": "Товарища",
-        "isRight": false
+        "answer": "Товарища",
+        "isTrue": false
       },
       {
-        "answerText": "Заблуждения",
-        "isRight": false
+        "answer": "Заблуждения",
+        "isTrue": false
       },
       {
-        "answerText": "Наставления",
-        "isRight": false
+        "answer": "Наставления",
+        "isTrue": false
       }
     ]
   },
@@ -8386,20 +8386,20 @@ export const philosophy = [
     "num": 382,
     "answers": [
       {
-        "answerText": "Перипатетики",
-        "isRight": true
+        "answer": "Перипатетики",
+        "isTrue": true
       },
       {
-        "answerText": "Доксографы",
-        "isRight": false
+        "answer": "Доксографы",
+        "isTrue": false
       },
       {
-        "answerText": "Стагириты",
-        "isRight": false
+        "answer": "Стагириты",
+        "isTrue": false
       },
       {
-        "answerText": "Неоаристотелизма",
-        "isRight": false
+        "answer": "Неоаристотелизма",
+        "isTrue": false
       }
     ]
   },
@@ -8408,20 +8408,20 @@ export const philosophy = [
     "num": 383,
     "answers": [
       {
-        "answerText": "Ч. Валиханов",
-        "isRight": true
+        "answer": "Ч. Валиханов",
+        "isTrue": true
       },
       {
-        "answerText": "М. Кашгари",
-        "isRight": false
+        "answer": "М. Кашгари",
+        "isTrue": false
       },
       {
-        "answerText": "С. Бакыргани",
-        "isRight": false
+        "answer": "С. Бакыргани",
+        "isTrue": false
       },
       {
-        "answerText": "Х.А. Яссауи",
-        "isRight": false
+        "answer": "Х.А. Яссауи",
+        "isTrue": false
       }
     ]
   },
@@ -8430,20 +8430,20 @@ export const philosophy = [
     "num": 384,
     "answers": [
       {
-        "answerText": "признание приоритетной роли чувств в познании",
-        "isRight": true
+        "answer": "признание приоритетной роли чувств в познании",
+        "isTrue": true
       },
       {
-        "answerText": "абсолютизация роли разума в познании",
-        "isRight": false
+        "answer": "абсолютизация роли разума в познании",
+        "isTrue": false
       },
       {
-        "answerText": "выделение языка в качестве основы познания",
-        "isRight": false
+        "answer": "выделение языка в качестве основы познания",
+        "isTrue": false
       },
       {
-        "answerText": "отрицание познаваемости мира",
-        "isRight": false
+        "answer": "отрицание познаваемости мира",
+        "isTrue": false
       }
     ]
   },
@@ -8452,20 +8452,20 @@ export const philosophy = [
     "num": 385,
     "answers": [
       {
-        "answerText": "человечность",
-        "isRight": true
+        "answer": "человечность",
+        "isTrue": true
       },
       {
-        "answerText": "материя",
-        "isRight": false
+        "answer": "материя",
+        "isTrue": false
       },
       {
-        "answerText": "идея",
-        "isRight": false
+        "answer": "идея",
+        "isTrue": false
       },
       {
-        "answerText": "истина",
-        "isRight": false
+        "answer": "истина",
+        "isTrue": false
       }
     ]
   },
@@ -8474,20 +8474,20 @@ export const philosophy = [
     "num": 386,
     "answers": [
       {
-        "answerText": "Онтология",
-        "isRight": true
+        "answer": "Онтология",
+        "isTrue": true
       },
       {
-        "answerText": "Эсхатология",
-        "isRight": false
+        "answer": "Эсхатология",
+        "isTrue": false
       },
       {
-        "answerText": "Гносеология",
-        "isRight": false
+        "answer": "Гносеология",
+        "isTrue": false
       },
       {
-        "answerText": "Апологетика",
-        "isRight": false
+        "answer": "Апологетика",
+        "isTrue": false
       }
     ]
   },
@@ -8496,20 +8496,20 @@ export const philosophy = [
     "num": 387,
     "answers": [
       {
-        "answerText": "Пифагору",
-        "isRight": true
+        "answer": "Пифагору",
+        "isTrue": true
       },
       {
-        "answerText": "Фалесу",
-        "isRight": false
+        "answer": "Фалесу",
+        "isTrue": false
       },
       {
-        "answerText": "Аристотелю",
-        "isRight": false
+        "answer": "Аристотелю",
+        "isTrue": false
       },
       {
-        "answerText": "Плотину",
-        "isRight": false
+        "answer": "Плотину",
+        "isTrue": false
       }
     ]
   },
@@ -8518,20 +8518,20 @@ export const philosophy = [
     "num": 388,
     "answers": [
       {
-        "answerText": "Фалес",
-        "isRight": true
+        "answer": "Фалес",
+        "isTrue": true
       },
       {
-        "answerText": "Аристотель",
-        "isRight": false
+        "answer": "Аристотель",
+        "isTrue": false
       },
       {
-        "answerText": "Сократ",
-        "isRight": false
+        "answer": "Сократ",
+        "isTrue": false
       },
       {
-        "answerText": "Цицерон",
-        "isRight": false
+        "answer": "Цицерон",
+        "isTrue": false
       }
     ]
   },
@@ -8540,20 +8540,20 @@ export const philosophy = [
     "num": 389,
     "answers": [
       {
-        "answerText": "теоцентризм",
-        "isRight": true
+        "answer": "теоцентризм",
+        "isTrue": true
       },
       {
-        "answerText": "космоцентризм",
-        "isRight": false
+        "answer": "космоцентризм",
+        "isTrue": false
       },
       {
-        "answerText": "антропоцентризм",
-        "isRight": false
+        "answer": "антропоцентризм",
+        "isTrue": false
       },
       {
-        "answerText": "мифотворчество",
-        "isRight": false
+        "answer": "мифотворчество",
+        "isTrue": false
       }
     ]
   },
@@ -8562,20 +8562,20 @@ export const philosophy = [
     "num": 390,
     "answers": [
       {
-        "answerText": "критической функцией",
-        "isRight": true
+        "answer": "критической функцией",
+        "isTrue": true
       },
       {
-        "answerText": "мировоззренческой функцией",
-        "isRight": false
+        "answer": "мировоззренческой функцией",
+        "isTrue": false
       },
       {
-        "answerText": "гуманистической функцией",
-        "isRight": false
+        "answer": "гуманистической функцией",
+        "isTrue": false
       },
       {
-        "answerText": "прогностической функцией",
-        "isRight": false
+        "answer": "прогностической функцией",
+        "isTrue": false
       }
     ]
   },
@@ -8584,20 +8584,20 @@ export const philosophy = [
     "num": 391,
     "answers": [
       {
-        "answerText": "Диалоги",
-        "isRight": true
+        "answer": "Диалоги",
+        "isTrue": true
       },
       {
-        "answerText": "Проза",
-        "isRight": false
+        "answer": "Проза",
+        "isTrue": false
       },
       {
-        "answerText": "Стихи",
-        "isRight": false
+        "answer": "Стихи",
+        "isTrue": false
       },
       {
-        "answerText": "Поэмы",
-        "isRight": false
+        "answer": "Поэмы",
+        "isTrue": false
       }
     ]
   },
@@ -8606,20 +8606,20 @@ export const philosophy = [
     "num": 392,
     "answers": [
       {
-        "answerText": "Средневековья",
-        "isRight": true
+        "answer": "Средневековья",
+        "isTrue": true
       },
       {
-        "answerText": "Возрождения",
-        "isRight": false
+        "answer": "Возрождения",
+        "isTrue": false
       },
       {
-        "answerText": "Нового времени",
-        "isRight": false
+        "answer": "Нового времени",
+        "isTrue": false
       },
       {
-        "answerText": "Просвещения",
-        "isRight": false
+        "answer": "Просвещения",
+        "isTrue": false
       }
     ]
   },
@@ -8628,20 +8628,20 @@ export const philosophy = [
     "num": 393,
     "answers": [
       {
-        "answerText": "Ибн-Сина",
-        "isRight": true
+        "answer": "Ибн-Сина",
+        "isTrue": true
       },
       {
-        "answerText": "Аль-Газали",
-        "isRight": false
+        "answer": "Аль-Газали",
+        "isTrue": false
       },
       {
-        "answerText": "Ибн-Рушд",
-        "isRight": false
+        "answer": "Ибн-Рушд",
+        "isTrue": false
       },
       {
-        "answerText": "Аль-Кинди",
-        "isRight": false
+        "answer": "Аль-Кинди",
+        "isTrue": false
       }
     ]
   },
@@ -8650,20 +8650,20 @@ export const philosophy = [
     "num": 394,
     "answers": [
       {
-        "answerText": "Исповедь",
-        "isRight": true
+        "answer": "Исповедь",
+        "isTrue": true
       },
       {
-        "answerText": "Провидение",
-        "isRight": false
+        "answer": "Провидение",
+        "isTrue": false
       },
       {
-        "answerText": "Апология Сократа",
-        "isRight": false
+        "answer": "Апология Сократа",
+        "isTrue": false
       },
       {
-        "answerText": "Теософия",
-        "isRight": false
+        "answer": "Теософия",
+        "isTrue": false
       }
     ]
   },
@@ -8672,20 +8672,20 @@ export const philosophy = [
     "num": 395,
     "answers": [
       {
-        "answerText": "Неделимый",
-        "isRight": true
+        "answer": "Неделимый",
+        "isTrue": true
       },
       {
-        "answerText": "Простой",
-        "isRight": false
+        "answer": "Простой",
+        "isTrue": false
       },
       {
-        "answerText": "Сложный",
-        "isRight": false
+        "answer": "Сложный",
+        "isTrue": false
       },
       {
-        "answerText": "Изменчивый",
-        "isRight": false
+        "answer": "Изменчивый",
+        "isTrue": false
       }
     ]
   },
@@ -8694,20 +8694,20 @@ export const philosophy = [
     "num": 396,
     "answers": [
       {
-        "answerText": "Парменид",
-        "isRight": true
+        "answer": "Парменид",
+        "isTrue": true
       },
       {
-        "answerText": "Пифагор",
-        "isRight": false
+        "answer": "Пифагор",
+        "isTrue": false
       },
       {
-        "answerText": "Августин",
-        "isRight": false
+        "answer": "Августин",
+        "isTrue": false
       },
       {
-        "answerText": "Кант",
-        "isRight": false
+        "answer": "Кант",
+        "isTrue": false
       }
     ]
   },
@@ -8716,20 +8716,20 @@ export const philosophy = [
     "num": 397,
     "answers": [
       {
-        "answerText": "идеально",
-        "isRight": true
+        "answer": "идеально",
+        "isTrue": true
       },
       {
-        "answerText": "сознания материально",
-        "isRight": false
+        "answer": "сознания материально",
+        "isTrue": false
       },
       {
-        "answerText": "двойственно",
-        "isRight": false
+        "answer": "двойственно",
+        "isTrue": false
       },
       {
-        "answerText": "критично",
-        "isRight": false
+        "answer": "критично",
+        "isTrue": false
       }
     ]
   },
@@ -8738,20 +8738,20 @@ export const philosophy = [
     "num": 398,
     "answers": [
       {
-        "answerText": "Декарт",
-        "isRight": true
+        "answer": "Декарт",
+        "isTrue": true
       },
       {
-        "answerText": "Гегель",
-        "isRight": false
+        "answer": "Гегель",
+        "isTrue": false
       },
       {
-        "answerText": "Платон",
-        "isRight": false
+        "answer": "Платон",
+        "isTrue": false
       },
       {
-        "answerText": "Конт",
-        "isRight": false
+        "answer": "Конт",
+        "isTrue": false
       }
     ]
   },
@@ -8760,20 +8760,20 @@ export const philosophy = [
     "num": 399,
     "answers": [
       {
-        "answerText": "Р Декарт",
-        "isRight": true
+        "answer": "Р Декарт",
+        "isTrue": true
       },
       {
-        "answerText": "Ф Бэкон",
-        "isRight": false
+        "answer": "Ф Бэкон",
+        "isTrue": false
       },
       {
-        "answerText": "Т Гоббс",
-        "isRight": false
+        "answer": "Т Гоббс",
+        "isTrue": false
       },
       {
-        "answerText": "Г Лейбниц",
-        "isRight": false
+        "answer": "Г Лейбниц",
+        "isTrue": false
       }
     ]
   },
@@ -8782,20 +8782,20 @@ export const philosophy = [
     "num": 400,
     "answers": [
       {
-        "answerText": "душа",
-        "isRight": true
+        "answer": "душа",
+        "isTrue": true
       },
       {
-        "answerText": "апейрон",
-        "isRight": false
+        "answer": "апейрон",
+        "isTrue": false
       },
       {
-        "answerText": "атом",
-        "isRight": false
+        "answer": "атом",
+        "isTrue": false
       },
       {
-        "answerText": "логос",
-        "isRight": false
+        "answer": "логос",
+        "isTrue": false
       }
     ]
   },
@@ -8804,20 +8804,20 @@ export const philosophy = [
     "num": 401,
     "answers": [
       {
-        "answerText": "скептицизм",
-        "isRight": true
+        "answer": "скептицизм",
+        "isTrue": true
       },
       {
-        "answerText": "материализм",
-        "isRight": false
+        "answer": "материализм",
+        "isTrue": false
       },
       {
-        "answerText": "эмпиризм",
-        "isRight": false
+        "answer": "эмпиризм",
+        "isTrue": false
       },
       {
-        "answerText": "идеализм",
-        "isRight": false
+        "answer": "идеализм",
+        "isTrue": false
       }
     ]
   },
@@ -8826,20 +8826,20 @@ export const philosophy = [
     "num": 402,
     "answers": [
       {
-        "answerText": "обыденным",
-        "isRight": true
+        "answer": "обыденным",
+        "isTrue": true
       },
       {
-        "answerText": "абстрактным",
-        "isRight": false
+        "answer": "абстрактным",
+        "isTrue": false
       },
       {
-        "answerText": "теоретическим",
-        "isRight": false
+        "answer": "теоретическим",
+        "isTrue": false
       },
       {
-        "answerText": "критическим",
-        "isRight": false
+        "answer": "критическим",
+        "isTrue": false
       }
     ]
   },
@@ -8848,20 +8848,20 @@ export const philosophy = [
     "num": 403,
     "answers": [
       {
-        "answerText": "Индукция",
-        "isRight": true
+        "answer": "Индукция",
+        "isTrue": true
       },
       {
-        "answerText": "Дедукция",
-        "isRight": false
+        "answer": "Дедукция",
+        "isTrue": false
       },
       {
-        "answerText": "Абстрагирование",
-        "isRight": false
+        "answer": "Абстрагирование",
+        "isTrue": false
       },
       {
-        "answerText": "Редукция",
-        "isRight": false
+        "answer": "Редукция",
+        "isTrue": false
       }
     ]
   },
@@ -8870,20 +8870,20 @@ export const philosophy = [
     "num": 404,
     "answers": [
       {
-        "answerText": "методика",
-        "isRight": true
+        "answer": "методика",
+        "isTrue": true
       },
       {
-        "answerText": "развитие",
-        "isRight": false
+        "answer": "развитие",
+        "isTrue": false
       },
       {
-        "answerText": "навык",
-        "isRight": false
+        "answer": "навык",
+        "isTrue": false
       },
       {
-        "answerText": "механизм",
-        "isRight": false
+        "answer": "механизм",
+        "isTrue": false
       }
     ]
   },
@@ -8892,20 +8892,20 @@ export const philosophy = [
     "num": 405,
     "answers": [
       {
-        "answerText": "Ф. Ницше",
-        "isRight": true
+        "answer": "Ф. Ницше",
+        "isTrue": true
       },
       {
-        "answerText": "А. Камю",
-        "isRight": false
+        "answer": "А. Камю",
+        "isTrue": false
       },
       {
-        "answerText": "К. Маркса",
-        "isRight": false
+        "answer": "К. Маркса",
+        "isTrue": false
       },
       {
-        "answerText": "А. Шопенгауэра",
-        "isRight": false
+        "answer": "А. Шопенгауэра",
+        "isTrue": false
       }
     ]
   },
@@ -8914,20 +8914,20 @@ export const philosophy = [
     "num": 406,
     "answers": [
       {
-        "answerText": "Страдание",
-        "isRight": true
+        "answer": "Страдание",
+        "isTrue": true
       },
       {
-        "answerText": "Счастье",
-        "isRight": false
+        "answer": "Счастье",
+        "isTrue": false
       },
       {
-        "answerText": "Труд",
-        "isRight": false
+        "answer": "Труд",
+        "isTrue": false
       },
       {
-        "answerText": "Жизнь в обществе",
-        "isRight": false
+        "answer": "Жизнь в обществе",
+        "isTrue": false
       }
     ]
   },
@@ -8936,20 +8936,20 @@ export const philosophy = [
     "num": 407,
     "answers": [
       {
-        "answerText": "Ф. Ницше",
-        "isRight": true
+        "answer": "Ф. Ницше",
+        "isTrue": true
       },
       {
-        "answerText": "А. Шопенгауэра",
-        "isRight": false
+        "answer": "А. Шопенгауэра",
+        "isTrue": false
       },
       {
-        "answerText": "А. Камю",
-        "isRight": false
+        "answer": "А. Камю",
+        "isTrue": false
       },
       {
-        "answerText": "М. Хайдеггера",
-        "isRight": false
+        "answer": "М. Хайдеггера",
+        "isTrue": false
       }
     ]
   },
@@ -8958,20 +8958,20 @@ export const philosophy = [
     "num": 408,
     "answers": [
       {
-        "answerText": "мудрого правителя",
-        "isRight": true
+        "answer": "мудрого правителя",
+        "isTrue": true
       },
       {
-        "answerText": "человека, посвятившего себя социальным проблемам, умножению богатства и могущества общества",
-        "isRight": false
+        "answer": "человека, посвятившего себя социальным проблемам, умножению богатства и могущества общества",
+        "isTrue": false
       },
       {
-        "answerText": "человека, посвятившего свою жизнь истине и абсолютно безразличного к богатству",
-        "isRight": false
+        "answer": "человека, посвятившего свою жизнь истине и абсолютно безразличного к богатству",
+        "isTrue": false
       },
       {
-        "answerText": "ученого-естествоиспытателя",
-        "isRight": false
+        "answer": "ученого-естествоиспытателя",
+        "isTrue": false
       }
     ]
   },
@@ -8980,20 +8980,20 @@ export const philosophy = [
     "num": 409,
     "answers": [
       {
-        "answerText": "добродетель",
-        "isRight": true
+        "answer": "добродетель",
+        "isTrue": true
       },
       {
-        "answerText": "природа",
-        "isRight": false
+        "answer": "природа",
+        "isTrue": false
       },
       {
-        "answerText": "материальное богатство",
-        "isRight": false
+        "answer": "материальное богатство",
+        "isTrue": false
       },
       {
-        "answerText": "Бог",
-        "isRight": false
+        "answer": "Бог",
+        "isTrue": false
       }
     ]
   },
@@ -9002,20 +9002,20 @@ export const philosophy = [
     "num": 410,
     "answers": [
       {
-        "answerText": "Аристотель",
-        "isRight": true
+        "answer": "Аристотель",
+        "isTrue": true
       },
       {
-        "answerText": "Платон",
-        "isRight": false
+        "answer": "Платон",
+        "isTrue": false
       },
       {
-        "answerText": "Кант",
-        "isRight": false
+        "answer": "Кант",
+        "isTrue": false
       },
       {
-        "answerText": "Маркс",
-        "isRight": false
+        "answer": "Маркс",
+        "isTrue": false
       }
     ]
   },
@@ -9024,20 +9024,20 @@ export const philosophy = [
     "num": 411,
     "answers": [
       {
-        "answerText": "Путь золотой середины",
-        "isRight": true
+        "answer": "Путь золотой середины",
+        "isTrue": true
       },
       {
-        "answerText": "Путь аскезы",
-        "isRight": false
+        "answer": "Путь аскезы",
+        "isTrue": false
       },
       {
-        "answerText": "Перфекционизм",
-        "isRight": false
+        "answer": "Перфекционизм",
+        "isTrue": false
       },
       {
-        "answerText": "Принцип дуализма",
-        "isRight": false
+        "answer": "Принцип дуализма",
+        "isTrue": false
       }
     ]
   },
@@ -9046,20 +9046,20 @@ export const philosophy = [
     "num": 412,
     "answers": [
       {
-        "answerText": "Социальный дарвинизм",
-        "isRight": true
+        "answer": "Социальный дарвинизм",
+        "isTrue": true
       },
       {
-        "answerText": "Структурализм",
-        "isRight": false
+        "answer": "Структурализм",
+        "isTrue": false
       },
       {
-        "answerText": "Аналитическую философию",
-        "isRight": false
+        "answer": "Аналитическую философию",
+        "isTrue": false
       },
       {
-        "answerText": "Экзистенциализм",
-        "isRight": false
+        "answer": "Экзистенциализм",
+        "isTrue": false
       }
     ]
   },
@@ -9068,20 +9068,20 @@ export const philosophy = [
     "num": 413,
     "answers": [
       {
-        "answerText": "Вольтера",
-        "isRight": true
+        "answer": "Вольтера",
+        "isTrue": true
       },
       {
-        "answerText": "Канта",
-        "isRight": false
+        "answer": "Канта",
+        "isTrue": false
       },
       {
-        "answerText": "Гегеля",
-        "isRight": false
+        "answer": "Гегеля",
+        "isTrue": false
       },
       {
-        "answerText": "Маркса",
-        "isRight": false
+        "answer": "Маркса",
+        "isTrue": false
       }
     ]
   },
@@ -9090,20 +9090,20 @@ export const philosophy = [
     "num": 414,
     "answers": [
       {
-        "answerText": "Кампанелла Т.",
-        "isRight": true
+        "answer": "Кампанелла Т.",
+        "isTrue": true
       },
       {
-        "answerText": "Мор Т.",
-        "isRight": false
+        "answer": "Мор Т.",
+        "isTrue": false
       },
       {
-        "answerText": "Мюнцер Т.",
-        "isRight": false
+        "answer": "Мюнцер Т.",
+        "isTrue": false
       },
       {
-        "answerText": "Кеплер И.",
-        "isRight": false
+        "answer": "Кеплер И.",
+        "isTrue": false
       }
     ]
   },
@@ -9112,20 +9112,20 @@ export const philosophy = [
     "num": 415,
     "answers": [
       {
-        "answerText": "техника",
-        "isRight": true
+        "answer": "техника",
+        "isTrue": true
       },
       {
-        "answerText": "искусство",
-        "isRight": false
+        "answer": "искусство",
+        "isTrue": false
       },
       {
-        "answerText": "мораль",
-        "isRight": false
+        "answer": "мораль",
+        "isTrue": false
       },
       {
-        "answerText": "религия",
-        "isRight": false
+        "answer": "религия",
+        "isTrue": false
       }
     ]
   },
@@ -9134,20 +9134,20 @@ export const philosophy = [
     "num": 416,
     "answers": [
       {
-        "answerText": "государство",
-        "isRight": true
+        "answer": "государство",
+        "isTrue": true
       },
       {
-        "answerText": "политические партии",
-        "isRight": false
+        "answer": "политические партии",
+        "isTrue": false
       },
       {
-        "answerText": "политические организации",
-        "isRight": false
+        "answer": "политические организации",
+        "isTrue": false
       },
       {
-        "answerText": "политический лидер",
-        "isRight": false
+        "answer": "политический лидер",
+        "isTrue": false
       }
     ]
   },
@@ -9156,20 +9156,20 @@ export const philosophy = [
     "num": 417,
     "answers": [
       {
-        "answerText": "экзистенциализм",
-        "isRight": true
+        "answer": "экзистенциализм",
+        "isTrue": true
       },
       {
-        "answerText": "томизм",
-        "isRight": false
+        "answer": "томизм",
+        "isTrue": false
       },
       {
-        "answerText": "прагматизм",
-        "isRight": false
+        "answer": "прагматизм",
+        "isTrue": false
       },
       {
-        "answerText": "неотомизм",
-        "isRight": false
+        "answer": "неотомизм",
+        "isTrue": false
       }
     ]
   },
@@ -9178,20 +9178,20 @@ export const philosophy = [
     "num": 418,
     "answers": [
       {
-        "answerText": "пантеизм",
-        "isRight": true
+        "answer": "пантеизм",
+        "isTrue": true
       },
       {
-        "answerText": "дуализм",
-        "isRight": false
+        "answer": "дуализм",
+        "isTrue": false
       },
       {
-        "answerText": "деизм",
-        "isRight": false
+        "answer": "деизм",
+        "isTrue": false
       },
       {
-        "answerText": "агностицизм",
-        "isRight": false
+        "answer": "агностицизм",
+        "isTrue": false
       }
     ]
   },
@@ -9200,20 +9200,20 @@ export const philosophy = [
     "num": 419,
     "answers": [
       {
-        "answerText": "закон единства и борьбы противоположностей",
-        "isRight": true
+        "answer": "закон единства и борьбы противоположностей",
+        "isTrue": true
       },
       {
-        "answerText": "восхождение от абстрактного к конкретному",
-        "isRight": false
+        "answer": "восхождение от абстрактного к конкретному",
+        "isTrue": false
       },
       {
-        "answerText": "единство логического и исторического",
-        "isRight": false
+        "answer": "единство логического и исторического",
+        "isTrue": false
       },
       {
-        "answerText": "закон обратного соотношения между объемом и содержанием",
-        "isRight": false
+        "answer": "закон обратного соотношения между объемом и содержанием",
+        "isTrue": false
       }
     ]
   },
@@ -9222,20 +9222,20 @@ export const philosophy = [
     "num": 420,
     "answers": [
       {
-        "answerText": "восхождение от абстрактного к конкретному",
-        "isRight": true
+        "answer": "восхождение от абстрактного к конкретному",
+        "isTrue": true
       },
       {
-        "answerText": "единство логического и исторического",
-        "isRight": false
+        "answer": "единство логического и исторического",
+        "isTrue": false
       },
       {
-        "answerText": "закон исключенного третьего",
-        "isRight": false
+        "answer": "закон исключенного третьего",
+        "isTrue": false
       },
       {
-        "answerText": "закон обратного соотношения между объемом и содержанием",
-        "isRight": false
+        "answer": "закон обратного соотношения между объемом и содержанием",
+        "isTrue": false
       }
     ]
   },
@@ -9244,20 +9244,20 @@ export const philosophy = [
     "num": 421,
     "answers": [
       {
-        "answerText": "восхождение от абстрактного к конкретному",
-        "isRight": true
+        "answer": "восхождение от абстрактного к конкретному",
+        "isTrue": true
       },
       {
-        "answerText": "дуализм",
-        "isRight": false
+        "answer": "дуализм",
+        "isTrue": false
       },
       {
-        "answerText": "закон исключенного третьего",
-        "isRight": false
+        "answer": "закон исключенного третьего",
+        "isTrue": false
       },
       {
-        "answerText": "закон обратного соотношения между объемом и содержанием",
-        "isRight": false
+        "answer": "закон обратного соотношения между объемом и содержанием",
+        "isTrue": false
       }
     ]
   },
@@ -9266,20 +9266,20 @@ export const philosophy = [
     "num": 422,
     "answers": [
       {
-        "answerText": "закон тождества",
-        "isRight": true
+        "answer": "закон тождества",
+        "isTrue": true
       },
       {
-        "answerText": "закон не противоречия",
-        "isRight": false
+        "answer": "закон не противоречия",
+        "isTrue": false
       },
       {
-        "answerText": "закон достаточного основания",
-        "isRight": false
+        "answer": "закон достаточного основания",
+        "isTrue": false
       },
       {
-        "answerText": "закон обратного соотношения между объемом и содержанием",
-        "isRight": false
+        "answer": "закон обратного соотношения между объемом и содержанием",
+        "isTrue": false
       }
     ]
   },
@@ -9288,20 +9288,20 @@ export const philosophy = [
     "num": 423,
     "answers": [
       {
-        "answerText": "понятие",
-        "isRight": true
+        "answer": "понятие",
+        "isTrue": true
       },
       {
-        "answerText": "суждение",
-        "isRight": false
+        "answer": "суждение",
+        "isTrue": false
       },
       {
-        "answerText": "умозаключение",
-        "isRight": false
+        "answer": "умозаключение",
+        "isTrue": false
       },
       {
-        "answerText": "гипотеза",
-        "isRight": false
+        "answer": "гипотеза",
+        "isTrue": false
       }
     ]
   },
@@ -9310,20 +9310,20 @@ export const philosophy = [
     "num": 424,
     "answers": [
       {
-        "answerText": "Платона, Аристотеля",
-        "isRight": true
+        "answer": "Платона, Аристотеля",
+        "isTrue": true
       },
       {
-        "answerText": "Левкиппа",
-        "isRight": false
+        "answer": "Левкиппа",
+        "isTrue": false
       },
       {
-        "answerText": "Гераклита и Пифгора",
-        "isRight": false
+        "answer": "Гераклита и Пифгора",
+        "isTrue": false
       },
       {
-        "answerText": "Философов Элейской школы",
-        "isRight": false
+        "answer": "Философов Элейской школы",
+        "isTrue": false
       }
     ]
   },
@@ -9332,20 +9332,20 @@ export const philosophy = [
     "num": 425,
     "answers": [
       {
-        "answerText": "познавательно-интеллектуальную",
-        "isRight": true
+        "answer": "познавательно-интеллектуальную",
+        "isTrue": true
       },
       {
-        "answerText": "поведенческо-практическую",
-        "isRight": false
+        "answer": "поведенческо-практическую",
+        "isTrue": false
       },
       {
-        "answerText": "эмоционально-психическую",
-        "isRight": false
+        "answer": "эмоционально-психическую",
+        "isTrue": false
       },
       {
-        "answerText": "духовно-аксиологическую",
-        "isRight": false
+        "answer": "духовно-аксиологическую",
+        "isTrue": false
       }
     ]
   },
@@ -9354,20 +9354,20 @@ export const philosophy = [
     "num": 426,
     "answers": [
       {
-        "answerText": "Фальсификация",
-        "isRight": true
+        "answer": "Фальсификация",
+        "isTrue": true
       },
       {
-        "answerText": "Аналитика",
-        "isRight": false
+        "answer": "Аналитика",
+        "isTrue": false
       },
       {
-        "answerText": "Верификация",
-        "isRight": false
+        "answer": "Верификация",
+        "isTrue": false
       },
       {
-        "answerText": "Практика",
-        "isRight": false
+        "answer": "Практика",
+        "isTrue": false
       }
     ]
   },
@@ -9376,20 +9376,20 @@ export const philosophy = [
     "num": 427,
     "answers": [
       {
-        "answerText": "справедливость",
-        "isRight": true
+        "answer": "справедливость",
+        "isTrue": true
       },
       {
-        "answerText": "свободу",
-        "isRight": false
+        "answer": "свободу",
+        "isTrue": false
       },
       {
-        "answerText": "честность",
-        "isRight": false
+        "answer": "честность",
+        "isTrue": false
       },
       {
-        "answerText": "пользу",
-        "isRight": false
+        "answer": "пользу",
+        "isTrue": false
       }
     ]
   },
@@ -9398,20 +9398,20 @@ export const philosophy = [
     "num": 428,
     "answers": [
       {
-        "answerText": "Фома Аквинский",
-        "isRight": true
+        "answer": "Фома Аквинский",
+        "isTrue": true
       },
       {
-        "answerText": "Иоанн Дамаский",
-        "isRight": false
+        "answer": "Иоанн Дамаский",
+        "isTrue": false
       },
       {
-        "answerText": "Бонавентура",
-        "isRight": false
+        "answer": "Бонавентура",
+        "isTrue": false
       },
       {
-        "answerText": "Августин Блаженный",
-        "isRight": false
+        "answer": "Августин Блаженный",
+        "isTrue": false
       }
     ]
   },
@@ -9420,20 +9420,20 @@ export const philosophy = [
     "num": 429,
     "answers": [
       {
-        "answerText": "Пространство",
-        "isRight": true
+        "answer": "Пространство",
+        "isTrue": true
       },
       {
-        "answerText": "Материя",
-        "isRight": false
+        "answer": "Материя",
+        "isTrue": false
       },
       {
-        "answerText": "Структура",
-        "isRight": false
+        "answer": "Структура",
+        "isTrue": false
       },
       {
-        "answerText": "Время",
-        "isRight": false
+        "answer": "Время",
+        "isTrue": false
       }
     ]
   },
@@ -9442,20 +9442,20 @@ export const philosophy = [
     "num": 430,
     "answers": [
       {
-        "answerText": "Ч.Г.Спенсер",
-        "isRight": true
+        "answer": "Ч.Г.Спенсер",
+        "isTrue": true
       },
       {
-        "answerText": "Дж. Фразер",
-        "isRight": false
+        "answer": "Дж. Фразер",
+        "isTrue": false
       },
       {
-        "answerText": "Э.Тайлор",
-        "isRight": false
+        "answer": "Э.Тайлор",
+        "isTrue": false
       },
       {
-        "answerText": "К. Леви-Стросс",
-        "isRight": false
+        "answer": "К. Леви-Стросс",
+        "isTrue": false
       }
     ]
   },
@@ -9464,20 +9464,20 @@ export const philosophy = [
     "num": 431,
     "answers": [
       {
-        "answerText": "философия",
-        "isRight": true
+        "answer": "философия",
+        "isTrue": true
       },
       {
-        "answerText": "искусство",
-        "isRight": false
+        "answer": "искусство",
+        "isTrue": false
       },
       {
-        "answerText": "религия",
-        "isRight": false
+        "answer": "религия",
+        "isTrue": false
       },
       {
-        "answerText": "миф",
-        "isRight": false
+        "answer": "миф",
+        "isTrue": false
       }
     ]
   },
@@ -9486,20 +9486,20 @@ export const philosophy = [
     "num": 432,
     "answers": [
       {
-        "answerText": "разумные и иррациональные",
-        "isRight": true
+        "answer": "разумные и иррациональные",
+        "isTrue": true
       },
       {
-        "answerText": "этические и религиозные",
-        "isRight": false
+        "answer": "этические и религиозные",
+        "isTrue": false
       },
       {
-        "answerText": "этические и эстетические",
-        "isRight": false
+        "answer": "этические и эстетические",
+        "isTrue": false
       },
       {
-        "answerText": "практические и теоретические",
-        "isRight": false
+        "answer": "практические и теоретические",
+        "isTrue": false
       }
     ]
   },
@@ -9508,20 +9508,20 @@ export const philosophy = [
     "num": 433,
     "answers": [
       {
-        "answerText": "аль-Фараби",
-        "isRight": true
+        "answer": "аль-Фараби",
+        "isTrue": true
       },
       {
-        "answerText": "Ибн-Сину",
-        "isRight": false
+        "answer": "Ибн-Сину",
+        "isTrue": false
       },
       {
-        "answerText": "аль-Газали",
-        "isRight": false
+        "answer": "аль-Газали",
+        "isTrue": false
       },
       {
-        "answerText": "аль-Кинди",
-        "isRight": false
+        "answer": "аль-Кинди",
+        "isTrue": false
       }
     ]
   },
@@ -9530,20 +9530,20 @@ export const philosophy = [
     "num": 434,
     "answers": [
       {
-        "answerText": "Д.Локк",
-        "isRight": true
+        "answer": "Д.Локк",
+        "isTrue": true
       },
       {
-        "answerText": "Ф.Бэкон",
-        "isRight": false
+        "answer": "Ф.Бэкон",
+        "isTrue": false
       },
       {
-        "answerText": "Ф.Аквинский",
-        "isRight": false
+        "answer": "Ф.Аквинский",
+        "isTrue": false
       },
       {
-        "answerText": "Т.Мор",
-        "isRight": false
+        "answer": "Т.Мор",
+        "isTrue": false
       }
     ]
   },
@@ -9552,20 +9552,20 @@ export const philosophy = [
     "num": 435,
     "answers": [
       {
-        "answerText": "Гегель",
-        "isRight": true
+        "answer": "Гегель",
+        "isTrue": true
       },
       {
-        "answerText": "Декарт",
-        "isRight": false
+        "answer": "Декарт",
+        "isTrue": false
       },
       {
-        "answerText": "Спиноза",
-        "isRight": false
+        "answer": "Спиноза",
+        "isTrue": false
       },
       {
-        "answerText": "Риккерт",
-        "isRight": false
+        "answer": "Риккерт",
+        "isTrue": false
       }
     ]
   },
@@ -9574,20 +9574,20 @@ export const philosophy = [
     "num": 436,
     "answers": [
       {
-        "answerText": "архетип коллективного бессознательного",
-        "isRight": true
+        "answer": "архетип коллективного бессознательного",
+        "isTrue": true
       },
       {
-        "answerText": "эго",
-        "isRight": false
+        "answer": "эго",
+        "isTrue": false
       },
       {
-        "answerText": "архетип ценностей",
-        "isRight": false
+        "answer": "архетип ценностей",
+        "isTrue": false
       },
       {
-        "answerText": "супер эго",
-        "isRight": false
+        "answer": "супер эго",
+        "isTrue": false
       }
     ]
   },
@@ -9596,20 +9596,20 @@ export const philosophy = [
     "num": 437,
     "answers": [
       {
-        "answerText": "Бессознательное",
-        "isRight": true
+        "answer": "Бессознательное",
+        "isTrue": true
       },
       {
-        "answerText": "Материя",
-        "isRight": false
+        "answer": "Материя",
+        "isTrue": false
       },
       {
-        "answerText": "Деятельность",
-        "isRight": false
+        "answer": "Деятельность",
+        "isTrue": false
       },
       {
-        "answerText": "Время",
-        "isRight": false
+        "answer": "Время",
+        "isTrue": false
       }
     ]
   },
@@ -9618,20 +9618,20 @@ export const philosophy = [
     "num": 438,
     "answers": [
       {
-        "answerText": "К.Поппер",
-        "isRight": true
+        "answer": "К.Поппер",
+        "isTrue": true
       },
       {
-        "answerText": "Т.Мор",
-        "isRight": false
+        "answer": "Т.Мор",
+        "isTrue": false
       },
       {
-        "answerText": "Г.Уэллс",
-        "isRight": false
+        "answer": "Г.Уэллс",
+        "isTrue": false
       },
       {
-        "answerText": "А.Бергсон",
-        "isRight": false
+        "answer": "А.Бергсон",
+        "isTrue": false
       }
     ]
   },
@@ -9640,20 +9640,20 @@ export const philosophy = [
     "num": 439,
     "answers": [
       {
-        "answerText": "Отрицание",
-        "isRight": true
+        "answer": "Отрицание",
+        "isTrue": true
       },
       {
-        "answerText": "Причинность",
-        "isRight": false
+        "answer": "Причинность",
+        "isTrue": false
       },
       {
-        "answerText": "Противоречие",
-        "isRight": false
+        "answer": "Противоречие",
+        "isTrue": false
       },
       {
-        "answerText": "Количество",
-        "isRight": false
+        "answer": "Количество",
+        "isTrue": false
       }
     ]
   },
@@ -9662,20 +9662,20 @@ export const philosophy = [
     "num": 440,
     "answers": [
       {
-        "answerText": "Аристотелю",
-        "isRight": true
+        "answer": "Аристотелю",
+        "isTrue": true
       },
       {
-        "answerText": "Декарту",
-        "isRight": false
+        "answer": "Декарту",
+        "isTrue": false
       },
       {
-        "answerText": "Сократу",
-        "isRight": false
+        "answer": "Сократу",
+        "isTrue": false
       },
       {
-        "answerText": "Платону",
-        "isRight": false
+        "answer": "Платону",
+        "isTrue": false
       }
     ]
   },
@@ -9684,20 +9684,20 @@ export const philosophy = [
     "num": 441,
     "answers": [
       {
-        "answerText": "Подчиняется природе",
-        "isRight": true
+        "answer": "Подчиняется природе",
+        "isTrue": true
       },
       {
-        "answerText": "Отрицает природу",
-        "isRight": false
+        "answer": "Отрицает природу",
+        "isTrue": false
       },
       {
-        "answerText": "Игнорирует природу",
-        "isRight": false
+        "answer": "Игнорирует природу",
+        "isTrue": false
       },
       {
-        "answerText": "Обожествляет природу",
-        "isRight": false
+        "answer": "Обожествляет природу",
+        "isTrue": false
       }
     ]
   },
@@ -9706,20 +9706,20 @@ export const philosophy = [
     "num": 442,
     "answers": [
       {
-        "answerText": "философией религии",
-        "isRight": true
+        "answer": "философией религии",
+        "isTrue": true
       },
       {
-        "answerText": "религиоведением",
-        "isRight": false
+        "answer": "религиоведением",
+        "isTrue": false
       },
       {
-        "answerText": "натурфилософией",
-        "isRight": false
+        "answer": "натурфилософией",
+        "isTrue": false
       },
       {
-        "answerText": "религиозой философией",
-        "isRight": false
+        "answer": "религиозой философией",
+        "isTrue": false
       }
     ]
   },
@@ -9728,20 +9728,20 @@ export const philosophy = [
     "num": 443,
     "answers": [
       {
-        "answerText": "Гносеология",
-        "isRight": true
+        "answer": "Гносеология",
+        "isTrue": true
       },
       {
-        "answerText": "Герменевтика",
-        "isRight": false
+        "answer": "Герменевтика",
+        "isTrue": false
       },
       {
-        "answerText": "Аксиология",
-        "isRight": false
+        "answer": "Аксиология",
+        "isTrue": false
       },
       {
-        "answerText": "Философская антропология",
-        "isRight": false
+        "answer": "Философская антропология",
+        "isTrue": false
       }
     ]
   },
@@ -9750,20 +9750,20 @@ export const philosophy = [
     "num": 444,
     "answers": [
       {
-        "answerText": "О.Шпенглер",
-        "isRight": true
+        "answer": "О.Шпенглер",
+        "isTrue": true
       },
       {
-        "answerText": "Ф.Ницше",
-        "isRight": false
+        "answer": "Ф.Ницше",
+        "isTrue": false
       },
       {
-        "answerText": "А.Шопенгауэр",
-        "isRight": false
+        "answer": "А.Шопенгауэр",
+        "isTrue": false
       },
       {
-        "answerText": "А.Тойнби",
-        "isRight": false
+        "answer": "А.Тойнби",
+        "isTrue": false
       }
     ]
   },
@@ -9772,20 +9772,20 @@ export const philosophy = [
     "num": 445,
     "answers": [
       {
-        "answerText": "Августин Аврелий",
-        "isRight": true
+        "answer": "Августин Аврелий",
+        "isTrue": true
       },
       {
-        "answerText": "Бонавентура",
-        "isRight": false
+        "answer": "Бонавентура",
+        "isTrue": false
       },
       {
-        "answerText": "Боэций",
-        "isRight": false
+        "answer": "Боэций",
+        "isTrue": false
       },
       {
-        "answerText": "Иоанн Дамаскин",
-        "isRight": false
+        "answer": "Иоанн Дамаскин",
+        "isTrue": false
       }
     ]
   },
@@ -9794,20 +9794,20 @@ export const philosophy = [
     "num": 446,
     "answers": [
       {
-        "answerText": "человечность",
-        "isRight": true
+        "answer": "человечность",
+        "isTrue": true
       },
       {
-        "answerText": "материя",
-        "isRight": false
+        "answer": "материя",
+        "isTrue": false
       },
       {
-        "answerText": "познание",
-        "isRight": false
+        "answer": "познание",
+        "isTrue": false
       },
       {
-        "answerText": "истина",
-        "isRight": false
+        "answer": "истина",
+        "isTrue": false
       }
     ]
   },
@@ -9816,20 +9816,20 @@ export const philosophy = [
     "num": 447,
     "answers": [
       {
-        "answerText": "онтология",
-        "isRight": true
+        "answer": "онтология",
+        "isTrue": true
       },
       {
-        "answerText": "феноменология",
-        "isRight": false
+        "answer": "феноменология",
+        "isTrue": false
       },
       {
-        "answerText": "эпистемология",
-        "isRight": false
+        "answer": "эпистемология",
+        "isTrue": false
       },
       {
-        "answerText": "логика",
-        "isRight": false
+        "answer": "логика",
+        "isTrue": false
       }
     ]
   },
@@ -9838,20 +9838,20 @@ export const philosophy = [
     "num": 448,
     "answers": [
       {
-        "answerText": "О.Шпенглер, А.Тойнби, С.Хантингтон",
-        "isRight": true
+        "answer": "О.Шпенглер, А.Тойнби, С.Хантингтон",
+        "isTrue": true
       },
       {
-        "answerText": "И.Кант, Г.Гегель,",
-        "isRight": false
+        "answer": "И.Кант, Г.Гегель,",
+        "isTrue": false
       },
       {
-        "answerText": "К.Маркс, Г.Гегель, И.Кант",
-        "isRight": false
+        "answer": "К.Маркс, Г.Гегель, И.Кант",
+        "isTrue": false
       },
       {
-        "answerText": "Ф.Энгельс, В.Ленин, М.Фуко",
-        "isRight": false
+        "answer": "Ф.Энгельс, В.Ленин, М.Фуко",
+        "isTrue": false
       }
     ]
   },
@@ -9860,20 +9860,20 @@ export const philosophy = [
     "num": 449,
     "answers": [
       {
-        "answerText": "Ч.Валиханов",
-        "isRight": true
+        "answer": "Ч.Валиханов",
+        "isTrue": true
       },
       {
-        "answerText": "А.Байтурсынов",
-        "isRight": false
+        "answer": "А.Байтурсынов",
+        "isTrue": false
       },
       {
-        "answerText": "Т.Рыскулов",
-        "isRight": false
+        "answer": "Т.Рыскулов",
+        "isTrue": false
       },
       {
-        "answerText": "М.Дулатов",
-        "isRight": false
+        "answer": "М.Дулатов",
+        "isTrue": false
       }
     ]
   },
@@ -9882,20 +9882,20 @@ export const philosophy = [
     "num": 450,
     "answers": [
       {
-        "answerText": "идеализм",
-        "isRight": true
+        "answer": "идеализм",
+        "isTrue": true
       },
       {
-        "answerText": "гедонизм",
-        "isRight": false
+        "answer": "гедонизм",
+        "isTrue": false
       },
       {
-        "answerText": "утилитаризм",
-        "isRight": false
+        "answer": "утилитаризм",
+        "isTrue": false
       },
       {
-        "answerText": "альтруизм",
-        "isRight": false
+        "answer": "альтруизм",
+        "isTrue": false
       }
     ]
   },
@@ -9904,20 +9904,20 @@ export const philosophy = [
     "num": 451,
     "answers": [
       {
-        "answerText": "Р.Барт &laquo;Критика и истина&raquo;",
-        "isRight": true
+        "answer": "Р.Барт &laquo;Критика и истина&raquo;",
+        "isTrue": true
       },
       {
-        "answerText": "В.Аксючиц &laquo;Под сенью Креста&raquo;",
-        "isRight": false
+        "answer": "В.Аксючиц &laquo;Под сенью Креста&raquo;",
+        "isTrue": false
       },
       {
-        "answerText": "К.Барта &laquo;Послание к Римлянам&raquo;",
-        "isRight": false
+        "answer": "К.Барта &laquo;Послание к Римлянам&raquo;",
+        "isTrue": false
       },
       {
-        "answerText": "А.Бадью &laquo;Теория противоречия&raquo;",
-        "isRight": false
+        "answer": "А.Бадью &laquo;Теория противоречия&raquo;",
+        "isTrue": false
       }
     ]
   },
@@ -9926,20 +9926,20 @@ export const philosophy = [
     "num": 452,
     "answers": [
       {
-        "answerText": "научными",
-        "isRight": true
+        "answer": "научными",
+        "isTrue": true
       },
       {
-        "answerText": "гносеологическими",
-        "isRight": false
+        "answer": "гносеологическими",
+        "isTrue": false
       },
       {
-        "answerText": "этическими",
-        "isRight": false
+        "answer": "этическими",
+        "isTrue": false
       },
       {
-        "answerText": "политическими",
-        "isRight": false
+        "answer": "политическими",
+        "isTrue": false
       }
     ]
   },
@@ -9948,20 +9948,20 @@ export const philosophy = [
     "num": 453,
     "answers": [
       {
-        "answerText": "мировоззрение",
-        "isRight": true
+        "answer": "мировоззрение",
+        "isTrue": true
       },
       {
-        "answerText": "религия",
-        "isRight": false
+        "answer": "религия",
+        "isTrue": false
       },
       {
-        "answerText": "вера",
-        "isRight": false
+        "answer": "вера",
+        "isTrue": false
       },
       {
-        "answerText": "знание",
-        "isRight": false
+        "answer": "знание",
+        "isTrue": false
       }
     ]
   },
@@ -9970,20 +9970,20 @@ export const philosophy = [
     "num": 454,
     "answers": [
       {
-        "answerText": "Философия религии",
-        "isRight": true
+        "answer": "Философия религии",
+        "isTrue": true
       },
       {
-        "answerText": "Философская антропология",
-        "isRight": false
+        "answer": "Философская антропология",
+        "isTrue": false
       },
       {
-        "answerText": "Онтология",
-        "isRight": false
+        "answer": "Онтология",
+        "isTrue": false
       },
       {
-        "answerText": "Аксиология",
-        "isRight": false
+        "answer": "Аксиология",
+        "isTrue": false
       }
     ]
   },
@@ -9992,20 +9992,20 @@ export const philosophy = [
     "num": 455,
     "answers": [
       {
-        "answerText": "Фрейд",
-        "isRight": true
+        "answer": "Фрейд",
+        "isTrue": true
       },
       {
-        "answerText": "Хайдеггер",
-        "isRight": false
+        "answer": "Хайдеггер",
+        "isTrue": false
       },
       {
-        "answerText": "Ницше",
-        "isRight": false
+        "answer": "Ницше",
+        "isTrue": false
       },
       {
-        "answerText": "Ясперс",
-        "isRight": false
+        "answer": "Ясперс",
+        "isTrue": false
       }
     ]
   },
@@ -10014,20 +10014,20 @@ export const philosophy = [
     "num": 456,
     "answers": [
       {
-        "answerText": "Абсолютная истина",
-        "isRight": true
+        "answer": "Абсолютная истина",
+        "isTrue": true
       },
       {
-        "answerText": "Объективная истина",
-        "isRight": false
+        "answer": "Объективная истина",
+        "isTrue": false
       },
       {
-        "answerText": "Заблуждение",
-        "isRight": false
+        "answer": "Заблуждение",
+        "isTrue": false
       },
       {
-        "answerText": "Вера",
-        "isRight": false
+        "answer": "Вера",
+        "isTrue": false
       }
     ]
   },
@@ -10036,20 +10036,20 @@ export const philosophy = [
     "num": 457,
     "answers": [
       {
-        "answerText": "философия",
-        "isRight": true
+        "answer": "философия",
+        "isTrue": true
       },
       {
-        "answerText": "религия",
-        "isRight": false
+        "answer": "религия",
+        "isTrue": false
       },
       {
-        "answerText": "искусство",
-        "isRight": false
+        "answer": "искусство",
+        "isTrue": false
       },
       {
-        "answerText": "миф",
-        "isRight": false
+        "answer": "миф",
+        "isTrue": false
       }
     ]
   },
@@ -10058,20 +10058,20 @@ export const philosophy = [
     "num": 458,
     "answers": [
       {
-        "answerText": "Прововедником индивидуализма",
-        "isRight": true
+        "answer": "Прововедником индивидуализма",
+        "isTrue": true
       },
       {
-        "answerText": "Проведником альтруизма",
-        "isRight": false
+        "answer": "Проведником альтруизма",
+        "isTrue": false
       },
       {
-        "answerText": "Проповедником гуманизма",
-        "isRight": false
+        "answer": "Проповедником гуманизма",
+        "isTrue": false
       },
       {
-        "answerText": "Проблемой современного общества",
-        "isRight": false
+        "answer": "Проблемой современного общества",
+        "isTrue": false
       }
     ]
   },
@@ -10080,20 +10080,20 @@ export const philosophy = [
     "num": 459,
     "answers": [
       {
-        "answerText": "логический",
-        "isRight": true
+        "answer": "логический",
+        "isTrue": true
       },
       {
-        "answerText": "математизация",
-        "isRight": false
+        "answer": "математизация",
+        "isTrue": false
       },
       {
-        "answerText": "сравнение",
-        "isRight": false
+        "answer": "сравнение",
+        "isTrue": false
       },
       {
-        "answerText": "эксперимент",
-        "isRight": false
+        "answer": "эксперимент",
+        "isTrue": false
       }
     ]
   },
@@ -10102,20 +10102,20 @@ export const philosophy = [
     "num": 460,
     "answers": [
       {
-        "answerText": "субъективного идеализма",
-        "isRight": true
+        "answer": "субъективного идеализма",
+        "isTrue": true
       },
       {
-        "answerText": "эмпиризма",
-        "isRight": false
+        "answer": "эмпиризма",
+        "isTrue": false
       },
       {
-        "answerText": "рационализма",
-        "isRight": false
+        "answer": "рационализма",
+        "isTrue": false
       },
       {
-        "answerText": "вульгарного материализма",
-        "isRight": false
+        "answer": "вульгарного материализма",
+        "isTrue": false
       }
     ]
   },
@@ -10124,20 +10124,20 @@ export const philosophy = [
     "num": 461,
     "answers": [
       {
-        "answerText": "Ч.Г.Спенсер",
-        "isRight": true
+        "answer": "Ч.Г.Спенсер",
+        "isTrue": true
       },
       {
-        "answerText": "Дж.Фрэзер",
-        "isRight": false
+        "answer": "Дж.Фрэзер",
+        "isTrue": false
       },
       {
-        "answerText": "Э.Тайлор",
-        "isRight": false
+        "answer": "Э.Тайлор",
+        "isTrue": false
       },
       {
-        "answerText": "К. Леви-Стросс",
-        "isRight": false
+        "answer": "К. Леви-Стросс",
+        "isTrue": false
       }
     ]
   },
@@ -10146,20 +10146,20 @@ export const philosophy = [
     "num": 462,
     "answers": [
       {
-        "answerText": "Пространство",
-        "isRight": true
+        "answer": "Пространство",
+        "isTrue": true
       },
       {
-        "answerText": "Время",
-        "isRight": false
+        "answer": "Время",
+        "isTrue": false
       },
       {
-        "answerText": "Материя",
-        "isRight": false
+        "answer": "Материя",
+        "isTrue": false
       },
       {
-        "answerText": "Система",
-        "isRight": false
+        "answer": "Система",
+        "isTrue": false
       }
     ]
   },
@@ -10168,20 +10168,20 @@ export const philosophy = [
     "num": 463,
     "answers": [
       {
-        "answerText": "знание",
-        "isRight": true
+        "answer": "знание",
+        "isTrue": true
       },
       {
-        "answerText": "вера",
-        "isRight": false
+        "answer": "вера",
+        "isTrue": false
       },
       {
-        "answerText": "бог",
-        "isRight": false
+        "answer": "бог",
+        "isTrue": false
       },
       {
-        "answerText": "религия",
-        "isRight": false
+        "answer": "религия",
+        "isTrue": false
       }
     ]
   },
@@ -10190,20 +10190,20 @@ export const philosophy = [
     "num": 464,
     "answers": [
       {
-        "answerText": "Аристотелю",
-        "isRight": true
+        "answer": "Аристотелю",
+        "isTrue": true
       },
       {
-        "answerText": "В. Франклу",
-        "isRight": false
+        "answer": "В. Франклу",
+        "isTrue": false
       },
       {
-        "answerText": "Э. Кассиреру",
-        "isRight": false
+        "answer": "Э. Кассиреру",
+        "isTrue": false
       },
       {
-        "answerText": "А. Камю",
-        "isRight": false
+        "answer": "А. Камю",
+        "isTrue": false
       }
     ]
   },
@@ -10212,20 +10212,20 @@ export const philosophy = [
     "num": 465,
     "answers": [
       {
-        "answerText": "В стихах, восхваляющих деятельность биев и султанов, направленных на единство народа",
-        "isRight": true
+        "answer": "В стихах, восхваляющих деятельность биев и султанов, направленных на единство народа",
+        "isTrue": true
       },
       {
-        "answerText": "В призывах поддержки идеи военного союза с Джунгарией",
-        "isRight": false
+        "answer": "В призывах поддержки идеи военного союза с Джунгарией",
+        "isTrue": false
       },
       {
-        "answerText": "В исторических романах его учеников",
-        "isRight": false
+        "answer": "В исторических романах его учеников",
+        "isTrue": false
       },
       {
-        "answerText": "В ритуалах, обрядах",
-        "isRight": false
+        "answer": "В ритуалах, обрядах",
+        "isTrue": false
       }
     ]
   },
@@ -10234,20 +10234,20 @@ export const philosophy = [
     "num": 466,
     "answers": [
       {
-        "answerText": "Швейцер",
-        "isRight": true
+        "answer": "Швейцер",
+        "isTrue": true
       },
       {
-        "answerText": "Спенсер",
-        "isRight": false
+        "answer": "Спенсер",
+        "isTrue": false
       },
       {
-        "answerText": "Маркс",
-        "isRight": false
+        "answer": "Маркс",
+        "isTrue": false
       },
       {
-        "answerText": "Энгельс",
-        "isRight": false
+        "answer": "Энгельс",
+        "isTrue": false
       }
     ]
   },
@@ -10256,20 +10256,20 @@ export const philosophy = [
     "num": 467,
     "answers": [
       {
-        "answerText": "Направление в философии, делающей основой миропонимания нерациональные формы познания (интуиция, вживание, переживания)",
-        "isRight": true
+        "answer": "Направление в философии, делающей основой миропонимания нерациональные формы познания (интуиция, вживание, переживания)",
+        "isTrue": true
       },
       {
-        "answerText": "Направление в философии, делающей основой миропонимания разум",
-        "isRight": false
+        "answer": "Направление в философии, делающей основой миропонимания разум",
+        "isTrue": false
       },
       {
-        "answerText": "Направление в философии, считающее, что мир можно познать опытным путем",
-        "isRight": false
+        "answer": "Направление в философии, считающее, что мир можно познать опытным путем",
+        "isTrue": false
       },
       {
-        "answerText": "Направление в философии, считающее, что мир можно познать в синтезе опыта и разума",
-        "isRight": false
+        "answer": "Направление в философии, считающее, что мир можно познать в синтезе опыта и разума",
+        "isTrue": false
       }
     ]
   },
@@ -10278,20 +10278,20 @@ export const philosophy = [
     "num": 468,
     "answers": [
       {
-        "answerText": "Р. Декарт",
-        "isRight": true
+        "answer": "Р. Декарт",
+        "isTrue": true
       },
       {
-        "answerText": "Ф. Бэкон",
-        "isRight": false
+        "answer": "Ф. Бэкон",
+        "isTrue": false
       },
       {
-        "answerText": "Дж. Локк",
-        "isRight": false
+        "answer": "Дж. Локк",
+        "isTrue": false
       },
       {
-        "answerText": "Ибн-Сина",
-        "isRight": false
+        "answer": "Ибн-Сина",
+        "isTrue": false
       }
     ]
   },
@@ -10300,20 +10300,20 @@ export const philosophy = [
     "num": 469,
     "answers": [
       {
-        "answerText": "Ф. Бэкон",
-        "isRight": true
+        "answer": "Ф. Бэкон",
+        "isTrue": true
       },
       {
-        "answerText": "Р. Декарт",
-        "isRight": false
+        "answer": "Р. Декарт",
+        "isTrue": false
       },
       {
-        "answerText": "Дж. Локк",
-        "isRight": false
+        "answer": "Дж. Локк",
+        "isTrue": false
       },
       {
-        "answerText": "Ибн-Сина",
-        "isRight": false
+        "answer": "Ибн-Сина",
+        "isTrue": false
       }
     ]
   },
@@ -10322,20 +10322,20 @@ export const philosophy = [
     "num": 470,
     "answers": [
       {
-        "answerText": "антропология",
-        "isRight": true
+        "answer": "антропология",
+        "isTrue": true
       },
       {
-        "answerText": "онтология",
-        "isRight": false
+        "answer": "онтология",
+        "isTrue": false
       },
       {
-        "answerText": "Этика",
-        "isRight": false
+        "answer": "Этика",
+        "isTrue": false
       },
       {
-        "answerText": "гносеология",
-        "isRight": false
+        "answer": "гносеология",
+        "isTrue": false
       }
     ]
   },
@@ -10344,20 +10344,20 @@ export const philosophy = [
     "num": 471,
     "answers": [
       {
-        "answerText": "на которую главным образом направлены человеческие достижения",
-        "isRight": true
+        "answer": "на которую главным образом направлены человеческие достижения",
+        "isTrue": true
       },
       {
-        "answerText": "имеющая разрушительный смысл",
-        "isRight": false
+        "answer": "имеющая разрушительный смысл",
+        "isTrue": false
       },
       {
-        "answerText": "имеющая исключительно духовный смысл",
-        "isRight": false
+        "answer": "имеющая исключительно духовный смысл",
+        "isTrue": false
       },
       {
-        "answerText": "связанная с материальными интересами",
-        "isRight": false
+        "answer": "связанная с материальными интересами",
+        "isTrue": false
       }
     ]
   },
@@ -10366,20 +10366,20 @@ export const philosophy = [
     "num": 472,
     "answers": [
       {
-        "answerText": "в переходе к новому пределу осмысления реального мира",
-        "isRight": true
+        "answer": "в переходе к новому пределу осмысления реального мира",
+        "isTrue": true
       },
       {
-        "answerText": "в непознаваемости мира",
-        "isRight": false
+        "answer": "в непознаваемости мира",
+        "isTrue": false
       },
       {
-        "answerText": "в социальной нестабильности",
-        "isRight": false
+        "answer": "в социальной нестабильности",
+        "isTrue": false
       },
       {
-        "answerText": "в слабой организации научных исследований /управление/",
-        "isRight": false
+        "answer": "в слабой организации научных исследований /управление/",
+        "isTrue": false
       }
     ]
   },
@@ -10388,20 +10388,20 @@ export const philosophy = [
     "num": 473,
     "answers": [
       {
-        "answerText": "раздел и философское направление",
-        "isRight": true
+        "answer": "раздел и философское направление",
+        "isTrue": true
       },
       {
-        "answerText": "раздел философии",
-        "isRight": false
+        "answer": "раздел философии",
+        "isTrue": false
       },
       {
-        "answerText": "раздел, направление, метод",
-        "isRight": false
+        "answer": "раздел, направление, метод",
+        "isTrue": false
       },
       {
-        "answerText": "термин не используется",
-        "isRight": false
+        "answer": "термин не используется",
+        "isTrue": false
       }
     ]
   },
@@ -10410,20 +10410,20 @@ export const philosophy = [
     "num": 474,
     "answers": [
       {
-        "answerText": "непрерывно изменяющийся процесс",
-        "isRight": true
+        "answer": "непрерывно изменяющийся процесс",
+        "isTrue": true
       },
       {
-        "answerText": "застывшее явление",
-        "isRight": false
+        "answer": "застывшее явление",
+        "isTrue": false
       },
       {
-        "answerText": "ложное восприятие",
-        "isRight": false
+        "answer": "ложное восприятие",
+        "isTrue": false
       },
       {
-        "answerText": "потусторонний мир",
-        "isRight": false
+        "answer": "потусторонний мир",
+        "isTrue": false
       }
     ]
   },
@@ -10432,20 +10432,20 @@ export const philosophy = [
     "num": 475,
     "answers": [
       {
-        "answerText": "Аристотеля",
-        "isRight": true
+        "answer": "Аристотеля",
+        "isTrue": true
       },
       {
-        "answerText": "Сократа",
-        "isRight": false
+        "answer": "Сократа",
+        "isTrue": false
       },
       {
-        "answerText": "Фомы Аквината",
-        "isRight": false
+        "answer": "Фомы Аквината",
+        "isTrue": false
       },
       {
-        "answerText": "Конфуция",
-        "isRight": false
+        "answer": "Конфуция",
+        "isTrue": false
       }
     ]
   },
@@ -10454,20 +10454,20 @@ export const philosophy = [
     "num": 476,
     "answers": [
       {
-        "answerText": "Сократ",
-        "isRight": true
+        "answer": "Сократ",
+        "isTrue": true
       },
       {
-        "answerText": "Аристотель",
-        "isRight": false
+        "answer": "Аристотель",
+        "isTrue": false
       },
       {
-        "answerText": "Демокрит",
-        "isRight": false
+        "answer": "Демокрит",
+        "isTrue": false
       },
       {
-        "answerText": "Фалес",
-        "isRight": false
+        "answer": "Фалес",
+        "isTrue": false
       }
     ]
   },
@@ -10476,20 +10476,20 @@ export const philosophy = [
     "num": 477,
     "answers": [
       {
-        "answerText": "проблемы воспитания, образования, социальной стабильности",
-        "isRight": true
+        "answer": "проблемы воспитания, образования, социальной стабильности",
+        "isTrue": true
       },
       {
-        "answerText": "развитие мира",
-        "isRight": false
+        "answer": "развитие мира",
+        "isTrue": false
       },
       {
-        "answerText": "вопросы диалектики",
-        "isRight": false
+        "answer": "вопросы диалектики",
+        "isTrue": false
       },
       {
-        "answerText": "проблемы бытия и становления",
-        "isRight": false
+        "answer": "проблемы бытия и становления",
+        "isTrue": false
       }
     ]
   },
@@ -10498,20 +10498,20 @@ export const philosophy = [
     "num": 478,
     "answers": [
       {
-        "answerText": "середина 1тыс.до н.э.",
-        "isRight": true
+        "answer": "середина 1тыс.до н.э.",
+        "isTrue": true
       },
       {
-        "answerText": "середина 1тыс.н.э.",
-        "isRight": false
+        "answer": "середина 1тыс.н.э.",
+        "isTrue": false
       },
       {
-        "answerText": "17в.",
-        "isRight": false
+        "answer": "17в.",
+        "isTrue": false
       },
       {
-        "answerText": "20 в.",
-        "isRight": false
+        "answer": "20 в.",
+        "isTrue": false
       }
     ]
   },
@@ -10520,20 +10520,20 @@ export const philosophy = [
     "num": 479,
     "answers": [
       {
-        "answerText": "Хань-Фэй",
-        "isRight": true
+        "answer": "Хань-Фэй",
+        "isTrue": true
       },
       {
-        "answerText": "Конфуций",
-        "isRight": false
+        "answer": "Конфуций",
+        "isTrue": false
       },
       {
-        "answerText": "Сократ",
-        "isRight": false
+        "answer": "Сократ",
+        "isTrue": false
       },
       {
-        "answerText": "Лао-цзы",
-        "isRight": false
+        "answer": "Лао-цзы",
+        "isTrue": false
       }
     ]
   },
@@ -10542,20 +10542,20 @@ export const philosophy = [
     "num": 480,
     "answers": [
       {
-        "answerText": "экстраполяция",
-        "isRight": true
+        "answer": "экстраполяция",
+        "isTrue": true
       },
       {
-        "answerText": "моделирование",
-        "isRight": false
+        "answer": "моделирование",
+        "isTrue": false
       },
       {
-        "answerText": "метод сценариев",
-        "isRight": false
+        "answer": "метод сценариев",
+        "isTrue": false
       },
       {
-        "answerText": "идеализация",
-        "isRight": false
+        "answer": "идеализация",
+        "isTrue": false
       }
     ]
   },
@@ -10564,20 +10564,20 @@ export const philosophy = [
     "num": 481,
     "answers": [
       {
-        "answerText": "экзистенциализм",
-        "isRight": true
+        "answer": "экзистенциализм",
+        "isTrue": true
       },
       {
-        "answerText": "постпозитивизм",
-        "isRight": false
+        "answer": "постпозитивизм",
+        "isTrue": false
       },
       {
-        "answerText": "неотомизм",
-        "isRight": false
+        "answer": "неотомизм",
+        "isTrue": false
       },
       {
-        "answerText": "рационализм",
-        "isRight": false
+        "answer": "рационализм",
+        "isTrue": false
       }
     ]
   },
@@ -10586,20 +10586,20 @@ export const philosophy = [
     "num": 482,
     "answers": [
       {
-        "answerText": "эмоциональная",
-        "isRight": true
+        "answer": "эмоциональная",
+        "isTrue": true
       },
       {
-        "answerText": "когнитивная",
-        "isRight": false
+        "answer": "когнитивная",
+        "isTrue": false
       },
       {
-        "answerText": "иррациональная",
-        "isRight": false
+        "answer": "иррациональная",
+        "isTrue": false
       },
       {
-        "answerText": "рациональная",
-        "isRight": false
+        "answer": "рациональная",
+        "isTrue": false
       }
     ]
   },
@@ -10608,20 +10608,20 @@ export const philosophy = [
     "num": 483,
     "answers": [
       {
-        "answerText": "Хайдеггер, Камю, Сартр",
-        "isRight": true
+        "answer": "Хайдеггер, Камю, Сартр",
+        "isTrue": true
       },
       {
-        "answerText": "Кьеркегор, Ясперс, Бубер",
-        "isRight": false
+        "answer": "Кьеркегор, Ясперс, Бубер",
+        "isTrue": false
       },
       {
-        "answerText": "Фихте, Гегель, Шеллинг",
-        "isRight": false
+        "answer": "Фихте, Гегель, Шеллинг",
+        "isTrue": false
       },
       {
-        "answerText": "Конт, Спенсер, Милль",
-        "isRight": false
+        "answer": "Конт, Спенсер, Милль",
+        "isTrue": false
       }
     ]
   },
@@ -10630,20 +10630,20 @@ export const philosophy = [
     "num": 484,
     "answers": [
       {
-        "answerText": "гипотеза",
-        "isRight": true
+        "answer": "гипотеза",
+        "isTrue": true
       },
       {
-        "answerText": "аксиома",
-        "isRight": false
+        "answer": "аксиома",
+        "isTrue": false
       },
       {
-        "answerText": "факт",
-        "isRight": false
+        "answer": "факт",
+        "isTrue": false
       },
       {
-        "answerText": "теория",
-        "isRight": false
+        "answer": "теория",
+        "isTrue": false
       }
     ]
   },
@@ -10652,20 +10652,20 @@ export const philosophy = [
     "num": 485,
     "answers": [
       {
-        "answerText": "Индетерминизма",
-        "isRight": true
+        "answer": "Индетерминизма",
+        "isTrue": true
       },
       {
-        "answerText": "детерминизма",
-        "isRight": false
+        "answer": "детерминизма",
+        "isTrue": false
       },
       {
-        "answerText": "атомистики",
-        "isRight": false
+        "answer": "атомистики",
+        "isTrue": false
       },
       {
-        "answerText": "сенсуализма",
-        "isRight": false
+        "answer": "сенсуализма",
+        "isTrue": false
       }
     ]
   },
@@ -10674,20 +10674,20 @@ export const philosophy = [
     "num": 486,
     "answers": [
       {
-        "answerText": "развитие",
-        "isRight": true
+        "answer": "развитие",
+        "isTrue": true
       },
       {
-        "answerText": "тождество",
-        "isRight": false
+        "answer": "тождество",
+        "isTrue": false
       },
       {
-        "answerText": "относительность",
-        "isRight": false
+        "answer": "относительность",
+        "isTrue": false
       },
       {
-        "answerText": "реализм",
-        "isRight": false
+        "answer": "реализм",
+        "isTrue": false
       }
     ]
   },
@@ -10696,20 +10696,20 @@ export const philosophy = [
     "num": 487,
     "answers": [
       {
-        "answerText": "Веды",
-        "isRight": true
+        "answer": "Веды",
+        "isTrue": true
       },
       {
-        "answerText": "Дао дэ цзин",
-        "isRight": false
+        "answer": "Дао дэ цзин",
+        "isTrue": false
       },
       {
-        "answerText": "Бхагаватгита",
-        "isRight": false
+        "answer": "Бхагаватгита",
+        "isTrue": false
       },
       {
-        "answerText": "Трипитака",
-        "isRight": false
+        "answer": "Трипитака",
+        "isTrue": false
       }
     ]
   },
@@ -10718,20 +10718,20 @@ export const philosophy = [
     "num": 488,
     "answers": [
       {
-        "answerText": "Устное народное творчество",
-        "isRight": true
+        "answer": "Устное народное творчество",
+        "isTrue": true
       },
       {
-        "answerText": "Художественная литература",
-        "isRight": false
+        "answer": "Художественная литература",
+        "isTrue": false
       },
       {
-        "answerText": "Декоративнок искусство",
-        "isRight": false
+        "answer": "Декоративнок искусство",
+        "isTrue": false
       },
       {
-        "answerText": "Живопись",
-        "isRight": false
+        "answer": "Живопись",
+        "isTrue": false
       }
     ]
   },
@@ -10740,20 +10740,20 @@ export const philosophy = [
     "num": 489,
     "answers": [
       {
-        "answerText": "М. Лютер",
-        "isRight": true
+        "answer": "М. Лютер",
+        "isTrue": true
       },
       {
-        "answerText": "Н. Кузанский",
-        "isRight": false
+        "answer": "Н. Кузанский",
+        "isTrue": false
       },
       {
-        "answerText": "Н. Макиавелли",
-        "isRight": false
+        "answer": "Н. Макиавелли",
+        "isTrue": false
       },
       {
-        "answerText": "Т. Мор",
-        "isRight": false
+        "answer": "Т. Мор",
+        "isTrue": false
       }
     ]
   },
@@ -10762,20 +10762,20 @@ export const philosophy = [
     "num": 490,
     "answers": [
       {
-        "answerText": "Рост народонаселения",
-        "isRight": true
+        "answer": "Рост народонаселения",
+        "isTrue": true
       },
       {
-        "answerText": "Научно-технический процесс",
-        "isRight": false
+        "answer": "Научно-технический процесс",
+        "isTrue": false
       },
       {
-        "answerText": "Социальная революция",
-        "isRight": false
+        "answer": "Социальная революция",
+        "isTrue": false
       },
       {
-        "answerText": "Демократические выборы",
-        "isRight": false
+        "answer": "Демократические выборы",
+        "isTrue": false
       }
     ]
   },
@@ -10784,20 +10784,20 @@ export const philosophy = [
     "num": 491,
     "answers": [
       {
-        "answerText": "&laquo;Ахиллес и черепаха&raquo;",
-        "isRight": true
+        "answer": "&laquo;Ахиллес и черепаха&raquo;",
+        "isTrue": true
       },
       {
-        "answerText": "&laquo;Большая этика&raquo;",
-        "isRight": false
+        "answer": "&laquo;Большая этика&raquo;",
+        "isTrue": false
       },
       {
-        "answerText": "&laquo;Никомахова Этика&raquo;",
-        "isRight": false
+        "answer": "&laquo;Никомахова Этика&raquo;",
+        "isTrue": false
       },
       {
-        "answerText": "&laquo;Пир&raquo;",
-        "isRight": false
+        "answer": "&laquo;Пир&raquo;",
+        "isTrue": false
       }
     ]
   },
@@ -10806,20 +10806,20 @@ export const philosophy = [
     "num": 492,
     "answers": [
       {
-        "answerText": "Истины",
-        "isRight": true
+        "answer": "Истины",
+        "isTrue": true
       },
       {
-        "answerText": "Практики",
-        "isRight": false
+        "answer": "Практики",
+        "isTrue": false
       },
       {
-        "answerText": "Искусства",
-        "isRight": false
+        "answer": "Искусства",
+        "isTrue": false
       },
       {
-        "answerText": "Веры",
-        "isRight": false
+        "answer": "Веры",
+        "isTrue": false
       }
     ]
   },
@@ -10828,20 +10828,20 @@ export const philosophy = [
     "num": 493,
     "answers": [
       {
-        "answerText": "планетарного масштаба",
-        "isRight": true
+        "answer": "планетарного масштаба",
+        "isTrue": true
       },
       {
-        "answerText": "отдельного региона",
-        "isRight": false
+        "answer": "отдельного региона",
+        "isTrue": false
       },
       {
-        "answerText": "Запада",
-        "isRight": false
+        "answer": "Запада",
+        "isTrue": false
       },
       {
-        "answerText": "Востока",
-        "isRight": false
+        "answer": "Востока",
+        "isTrue": false
       }
     ]
   },
@@ -10850,20 +10850,20 @@ export const philosophy = [
     "num": 494,
     "answers": [
       {
-        "answerText": "сущность",
-        "isRight": true
+        "answer": "сущность",
+        "isTrue": true
       },
       {
-        "answerText": "потенциал",
-        "isRight": false
+        "answer": "потенциал",
+        "isTrue": false
       },
       {
-        "answerText": "плоскость",
-        "isRight": false
+        "answer": "плоскость",
+        "isTrue": false
       },
       {
-        "answerText": "интеграл",
-        "isRight": false
+        "answer": "интеграл",
+        "isTrue": false
       }
     ]
   },
@@ -10872,20 +10872,20 @@ export const philosophy = [
     "num": 495,
     "answers": [
       {
-        "answerText": "рефлексивный тип ; теоретическая, понятийная форма",
-        "isRight": true
+        "answer": "рефлексивный тип ; теоретическая, понятийная форма",
+        "isTrue": true
       },
       {
-        "answerText": "создание системы ценностей; ритуалы",
-        "isRight": false
+        "answer": "создание системы ценностей; ритуалы",
+        "isTrue": false
       },
       {
-        "answerText": "эмпирическая проверяемость",
-        "isRight": false
+        "answer": "эмпирическая проверяемость",
+        "isTrue": false
       },
       {
-        "answerText": "образно-эмоциональная форма",
-        "isRight": false
+        "answer": "образно-эмоциональная форма",
+        "isTrue": false
       }
     ]
   },
@@ -10894,20 +10894,20 @@ export const philosophy = [
     "num": 496,
     "answers": [
       {
-        "answerText": "Мироощущение",
-        "isRight": true
+        "answer": "Мироощущение",
+        "isTrue": true
       },
       {
-        "answerText": "миропонимание",
-        "isRight": false
+        "answer": "миропонимание",
+        "isTrue": false
       },
       {
-        "answerText": "логика",
-        "isRight": false
+        "answer": "логика",
+        "isTrue": false
       },
       {
-        "answerText": "онтология",
-        "isRight": false
+        "answer": "онтология",
+        "isTrue": false
       }
     ]
   },
@@ -10916,20 +10916,20 @@ export const philosophy = [
     "num": 497,
     "answers": [
       {
-        "answerText": "космос, Вселенную",
-        "isRight": true
+        "answer": "космос, Вселенную",
+        "isTrue": true
       },
       {
-        "answerText": "пространство",
-        "isRight": false
+        "answer": "пространство",
+        "isTrue": false
       },
       {
-        "answerText": "время",
-        "isRight": false
+        "answer": "время",
+        "isTrue": false
       },
       {
-        "answerText": "человека",
-        "isRight": false
+        "answer": "человека",
+        "isTrue": false
       }
     ]
   },
@@ -10938,20 +10938,20 @@ export const philosophy = [
     "num": 498,
     "answers": [
       {
-        "answerText": "Н.Кузанский , Дж.Пико делла Мирандола",
-        "isRight": true
+        "answer": "Н.Кузанский , Дж.Пико делла Мирандола",
+        "isTrue": true
       },
       {
-        "answerText": "Ф.Бэкон, Р.Декарт",
-        "isRight": false
+        "answer": "Ф.Бэкон, Р.Декарт",
+        "isTrue": false
       },
       {
-        "answerText": "И.Кант, Г.Гегель",
-        "isRight": false
+        "answer": "И.Кант, Г.Гегель",
+        "isTrue": false
       },
       {
-        "answerText": "К.Ясперс, М.Хайдеггер",
-        "isRight": false
+        "answer": "К.Ясперс, М.Хайдеггер",
+        "isTrue": false
       }
     ]
   },
@@ -10960,20 +10960,20 @@ export const philosophy = [
     "num": 499,
     "answers": [
       {
-        "answerText": "эклектика",
-        "isRight": true
+        "answer": "эклектика",
+        "isTrue": true
       },
       {
-        "answerText": "диалектика",
-        "isRight": false
+        "answer": "диалектика",
+        "isTrue": false
       },
       {
-        "answerText": "анализ",
-        "isRight": false
+        "answer": "анализ",
+        "isTrue": false
       },
       {
-        "answerText": "индукция",
-        "isRight": false
+        "answer": "индукция",
+        "isTrue": false
       }
     ]
   },
@@ -10982,20 +10982,20 @@ export const philosophy = [
     "num": 500,
     "answers": [
       {
-        "answerText": "&quot;Новый органон&quot;",
-        "isRight": true
+        "answer": "&quot;Новый органон&quot;",
+        "isTrue": true
       },
       {
-        "answerText": "&quot;Миф о Сизифе &quot;",
-        "isRight": false
+        "answer": "&quot;Миф о Сизифе &quot;",
+        "isTrue": false
       },
       {
-        "answerText": "&quot;Органон &quot;",
-        "isRight": false
+        "answer": "&quot;Органон &quot;",
+        "isTrue": false
       },
       {
-        "answerText": "&quot;Рассуждение о методе &quot;",
-        "isRight": false
+        "answer": "&quot;Рассуждение о методе &quot;",
+        "isTrue": false
       }
     ]
   },
@@ -11004,20 +11004,20 @@ export const philosophy = [
     "num": 501,
     "answers": [
       {
-        "answerText": "в переходе к новому пределу осмысления реального мира",
-        "isRight": true
+        "answer": "в переходе к новому пределу осмысления реального мира",
+        "isTrue": true
       },
       {
-        "answerText": "в непознаваемости мира",
-        "isRight": false
+        "answer": "в непознаваемости мира",
+        "isTrue": false
       },
       {
-        "answerText": "в социальной нестабильности",
-        "isRight": false
+        "answer": "в социальной нестабильности",
+        "isTrue": false
       },
       {
-        "answerText": "в слабой организации научных исследований /управление/",
-        "isRight": false
+        "answer": "в слабой организации научных исследований /управление/",
+        "isTrue": false
       }
     ]
   },
@@ -11026,20 +11026,20 @@ export const philosophy = [
     "num": 502,
     "answers": [
       {
-        "answerText": "абсолютная идея",
-        "isRight": true
+        "answer": "абсолютная идея",
+        "isTrue": true
       },
       {
-        "answerText": "материя",
-        "isRight": false
+        "answer": "материя",
+        "isTrue": false
       },
       {
-        "answerText": "пространство",
-        "isRight": false
+        "answer": "пространство",
+        "isTrue": false
       },
       {
-        "answerText": "разум человека",
-        "isRight": false
+        "answer": "разум человека",
+        "isTrue": false
       }
     ]
   },
@@ -11048,20 +11048,20 @@ export const philosophy = [
     "num": 503,
     "answers": [
       {
-        "answerText": "порядок, добродетель, человечность",
-        "isRight": true
+        "answer": "порядок, добродетель, человечность",
+        "isTrue": true
       },
       {
-        "answerText": "порядок, добродетель, бытие",
-        "isRight": false
+        "answer": "порядок, добродетель, бытие",
+        "isTrue": false
       },
       {
-        "answerText": "диалектика, мера, истина",
-        "isRight": false
+        "answer": "диалектика, мера, истина",
+        "isTrue": false
       },
       {
-        "answerText": "разум, мужество, истина",
-        "isRight": false
+        "answer": "разум, мужество, истина",
+        "isTrue": false
       }
     ]
   },
@@ -11070,20 +11070,20 @@ export const philosophy = [
     "num": 504,
     "answers": [
       {
-        "answerText": "миропонимание",
-        "isRight": true
+        "answer": "миропонимание",
+        "isTrue": true
       },
       {
-        "answerText": "мироощущение",
-        "isRight": false
+        "answer": "мироощущение",
+        "isTrue": false
       },
       {
-        "answerText": "мировосприятие",
-        "isRight": false
+        "answer": "мировосприятие",
+        "isTrue": false
       },
       {
-        "answerText": "интуиция",
-        "isRight": false
+        "answer": "интуиция",
+        "isTrue": false
       }
     ]
   },
@@ -11092,20 +11092,20 @@ export const philosophy = [
     "num": 505,
     "answers": [
       {
-        "answerText": "теория ценностей",
-        "isRight": true
+        "answer": "теория ценностей",
+        "isTrue": true
       },
       {
-        "answerText": "теория познания",
-        "isRight": false
+        "answer": "теория познания",
+        "isTrue": false
       },
       {
-        "answerText": "теория бытия",
-        "isRight": false
+        "answer": "теория бытия",
+        "isTrue": false
       },
       {
-        "answerText": "учение о практике",
-        "isRight": false
+        "answer": "учение о практике",
+        "isTrue": false
       }
     ]
   },
@@ -11114,20 +11114,20 @@ export const philosophy = [
     "num": 506,
     "answers": [
       {
-        "answerText": "форма самосознания",
-        "isRight": true
+        "answer": "форма самосознания",
+        "isTrue": true
       },
       {
-        "answerText": "теория развития",
-        "isRight": false
+        "answer": "теория развития",
+        "isTrue": false
       },
       {
-        "answerText": "форма развития",
-        "isRight": false
+        "answer": "форма развития",
+        "isTrue": false
       },
       {
-        "answerText": "форма неосознанного",
-        "isRight": false
+        "answer": "форма неосознанного",
+        "isTrue": false
       }
     ]
   },
@@ -11136,20 +11136,20 @@ export const philosophy = [
     "num": 507,
     "answers": [
       {
-        "answerText": "суждение",
-        "isRight": true
+        "answer": "суждение",
+        "isTrue": true
       },
       {
-        "answerText": "понятие",
-        "isRight": false
+        "answer": "понятие",
+        "isTrue": false
       },
       {
-        "answerText": "логика",
-        "isRight": false
+        "answer": "логика",
+        "isTrue": false
       },
       {
-        "answerText": "умозаключение",
-        "isRight": false
+        "answer": "умозаключение",
+        "isTrue": false
       }
     ]
   },
@@ -11158,20 +11158,20 @@ export const philosophy = [
     "num": 508,
     "answers": [
       {
-        "answerText": "философским течением",
-        "isRight": true
+        "answer": "философским течением",
+        "isTrue": true
       },
       {
-        "answerText": "философской системой",
-        "isRight": false
+        "answer": "философской системой",
+        "isTrue": false
       },
       {
-        "answerText": "философской школой",
-        "isRight": false
+        "answer": "философской школой",
+        "isTrue": false
       },
       {
-        "answerText": "философским миропониманием",
-        "isRight": false
+        "answer": "философским миропониманием",
+        "isTrue": false
       }
     ]
   },
@@ -11180,20 +11180,20 @@ export const philosophy = [
     "num": 509,
     "answers": [
       {
-        "answerText": "Сократ",
-        "isRight": true
+        "answer": "Сократ",
+        "isTrue": true
       },
       {
-        "answerText": "Аристотель",
-        "isRight": false
+        "answer": "Аристотель",
+        "isTrue": false
       },
       {
-        "answerText": "Демокрит",
-        "isRight": false
+        "answer": "Демокрит",
+        "isTrue": false
       },
       {
-        "answerText": "Фалес",
-        "isRight": false
+        "answer": "Фалес",
+        "isTrue": false
       }
     ]
   },
@@ -11202,20 +11202,20 @@ export const philosophy = [
     "num": 510,
     "answers": [
       {
-        "answerText": "экстраполяция",
-        "isRight": true
+        "answer": "экстраполяция",
+        "isTrue": true
       },
       {
-        "answerText": "моделирование",
-        "isRight": false
+        "answer": "моделирование",
+        "isTrue": false
       },
       {
-        "answerText": "метод сценариев",
-        "isRight": false
+        "answer": "метод сценариев",
+        "isTrue": false
       },
       {
-        "answerText": "идеализация",
-        "isRight": false
+        "answer": "идеализация",
+        "isTrue": false
       }
     ]
   },
@@ -11224,20 +11224,20 @@ export const philosophy = [
     "num": 511,
     "answers": [
       {
-        "answerText": "живую и неживую природу",
-        "isRight": true
+        "answer": "живую и неживую природу",
+        "isTrue": true
       },
       {
-        "answerText": "пространство",
-        "isRight": false
+        "answer": "пространство",
+        "isTrue": false
       },
       {
-        "answerText": "человека",
-        "isRight": false
+        "answer": "человека",
+        "isTrue": false
       },
       {
-        "answerText": "космос, Вселенную",
-        "isRight": false
+        "answer": "космос, Вселенную",
+        "isTrue": false
       }
     ]
   },
@@ -11246,20 +11246,20 @@ export const philosophy = [
     "num": 512,
     "answers": [
       {
-        "answerText": "малекулярный уровень",
-        "isRight": true
+        "answer": "малекулярный уровень",
+        "isTrue": true
       },
       {
-        "answerText": "время",
-        "isRight": false
+        "answer": "время",
+        "isTrue": false
       },
       {
-        "answerText": "человека",
-        "isRight": false
+        "answer": "человека",
+        "isTrue": false
       },
       {
-        "answerText": "космос, Вселенную",
-        "isRight": false
+        "answer": "космос, Вселенную",
+        "isTrue": false
       }
     ]
   },
@@ -11268,20 +11268,20 @@ export const philosophy = [
     "num": 513,
     "answers": [
       {
-        "answerText": "социальная философия и философия истории",
-        "isRight": true
+        "answer": "социальная философия и философия истории",
+        "isTrue": true
       },
       {
-        "answerText": "методология и философия науки",
-        "isRight": false
+        "answer": "методология и философия науки",
+        "isTrue": false
       },
       {
-        "answerText": "гносеология",
-        "isRight": false
+        "answer": "гносеология",
+        "isTrue": false
       },
       {
-        "answerText": "философская антропология",
-        "isRight": false
+        "answer": "философская антропология",
+        "isTrue": false
       }
     ]
   },
@@ -11290,20 +11290,20 @@ export const philosophy = [
     "num": 514,
     "answers": [
       {
-        "answerText": "основные факты истории объясняются географическими условиями",
-        "isRight": true
+        "answer": "основные факты истории объясняются географическими условиями",
+        "isTrue": true
       },
       {
-        "answerText": "развитие общества меняет географическую среду",
-        "isRight": false
+        "answer": "развитие общества меняет географическую среду",
+        "isTrue": false
       },
       {
-        "answerText": "в утверждении идей синергетики",
-        "isRight": false
+        "answer": "в утверждении идей синергетики",
+        "isTrue": false
       },
       {
-        "answerText": "в возрастании воздействия общества на природную среду",
-        "isRight": false
+        "answer": "в возрастании воздействия общества на природную среду",
+        "isTrue": false
       }
     ]
   },
@@ -11312,20 +11312,20 @@ export const philosophy = [
     "num": 515,
     "answers": [
       {
-        "answerText": "установки общества, социальность внутри сознания",
-        "isRight": true
+        "answer": "установки общества, социальность внутри сознания",
+        "isTrue": true
       },
       {
-        "answerText": "сферу сознания",
-        "isRight": false
+        "answer": "сферу сознания",
+        "isTrue": false
       },
       {
-        "answerText": "слой бессознательного",
-        "isRight": false
+        "answer": "слой бессознательного",
+        "isTrue": false
       },
       {
-        "answerText": "материальные объекты",
-        "isRight": false
+        "answer": "материальные объекты",
+        "isTrue": false
       }
     ]
   },
@@ -11334,20 +11334,20 @@ export const philosophy = [
     "num": 516,
     "answers": [
       {
-        "answerText": "Ньютон",
-        "isRight": true
+        "answer": "Ньютон",
+        "isTrue": true
       },
       {
-        "answerText": "Галилей",
-        "isRight": false
+        "answer": "Галилей",
+        "isTrue": false
       },
       {
-        "answerText": "Дидро",
-        "isRight": false
+        "answer": "Дидро",
+        "isTrue": false
       },
       {
-        "answerText": "Руссо",
-        "isRight": false
+        "answer": "Руссо",
+        "isTrue": false
       }
     ]
   },
@@ -11356,20 +11356,20 @@ export const philosophy = [
     "num": 517,
     "answers": [
       {
-        "answerText": "идолы театра",
-        "isRight": true
+        "answer": "идолы театра",
+        "isTrue": true
       },
       {
-        "answerText": "идолы рода",
-        "isRight": false
+        "answer": "идолы рода",
+        "isTrue": false
       },
       {
-        "answerText": "идолы общества",
-        "isRight": false
+        "answer": "идолы общества",
+        "isTrue": false
       },
       {
-        "answerText": "идолы пещеры",
-        "isRight": false
+        "answer": "идолы пещеры",
+        "isTrue": false
       }
     ]
   },
@@ -11378,20 +11378,20 @@ export const philosophy = [
     "num": 518,
     "answers": [
       {
-        "answerText": "бессознательное",
-        "isRight": true
+        "answer": "бессознательное",
+        "isTrue": true
       },
       {
-        "answerText": "рассудок",
-        "isRight": false
+        "answer": "рассудок",
+        "isTrue": false
       },
       {
-        "answerText": "мир",
-        "isRight": false
+        "answer": "мир",
+        "isTrue": false
       },
       {
-        "answerText": "разум",
-        "isRight": false
+        "answer": "разум",
+        "isTrue": false
       }
     ]
   },
@@ -11400,20 +11400,20 @@ export const philosophy = [
     "num": 519,
     "answers": [
       {
-        "answerText": "Зенон",
-        "isRight": true
+        "answer": "Зенон",
+        "isTrue": true
       },
       {
-        "answerText": "Парменид",
-        "isRight": false
+        "answer": "Парменид",
+        "isTrue": false
       },
       {
-        "answerText": "Платон",
-        "isRight": false
+        "answer": "Платон",
+        "isTrue": false
       },
       {
-        "answerText": "Пифагор",
-        "isRight": false
+        "answer": "Пифагор",
+        "isTrue": false
       }
     ]
   },
@@ -11422,20 +11422,20 @@ export const philosophy = [
     "num": 520,
     "answers": [
       {
-        "answerText": "механики",
-        "isRight": true
+        "answer": "механики",
+        "isTrue": true
       },
       {
-        "answerText": "биологии",
-        "isRight": false
+        "answer": "биологии",
+        "isTrue": false
       },
       {
-        "answerText": "формальной логики",
-        "isRight": false
+        "answer": "формальной логики",
+        "isTrue": false
       },
       {
-        "answerText": "географии",
-        "isRight": false
+        "answer": "географии",
+        "isTrue": false
       }
     ]
   },
@@ -11444,20 +11444,20 @@ export const philosophy = [
     "num": 521,
     "answers": [
       {
-        "answerText": "практический",
-        "isRight": true
+        "answer": "практический",
+        "isTrue": true
       },
       {
-        "answerText": "познавательный",
-        "isRight": false
+        "answer": "познавательный",
+        "isTrue": false
       },
       {
-        "answerText": "ценностный",
-        "isRight": false
+        "answer": "ценностный",
+        "isTrue": false
       },
       {
-        "answerText": "коммуникативный",
-        "isRight": false
+        "answer": "коммуникативный",
+        "isTrue": false
       }
     ]
   },
@@ -11466,20 +11466,20 @@ export const philosophy = [
     "num": 522,
     "answers": [
       {
-        "answerText": "взаимосвязь атрибутов",
-        "isRight": true
+        "answer": "взаимосвязь атрибутов",
+        "isTrue": true
       },
       {
-        "answerText": "независимость атрибутов",
-        "isRight": false
+        "answer": "независимость атрибутов",
+        "isTrue": false
       },
       {
-        "answerText": "относительность",
-        "isRight": false
+        "answer": "относительность",
+        "isTrue": false
       },
       {
-        "answerText": "непознаваемость атрибутов",
-        "isRight": false
+        "answer": "непознаваемость атрибутов",
+        "isTrue": false
       }
     ]
   },
@@ -11488,20 +11488,20 @@ export const philosophy = [
     "num": 523,
     "answers": [
       {
-        "answerText": "тезис",
-        "isRight": true
+        "answer": "тезис",
+        "isTrue": true
       },
       {
-        "answerText": "антитезис",
-        "isRight": false
+        "answer": "антитезис",
+        "isTrue": false
       },
       {
-        "answerText": "факт",
-        "isRight": false
+        "answer": "факт",
+        "isTrue": false
       },
       {
-        "answerText": "синтез",
-        "isRight": false
+        "answer": "синтез",
+        "isTrue": false
       }
     ]
   },
@@ -11510,20 +11510,20 @@ export const philosophy = [
     "num": 524,
     "answers": [
       {
-        "answerText": "&quot;ничего нет в интеллекте, чего не было бы раньше в чувствах &quot;",
-        "isRight": true
+        "answer": "&quot;ничего нет в интеллекте, чего не было бы раньше в чувствах &quot;",
+        "isTrue": true
       },
       {
-        "answerText": "&quot;все вещи неустойчивы&quot;",
-        "isRight": false
+        "answer": "&quot;все вещи неустойчивы&quot;",
+        "isTrue": false
       },
       {
-        "answerText": "&quot;мыслю, следовательно, существую&quot;",
-        "isRight": false
+        "answer": "&quot;мыслю, следовательно, существую&quot;",
+        "isTrue": false
       },
       {
-        "answerText": "&quot;знание -сила&quot;",
-        "isRight": false
+        "answer": "&quot;знание -сила&quot;",
+        "isTrue": false
       }
     ]
   },
@@ -11532,20 +11532,20 @@ export const philosophy = [
     "num": 525,
     "answers": [
       {
-        "answerText": "представлением",
-        "isRight": true
+        "answer": "представлением",
+        "isTrue": true
       },
       {
-        "answerText": "ощущением",
-        "isRight": false
+        "answer": "ощущением",
+        "isTrue": false
       },
       {
-        "answerText": "восприятием",
-        "isRight": false
+        "answer": "восприятием",
+        "isTrue": false
       },
       {
-        "answerText": "эмоциональным состоянием",
-        "isRight": false
+        "answer": "эмоциональным состоянием",
+        "isTrue": false
       }
     ]
   },
@@ -11554,20 +11554,20 @@ export const philosophy = [
     "num": 526,
     "answers": [
       {
-        "answerText": "парадигма",
-        "isRight": true
+        "answer": "парадигма",
+        "isTrue": true
       },
       {
-        "answerText": "эклектика",
-        "isRight": false
+        "answer": "эклектика",
+        "isTrue": false
       },
       {
-        "answerText": "интеграция знаний",
-        "isRight": false
+        "answer": "интеграция знаний",
+        "isTrue": false
       },
       {
-        "answerText": "научная картина мира",
-        "isRight": false
+        "answer": "научная картина мира",
+        "isTrue": false
       }
     ]
   },
@@ -11576,20 +11576,20 @@ export const philosophy = [
     "num": 527,
     "answers": [
       {
-        "answerText": "философскую",
-        "isRight": true
+        "answer": "философскую",
+        "isTrue": true
       },
       {
-        "answerText": "диалектическую",
-        "isRight": false
+        "answer": "диалектическую",
+        "isTrue": false
       },
       {
-        "answerText": "позитивистскую",
-        "isRight": false
+        "answer": "позитивистскую",
+        "isTrue": false
       },
       {
-        "answerText": "постпозитивистскую",
-        "isRight": false
+        "answer": "постпозитивистскую",
+        "isTrue": false
       }
     ]
   },
@@ -11598,20 +11598,20 @@ export const philosophy = [
     "num": 528,
     "answers": [
       {
-        "answerText": "идеалистом",
-        "isRight": true
+        "answer": "идеалистом",
+        "isTrue": true
       },
       {
-        "answerText": "дуалистом",
-        "isRight": false
+        "answer": "дуалистом",
+        "isTrue": false
       },
       {
-        "answerText": "сенсуалистом",
-        "isRight": false
+        "answer": "сенсуалистом",
+        "isTrue": false
       },
       {
-        "answerText": "материалистом",
-        "isRight": false
+        "answer": "материалистом",
+        "isTrue": false
       }
     ]
   },
@@ -11620,20 +11620,20 @@ export const philosophy = [
     "num": 529,
     "answers": [
       {
-        "answerText": "И.Кант",
-        "isRight": true
+        "answer": "И.Кант",
+        "isTrue": true
       },
       {
-        "answerText": "Г.Лейбниц",
-        "isRight": false
+        "answer": "Г.Лейбниц",
+        "isTrue": false
       },
       {
-        "answerText": "К.Поппер",
-        "isRight": false
+        "answer": "К.Поппер",
+        "isTrue": false
       },
       {
-        "answerText": "И.Ньютон",
-        "isRight": false
+        "answer": "И.Ньютон",
+        "isTrue": false
       }
     ]
   },
@@ -11642,20 +11642,20 @@ export const philosophy = [
     "num": 530,
     "answers": [
       {
-        "answerText": "бледное отражение мира идей",
-        "isRight": true
+        "answer": "бледное отражение мира идей",
+        "isTrue": true
       },
       {
-        "answerText": "вечный огонь",
-        "isRight": false
+        "answer": "вечный огонь",
+        "isTrue": false
       },
       {
-        "answerText": "материя",
-        "isRight": false
+        "answer": "материя",
+        "isTrue": false
       },
       {
-        "answerText": "материя и форма",
-        "isRight": false
+        "answer": "материя и форма",
+        "isTrue": false
       }
     ]
   },
@@ -11664,20 +11664,20 @@ export const philosophy = [
     "num": 531,
     "answers": [
       {
-        "answerText": "гилозоизм",
-        "isRight": true
+        "answer": "гилозоизм",
+        "isTrue": true
       },
       {
-        "answerText": "агностицизм",
-        "isRight": false
+        "answer": "агностицизм",
+        "isTrue": false
       },
       {
-        "answerText": "диалектика",
-        "isRight": false
+        "answer": "диалектика",
+        "isTrue": false
       },
       {
-        "answerText": "деизм",
-        "isRight": false
+        "answer": "деизм",
+        "isTrue": false
       }
     ]
   },
@@ -11686,20 +11686,20 @@ export const philosophy = [
     "num": 532,
     "answers": [
       {
-        "answerText": "Аристотелю",
-        "isRight": true
+        "answer": "Аристотелю",
+        "isTrue": true
       },
       {
-        "answerText": "И.Канту",
-        "isRight": false
+        "answer": "И.Канту",
+        "isTrue": false
       },
       {
-        "answerText": "Гегелю",
-        "isRight": false
+        "answer": "Гегелю",
+        "isTrue": false
       },
       {
-        "answerText": "Платону",
-        "isRight": false
+        "answer": "Платону",
+        "isTrue": false
       }
     ]
   },
@@ -11708,20 +11708,20 @@ export const philosophy = [
     "num": 533,
     "answers": [
       {
-        "answerText": "противоречие, качество, мера, отрицание",
-        "isRight": true
+        "answer": "противоречие, качество, мера, отрицание",
+        "isTrue": true
       },
       {
-        "answerText": "бытие, материя, пространство-время",
-        "isRight": false
+        "answer": "бытие, материя, пространство-время",
+        "isTrue": false
       },
       {
-        "answerText": "тезис, адресат, аргументатор",
-        "isRight": false
+        "answer": "тезис, адресат, аргументатор",
+        "isTrue": false
       },
       {
-        "answerText": "идеал, норма, оценка",
-        "isRight": false
+        "answer": "идеал, норма, оценка",
+        "isTrue": false
       }
     ]
   },
@@ -11730,20 +11730,20 @@ export const philosophy = [
     "num": 534,
     "answers": [
       {
-        "answerText": "воду",
-        "isRight": true
+        "answer": "воду",
+        "isTrue": true
       },
       {
-        "answerText": "огонь",
-        "isRight": false
+        "answer": "огонь",
+        "isTrue": false
       },
       {
-        "answerText": "воздух",
-        "isRight": false
+        "answer": "воздух",
+        "isTrue": false
       },
       {
-        "answerText": "атомы",
-        "isRight": false
+        "answer": "атомы",
+        "isTrue": false
       }
     ]
   },
@@ -11752,20 +11752,20 @@ export const philosophy = [
     "num": 535,
     "answers": [
       {
-        "answerText": "Лейбниц",
-        "isRight": true
+        "answer": "Лейбниц",
+        "isTrue": true
       },
       {
-        "answerText": "Спиноза",
-        "isRight": false
+        "answer": "Спиноза",
+        "isTrue": false
       },
       {
-        "answerText": "Декарт",
-        "isRight": false
+        "answer": "Декарт",
+        "isTrue": false
       },
       {
-        "answerText": "Аристотель",
-        "isRight": false
+        "answer": "Аристотель",
+        "isTrue": false
       }
     ]
   },
@@ -11774,20 +11774,20 @@ export const philosophy = [
     "num": 536,
     "answers": [
       {
-        "answerText": "упадок, деградацию культуры",
-        "isRight": true
+        "answer": "упадок, деградацию культуры",
+        "isTrue": true
       },
       {
-        "answerText": "синоним культуры",
-        "isRight": false
+        "answer": "синоним культуры",
+        "isTrue": false
       },
       {
-        "answerText": "прогресс культуры",
-        "isRight": false
+        "answer": "прогресс культуры",
+        "isTrue": false
       },
       {
-        "answerText": "систему ценностей",
-        "isRight": false
+        "answer": "систему ценностей",
+        "isTrue": false
       }
     ]
   },
@@ -11796,20 +11796,20 @@ export const philosophy = [
     "num": 537,
     "answers": [
       {
-        "answerText": "суждения, которые взаимоисключают друг друга",
-        "isRight": true
+        "answer": "суждения, которые взаимоисключают друг друга",
+        "isTrue": true
       },
       {
-        "answerText": "суждения, связанные друг с другом",
-        "isRight": false
+        "answer": "суждения, связанные друг с другом",
+        "isTrue": false
       },
       {
-        "answerText": "суждение, которое выводится из другого",
-        "isRight": false
+        "answer": "суждение, которое выводится из другого",
+        "isTrue": false
       },
       {
-        "answerText": "синтез суждений",
-        "isRight": false
+        "answer": "синтез суждений",
+        "isTrue": false
       }
     ]
   },
@@ -11818,20 +11818,20 @@ export const philosophy = [
     "num": 538,
     "answers": [
       {
-        "answerText": "европейского",
-        "isRight": true
+        "answer": "европейского",
+        "isTrue": true
       },
       {
-        "answerText": "восточного",
-        "isRight": false
+        "answer": "восточного",
+        "isTrue": false
       },
       {
-        "answerText": "восточного и европейского",
-        "isRight": false
+        "answer": "восточного и европейского",
+        "isTrue": false
       },
       {
-        "answerText": "средневекового",
-        "isRight": false
+        "answer": "средневекового",
+        "isTrue": false
       }
     ]
   },
@@ -11840,20 +11840,20 @@ export const philosophy = [
     "num": 539,
     "answers": [
       {
-        "answerText": "вещество, материал",
-        "isRight": true
+        "answer": "вещество, материал",
+        "isTrue": true
       },
       {
-        "answerText": "чувства",
-        "isRight": false
+        "answer": "чувства",
+        "isTrue": false
       },
       {
-        "answerText": "молекула",
-        "isRight": false
+        "answer": "молекула",
+        "isTrue": false
       },
       {
-        "answerText": "единица",
-        "isRight": false
+        "answer": "единица",
+        "isTrue": false
       }
     ]
   },
@@ -11862,20 +11862,20 @@ export const philosophy = [
     "num": 540,
     "answers": [
       {
-        "answerText": "герменевтика",
-        "isRight": true
+        "answer": "герменевтика",
+        "isTrue": true
       },
       {
-        "answerText": "эклектика",
-        "isRight": false
+        "answer": "эклектика",
+        "isTrue": false
       },
       {
-        "answerText": "прагматизм",
-        "isRight": false
+        "answer": "прагматизм",
+        "isTrue": false
       },
       {
-        "answerText": "диалектика",
-        "isRight": false
+        "answer": "диалектика",
+        "isTrue": false
       }
     ]
   },
@@ -11884,20 +11884,20 @@ export const philosophy = [
     "num": 541,
     "answers": [
       {
-        "answerText": "формализмом",
-        "isRight": true
+        "answer": "формализмом",
+        "isTrue": true
       },
       {
-        "answerText": "релятивизмом",
-        "isRight": false
+        "answer": "релятивизмом",
+        "isTrue": false
       },
       {
-        "answerText": "догматизмом",
-        "isRight": false
+        "answer": "догматизмом",
+        "isTrue": false
       },
       {
-        "answerText": "эмпиризмом",
-        "isRight": false
+        "answer": "эмпиризмом",
+        "isTrue": false
       }
     ]
   },
@@ -11906,20 +11906,20 @@ export const philosophy = [
     "num": 542,
     "answers": [
       {
-        "answerText": "сциентизм",
-        "isRight": true
+        "answer": "сциентизм",
+        "isTrue": true
       },
       {
-        "answerText": "прагматизм",
-        "isRight": false
+        "answer": "прагматизм",
+        "isTrue": false
       },
       {
-        "answerText": "антисциентизм",
-        "isRight": false
+        "answer": "антисциентизм",
+        "isTrue": false
       },
       {
-        "answerText": "экзистенциализм",
-        "isRight": false
+        "answer": "экзистенциализм",
+        "isTrue": false
       }
     ]
   },
@@ -11928,20 +11928,20 @@ export const philosophy = [
     "num": 543,
     "answers": [
       {
-        "answerText": "познавательный",
-        "isRight": true
+        "answer": "познавательный",
+        "isTrue": true
       },
       {
-        "answerText": "практический",
-        "isRight": false
+        "answer": "практический",
+        "isTrue": false
       },
       {
-        "answerText": "ценностный",
-        "isRight": false
+        "answer": "ценностный",
+        "isTrue": false
       },
       {
-        "answerText": "коммуникативный",
-        "isRight": false
+        "answer": "коммуникативный",
+        "isTrue": false
       }
     ]
   },
@@ -11950,20 +11950,20 @@ export const philosophy = [
     "num": 544,
     "answers": [
       {
-        "answerText": "ноосферы",
-        "isRight": true
+        "answer": "ноосферы",
+        "isTrue": true
       },
       {
-        "answerText": "техносферы",
-        "isRight": false
+        "answer": "техносферы",
+        "isTrue": false
       },
       {
-        "answerText": "биосферы",
-        "isRight": false
+        "answer": "биосферы",
+        "isTrue": false
       },
       {
-        "answerText": "социосферы",
-        "isRight": false
+        "answer": "социосферы",
+        "isTrue": false
       }
     ]
   }

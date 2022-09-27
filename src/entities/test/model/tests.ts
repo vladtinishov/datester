@@ -1,6 +1,7 @@
 import { defineStore } from "pinia";
 import { shuffle } from "shared/lib";
 import { history } from "./history";
+import { philosophy } from "./philosophy";
 
 export const useTests = defineStore("tests", {
   state: () => ({
@@ -19,6 +20,10 @@ export const useTests = defineStore("tests", {
         questionCount: 544,
       },
     ],
+    testsData: {
+      0: history,
+      1: philosophy
+    },
     test: {
       name: 'История КЗ',
       questions: history
@@ -26,6 +31,18 @@ export const useTests = defineStore("tests", {
     testQuestions: [] as { question: string, answers: Array<{ answer: string, isTrue: boolean }>}[],
   }),
   actions: {
+    setTest(id: number) {
+      if (id == 0) this.test = {
+        name: 'История КЗ',
+        questions: history
+      } 
+      else {
+        this.test = {
+          name: 'Философия',
+          questions: philosophy
+        } 
+      }
+    },
     openFiltersDrawer() {
       this.isFiltersDrawerOpen = true;
     },

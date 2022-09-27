@@ -5,9 +5,12 @@ import { storeToRefs } from "pinia";
 import { Card, Button, Drawer, Input } from "shared/ui";
 import { computed, onMounted, ref } from "vue";
 import axios from 'axios'
+import { useRoute } from "vue-router";
 
 const store = useTests();
+const route = useRoute();
 
+store.setTest(+route.params.id);
 store.initQuestions()
 
 const { test, testResult, testQuestions, questionIndex } = storeToRefs(store);

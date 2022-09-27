@@ -4,7 +4,7 @@ import { Test } from "./test";
 
 export const routes = [
   { path: "/", component: Main, name: 'main' },
-  { path: "/test", component: Test, name: 'test' },
+  { path: "/test/:id", component: Test, name: 'test' },
 ];
 
 export { Routing };
