@@ -1,6 +1,8 @@
 import { defineStore } from "pinia";
 import { shuffle } from "shared/lib";
 import { history } from "./history";
+import { ikt } from "./ikt";
+import { logic } from "./logic";
 import { philosophy } from "./philosophy";
 
 export const useTests = defineStore("tests", {
@@ -13,35 +15,40 @@ export const useTests = defineStore("tests", {
         id: 0,
         name: 'История КЗ',
         questionCount: 504,
+        questions: history
+      },
+      {
+        id: 1,
+        name: 'Философия',
+        questionCount: 544,
+        questions: philosophy
       },
       {
         id: 2,
-        name: 'Философия',
+        name: 'ИКТ',
         questionCount: 544,
+        questions: ikt
+      },
+      {
+        id: 3,
+        name: 'Логика',
+        questionCount: 544,
+        questions: logic
       },
     ],
-    testsData: {
-      0: history,
-      1: philosophy
-    },
     test: {
+      id: 0,
       name: 'История КЗ',
+      questionCount: 504,
       questions: history
     },
     testQuestions: [] as { question: string, answers: Array<{ answer: string, isTrue: boolean }>}[],
   }),
   actions: {
     setTest(id: number) {
-      if (id == 0) this.test = {
-        name: 'История КЗ',
-        questions: history
-      } 
-      else {
-        this.test = {
-          name: 'Философия',
-          questions: philosophy
-        } 
-      }
+      const testData = this.tests.find(t => t.id == id)
+      if (!testData) return;
+      this.test = testData
     },
     openFiltersDrawer() {
       this.isFiltersDrawerOpen = true;
